@@ -1,0 +1,2016 @@
+CustomerID,Gender,Age,Tenure,SubscriptionType,ContractType,MonthlyCharges,TotalCharges,PaymentMethod,LoginFrequency,SupportTickets,LastActiveDate,Churn
+CUST101577,Female,64,55,Premium,Month-to-month,110.04,6067.58,E-check,15,1.0,2026-06-22,No
+CUST100140,Female,74,19,Basic,Two year,20.5,376.18,E-check,17,1.0,2026-07-01,No
+CUST100110,Female,61,60,Basic,Month-to-month,19.4,1168.89,E-check,9,1.0,2026-05-22,Yes
+CUST100259,Male,33,62,Basic,Month-to-month,26.72,1671.46,Bank transfer,11,0.0,2026-07-31,No
+CUST101391,Female,27,61,Basic,One year,34.24,2064.51,Credit card,10,0.0,2026-05-19,No
+CUST101744,FEMALE,22,12,Premium,One year,100.01,1229.64,Bank transfer,12,1.0,2026-07-29,No
+CUST100514,Female,56,65,Premium,Month-to-month,88.93,5780.02,Bank transfer,11,2.0,2026-07-23,No
+CUST101517,Male,49,10,Basic,One year,26.49,293.46,Bank transfer,14,1.0,2026-07-26,No
+CUST101386,Male,18,15,Standard,Month-to-month,58.55,899.35,E-check,15,0.0,2026-07-10,No
+CUST101058,Female,41,2,Premium,Month-to-month,85.22,211.18,Credit card,12,0.0,2026-07-19,No
+CUST101921,Male,43,61,Basic,Two year,22.6,1369.9,Mailed check,8,3.0,2026-07-28,No
+CUST101736,MALE,68,38,Basic,One year,27.67,1010.44,E-check,14,1.0,2026-07-10,No
+CUST100471,Female,48,7,Standard,Month-to-month,43.78,308.15,Credit card,12,0.0,2026-07-31,Yes
+CUST101273,Male,19,32,Standard,Month-to-month,52.09,1675.99,E-check,14,2.0,2026-07-28,No
+CUST101926,Male,20,16,Premium,Two year,91.09,1472.78,Mailed check,7,2.0,2026-07-26,No
+CUST101544,Female,46,58,Standard,Month-to-month,55.01,3150.43,Bank transfer,6,0.0,2026-07-26,Yes
+CUST101089,Female,38,28,Standard,Month-to-month,48.05,1323.15,Mailed check,18,1.0,2026-07-15,Yes
+CUST101354,Female,53,39,Basic,Month-to-month,27.99,1079.04,E-check,7,3.0,2026-07-17,Yes
+CUST100358,MALE,23,29,Basic,Two year,35.6,1026.29,E-check,9,4.0,2026-06-08,No
+CUST101327,Male,39,14,Premium,Month-to-month,99.72,1381.71,Mailed check,7,0.0,2026-07-22,Yes
+CUST100196,Female,55,48,Basic,Month-to-month,41.7,1975.72,E-check,16,1.0,2026-07-21,Yes
+CUST101856,Male,39,65,Basic,Month-to-month,29.41,1919.57,Mailed check,13,3.0,2026-04-20,Yes
+CUST101691,Female,72,52,Premium,Month-to-month,94.59,4924.72,Credit card,13,0.0,2026-07-30,Yes
+CUST100610,Male,61,24,Standard,Month-to-month,54.65,1308.85,E-check,11,2.0,2026-07-04,No
+CUST100361,Male,49,41,Standard,Month-to-month,38.5,1570.48,Mailed check,9,1.0,2026-05-17,Yes
+CUST100002,Male,33,62,Basic,Two year,32.96,2037.86,Credit card,15,6.0,2026-07-25,No
+CUST100666,Female,56,2,Standard,Month-to-month,60.59,136.67,Credit card,5,1.0,2026-07-15,No
+CUST100527,Female,57,64,Basic,Month-to-month,29.71,1908.18,Credit card,10,0.0,2026-07-31,No
+CUST101117,Male,46,5,Premium,Month-to-month,88.55,454.25,E-check,11,2.0,2026-06-20,Yes
+CUST100702,Male,29,71,Standard,Month-to-month,54.84,3883.14,Credit card,9,,2026-07-10,No
+CUST100602,Female,47,20,Standard,Month-to-month,62.61,1282.14,E-check,10,2.0,2026-07-27,No
+CUST100658,Female,71,12,Basic,One year,23.06,287.98,Mailed check,16,3.0,2026-08-01,No
+CUST101917,Female,44,20,Premium,Month-to-month,81.0,1644.95,Credit card,19,1.0,2026-07-22,No
+CUST101824,Male,24,8,Basic,Month-to-month,18.77,128.72,Mailed check,21,1.0,2026-07-28,No
+CUST100762,Male,67,2,Basic,Two year,17.18,14.11,Bank transfer,6,2.0,2026-07-25,No
+CUST100374,Male,58,48,Standard,Month-to-month,52.31,2503.69,Credit card,18,1.0,2026-07-12,No
+CUST101959,Male,65,12,Standard,One year,48.76,590.41,E-check,11,1.0,2026-07-28,Yes
+CUST100672,Female,19,42,Premium,Month-to-month,79.35,3324.82,Bank transfer,9,0.0,2026-06-25,No
+CUST101037,Male,49,19,Standard,One year,42.35,787.04,Credit card,17,0.0,2026-07-03,No
+CUST100945,Male,33,50,Standard,Month-to-month,49.42,2461.85,Credit card,12,0.0,2026-07-14,No
+CUST100544,MALE,37,71,Basic,Month-to-month,34.47,2438.49,Mailed check,9,0.0,2026-07-10,No
+CUST101696,Male,69,37,Premium,One year,93.78,3486.19,Mailed check,8,2.0,2026-07-12,Yes
+CUST101669,Female,47,70,Basic,Two year,31.22,2170.17,E-check,11,1.0,2026-07-02,No
+CUST100606,Male,37,10,Basic,Month-to-month,19.87,200.69,,9,2.0,2026-04-03,Yes
+CUST100501,Male,67,13,Standard,Month-to-month,68.22,907.87,Bank transfer,18,1.0,2026-07-13,Yes
+CUST101495,Male,57,42,Standard,Month-to-month,50.01,2144.65,Mailed check,12,0.0,2026-07-27,Yes
+CUST101817,Male,49,47,Premium,Month-to-month,90.55,4262.46,Bank transfer,15,3.0,2026-07-30,No
+CUST101244,Male,52,36,Standard,Month-to-month,57.73,2073.15,Bank transfer,15,1.0,2026-07-31,Yes
+CUST100241,Male,67,24,Standard,Month-to-month,52.18,1228.7,E-check,14,2.0,2026-07-24,Yes
+CUST100876,Female,52,39,Standard,One year,53.94,2106.94,E-check,12,4.0,2026-07-19,Yes
+CUST101374,Male,46,38,Standard,One year,48.38,1857.5,E-check,7,0.0,2026-07-13,No
+CUST100694,Female,29,56,Basic,One year,37.86,2131.3,Bank transfer,9,1.0,2026-07-28,No
+CUST100284,Female,49,48,Basic,Month-to-month,23.61,1106.23,Credit card,10,0.0,2026-05-16,No
+CUST100412,Female,42,4,Premium,Month-to-month,87.79,361.55,E-check,12,1.0,2026-07-07,No
+CUST101304,Female,21,64,Premium,Two year,86.71,5560.83,Credit card,5,0.0,2026-07-12,No
+CUST101411,Female,61,22,Basic,Month-to-month,38.28,831.92,Bank transfer,13,2.0,2026-08-01,No
+CUST101981,Female,72,12,Basic,Month-to-month,19.81,224.04,Mailed check,15,1.0,2026-07-27,No
+CUST101841,Female,66,57,Standard,Month-to-month,63.84,3614.7,Bank transfer,13,1.0,2026-07-26,No
+CUST101442,Female,68,4,Premium,One year,78.82,288.41,E-check,8,1.0,2026-07-29,No
+CUST100339,Female,71,64,Basic,One year,34.72,2186.48,E-check,10,,2026-07-13,No
+CUST100363,Female,28,5,Standard,One year,44.84,202.81,E-check,9,2.0,2026-08-01,Yes
+CUST100903,Male,53,2,Standard,One year,41.03,86.69,Credit card,9,,2026-07-05,No
+CUST101011,Male,27,4,Standard,Two year,32.47,182.82,Mailed check,10,1.0,2026-07-15,No
+CUST101678,Female,41,12,Standard,Two year,53.72,636.9,Credit card,13,3.0,2026-07-25,No
+CUST100735,Male,72,46,Premium,Month-to-month,91.04,4190.83,E-check,14,2.0,2026-07-27,Yes
+CUST100386,Male,37,10,Basic,Month-to-month,31.77,308.41,E-check,11,0.0,2026-08-01,No
+CUST101508,Female,38,20,Premium,Month-to-month,100.23,2013.91,E-check,5,1.0,2026-07-20,No
+CUST101149,Male,74,49,Basic,One year,21.6,1038.79,E-check,9,2.0,2026-06-14,No
+CUST100837,Male,51,9,Standard,Month-to-month,45.54,427.79,Credit card,13,1.0,2026-07-20,Yes
+CUST101663,Male,72,39,Standard,Month-to-month,46.62,1827.21,Mailed check,16,,2026-07-22,No
+CUST100638,Female,32,2,Basic,Month-to-month,23.13,79.27,Bank transfer,14,0.0,2026-08-01,No
+CUST101170,Female,67,27,Premium,Month-to-month,100.89,2719.6,E-check,14,0.0,2026-07-27,No
+CUST101637,Male,52,9,Basic,One year,15.09,139.14,Credit card,9,0.0,2026-07-27,Yes
+CUST101445,Male,22,49,Basic,Month-to-month,29.79,1505.31,Mailed check,10,1.0,2026-07-27,Yes
+CUST101279,Female,36,64,Standard,One year,54.07,3434.79,Mailed check,11,1.0,2026-07-12,No
+CUST100299,Female,49,66,Standard,One year,61.9,4095.85,Mailed check,14,2.0,2026-07-27,No
+CUST100976,Female,71,32,Premium,Month-to-month,94.88,3053.46,Bank transfer,16,1.0,2026-07-06,No
+CUST101858,Male,50,2,Standard,Month-to-month,52.69,102.6,Credit card,12,1.0,2026-07-31,Yes
+CUST100108,Female,33,37,Premium,Two year,76.7,2846.12,E-check,8,2.0,2026-07-15,No
+CUST101471,Female,58,58,Basic,Month-to-month,34.69,2008.07,Bank transfer,16,2.0,2026-07-21,No
+CUST101582,Male,18,50,Basic,Month-to-month,35.18,1737.07,Mailed check,15,1.0,2026-07-22,No
+CUST100517,Female,56,55,Basic,Month-to-month,39.28,2178.76,Mailed check,8,2.0,2026-07-30,No
+CUST101016,Female,27,4,Basic,Month-to-month,40.41,155.83,E-check,16,0.0,2026-07-14,No
+CUST101015,Female,53,5,Basic,Two year,20.42,113.01,Mailed check,11,2.0,2026-06-24,No
+CUST101183,Female,40,17,Standard,Month-to-month,68.49,1125.61,Mailed check,13,1.0,2026-07-19,No
+CUST101229,Male,42,57,Premium,One year,106.08,6085.29,Bank transfer,9,0.0,2026-07-26,No
+CUST101972,Male,20,43,Premium,Month-to-month,82.44,3563.76,E-check,4,0.0,2026-07-28,No
+CUST101531,Female,57,63,Standard,Month-to-month,41.48,2635.79,Mailed check,12,1.0,2026-07-05,No
+CUST101605,Male,26,14,Basic,Month-to-month,21.27,346.36,Credit card,10,1.0,2026-07-24,Yes
+CUST101465,Female,20,66,Basic,Month-to-month,41.75,2764.15,E-check,9,0.0,2026-08-01,No
+CUST101497,Female,72,19,Premium,One year,85.83,1633.82,Bank transfer,17,1.0,2026-07-28,No
+CUST101330,Female,19,52,Basic,Month-to-month,36.21,1904.21,Mailed check,13,3.0,2026-07-19,No
+CUST100330,Male,53,10,Standard,Month-to-month,51.62,554.39,E-check,11,3.0,2026-07-24,No
+CUST101431,Male,57,69,Premium,Month-to-month,88.96,6164.23,Credit card,14,2.0,2026-07-26,No
+CUST100229,Male,22,0,Standard,Two year,53.45,,E-check,12,0.0,2026-05-28,Yes
+CUST100172,Male,58,21,Standard,Month-to-month,54.82,1161.97,Bank transfer,12,1.0,2026-07-26,No
+CUST100450,Female,26,46,Basic,One year,29.76,1372.71,E-check,4,0.0,2026-07-15,No
+CUST101524,Male,64,43,Premium,Month-to-month,86.33,3696.05,Credit card,15,1.0,2026-07-16,No
+CUST100127,Male,67,54,Standard,One year,57.54,3135.96,Mailed check,16,1.0,2026-07-27,No
+CUST101064,Female,59,21,Premium,One year,101.36,2117.91,E-check,20,1.0,2026-07-27,No
+CUST100037,Male,70,33,Standard,Month-to-month,57.54,1887.99,E-check,7,2.0,2026-07-09,No
+CUST100426,Male,25,32,Standard,Month-to-month,43.76,1415.38,E-check,15,3.0,2026-07-10,No
+CUST100204,Female,54,19,Basic,Month-to-month,26.13,476.88,Mailed check,13,0.0,2026-05-15,No
+CUST101249,Female,70,44,Standard,Month-to-month,50.59,2226.83,Bank transfer,9,2.0,2026-07-12,Yes
+CUST100185,Male,37,11,Basic,Month-to-month,21.44,215.2,Bank transfer,10,0.0,2026-07-24,Yes
+CUST101268,Male,46,27,Basic,One year,15.0,400.05,Mailed check,12,0.0,2026-06-24,Yes
+CUST100058,Male,41,38,Standard,Month-to-month,41.96,1622.84,E-check,10,0.0,2026-07-29,No
+CUST101506,Female,47,4,Premium,Two year,87.95,369.56,Bank transfer,17,3.0,2026-07-13,No
+CUST100862,Female,32,22,Premium,Two year,89.49,1964.16,Credit card,15,1.0,2026-07-16,No
+CUST101876,Male,38,66,Standard,Two year,64.67,4234.78,E-check,14,1.0,2026-07-27,No
+CUST101332,Male,38,29,Standard,Month-to-month,50.79,1467.02,Bank transfer,17,2.0,2026-07-16,Yes
+CUST101164,Male,69,64,Standard,Month-to-month,55.06,3521.65,E-check,9,2.0,2026-07-23,Yes
+CUST101315,Female,56,53,Standard,Month-to-month,61.46,3233.74,Bank transfer,12,1.0,2026-07-05,No
+CUST101414,Female,54,61,Basic,Two year,31.52,1931.09,Credit card,16,0.0,2026-07-31,No
+CUST100611,FEMALE,37,20,Standard,Month-to-month,52.28,1016.12,Credit card,16,1.0,2026-07-25,No
+CUST100034,Female,24,32,Basic,Month-to-month,25.86,793.58,E-check,11,0.0,2026-07-26,No
+CUST100830,Male,26,52,Standard,Month-to-month,54.45,2821.14,E-check,13,1.0,2026-07-22,No
+CUST101826,Female,59,55,Basic,One year,19.25,1072.89,Mailed check,6,4.0,2026-07-01,Yes
+CUST100360,Female,32,36,Basic,Month-to-month,31.9,1147.83,Mailed check,6,1.0,2026-04-04,No
+CUST101049,Male,35,68,Standard,Month-to-month,56.2,3789.08,Bank transfer,8,1.0,2026-07-26,No
+CUST101648,Male,63,55,Basic,Month-to-month,15.0,782.66,Credit card,7,1.0,2026-08-01,No
+CUST101899,Female,49,62,Standard,Month-to-month,65.82,4071.67,E-check,14,0.0,2026-07-04,No
+CUST100595,Female,46,28,Standard,Month-to-month,56.83,1591.33,Mailed check,11,2.0,2026-08-01,No
+CUST101278,Male,22,46,Basic,One year,44.07,2025.98,E-check,18,1.0,2026-07-24,No
+CUST100590,Male,20,55,Premium,Two year,92.97,5076.83,Mailed check,14,0.0,2026-06-28,No
+CUST100653,Male,54,52,Standard,Month-to-month,51.75,2686.85,Credit card,11,2.0,2026-07-22,No
+CUST100915,Female,40,61,Basic,Two year,15.57,955.92,Credit card,11,0.0,2026-08-01,No
+CUST100769,Male,69,27,Basic,Month-to-month,27.78,743.75,Bank transfer,11,1.0,2026-07-27,No
+CUST100452,Female,65,30,Standard,Month-to-month,46.82,1415.04,Bank transfer,17,1.0,2026-07-23,No
+CUST101816,Female,35,41,Standard,One year,55.37,2298.11,Mailed check,11,1.0,2026-07-30,No
+CUST100587,Male,49,12,Premium,Two year,89.74,1099.61,Credit card,8,2.0,2026-06-07,No
+CUST100007,Male,38,3,Standard,Two year,63.98,193.32,Credit card,10,2.0,2026-07-29,Yes
+CUST101766,Female,71,7,Standard,Month-to-month,57.39,407.37,Bank transfer,19,2.0,2026-07-26,No
+CUST100705,Male,71,3,Basic,Month-to-month,30.63,87.88,Mailed check,7,4.0,2026-07-30,Yes
+CUST101318,Female,69,64,Basic,Two year,30.97,1966.15,Mailed check,13,4.0,2026-07-18,No
+CUST101353,Female,49,63,Standard,Month-to-month,45.74,2893.23,Mailed check,11,2.0,2026-06-03,No
+CUST100020,Female,43,60,Basic,Month-to-month,29.74,1763.77,Credit card,13,5.0,2026-07-23,No
+CUST101153,FEMALE,23,32,Basic,Month-to-month,35.2,1138.36,Mailed check,16,1.0,2026-07-25,No
+CUST101190,Male,39,6,Standard,Month-to-month,51.22,294.48,Bank transfer,12,2.0,2026-07-17,Yes
+CUST101075,Male,26,65,Basic,Month-to-month,17.87,1171.85,Credit card,9,2.0,2026-07-23,No
+CUST100206,Female,28,48,Standard,Month-to-month,62.01,2957.67,Mailed check,16,1.0,2026-07-13,Yes
+CUST100816,Male,65,9,Standard,Month-to-month,63.69,602.38,E-check,10,0.0,2026-07-29,No
+CUST100415,Male,35,40,Basic,Month-to-month,25.55,1018.67,Mailed check,9,0.0,2026-07-15,No
+CUST101625,Male,72,25,Standard,Month-to-month,69.33,1742.0,Mailed check,14,,2026-07-30,No
+CUST100927,Female,21,15,Basic,Month-to-month,38.24,553.89,Credit card,14,2.0,2026-06-24,No
+CUST100720,Female,45,16,Standard,One year,42.63,676.16,Bank transfer,7,1.0,2026-06-30,No
+CUST101631,Male,64,30,Premium,Month-to-month,87.63,2663.97,E-check,9,2.0,2026-08-01,Yes
+CUST100731,Male,37,67,Standard,Month-to-month,55.1,3669.06,Credit card,8,1.0,2026-06-24,Yes
+CUST100217,Male,59,58,Basic,Month-to-month,16.3,942.06,E-check,8,2.0,2026-07-03,No
+CUST100419,Female,44,16,Basic,One year,15.0,235.87,Credit card,14,2.0,2026-06-09,No
+CUST101251,Female,25,65,Basic,One year,19.82,1288.97,Credit card,9,0.0,2026-07-14,No
+CUST100986,Female,71,64,Basic,Month-to-month,38.15,2451.22,E-check,12,1.0,2026-07-21,No
+CUST101635,Male,41,68,Premium,Month-to-month,97.19,6594.06,Mailed check,12,3.0,2026-07-26,Yes
+CUST100921,Male,32,38,Premium,Month-to-month,86.06,3300.03,Credit card,10,1.0,2026-07-26,Yes
+CUST100970,Female,73,31,Basic,Two year,22.1,696.93,Bank transfer,12,1.0,2026-07-25,No
+CUST101312,Male,69,25,Premium,Month-to-month,82.25,2068.39,Mailed check,11,1.0,2026-07-24,No
+CUST101717,Male,56,44,Standard,Two year,61.58,2753.71,E-check,12,0.0,2026-07-15,Yes
+CUST101564,Male,50,21,Basic,One year,35.07,754.8,Mailed check,10,1.0,2026-07-06,No
+CUST101846,Female,29,43,Basic,Month-to-month,24.38,1047.01,Bank transfer,10,0.0,2026-06-06,No
+CUST100797,Male,34,38,Standard,One year,66.96,2528.87,Bank transfer,14,3.0,2026-07-05,No
+CUST101260,Male,49,35,Basic,Month-to-month,27.49,960.89,Bank transfer,9,4.0,2026-07-31,No
+CUST101794,Female,59,16,Basic,One year,42.09,659.63,Mailed check,18,0.0,2026-06-20,No
+CUST100528,Female,28,16,Standard,Two year,52.84,891.05,Bank transfer,14,0.0,2026-07-10,No
+CUST101753,Male,23,29,Basic,One year,15.28,428.29,E-check,15,1.0,2026-06-18,No
+CUST100051,Female,52,32,Standard,Month-to-month,39.59,1226.25,Mailed check,6,1.0,2026-07-30,No
+CUST100036,Female,32,51,Basic,One year,22.34,1167.88,Mailed check,14,2.0,2026-07-25,No
+CUST101046,Male,52,65,Basic,One year,18.77,1260.15,E-check,20,0.0,2026-06-23,Yes
+CUST101280,Female,51,28,Basic,Month-to-month,38.33,1053.22,Bank transfer,8,0.0,2026-05-28,No
+CUST101483,Male,30,57,Standard,Month-to-month,74.46,4226.85,E-check,19,1.0,2026-07-26,No
+CUST100562,Male,40,33,Basic,Month-to-month,15.86,496.05,E-check,6,0.0,2026-06-27,No
+CUST100396,Female,38,18,Basic,Month-to-month,20.04,340.97,Credit card,7,2.0,2026-07-11,No
+CUST101647,Female,55,52,Standard,One year,56.89,2924.82,Mailed check,13,0.0,2026-07-08,No
+CUST101125,Female,74,24,Standard,Month-to-month,44.23,1080.82,Bank transfer,10,3.0,2026-07-17,No
+CUST100751,Male,60,14,Premium,One year,84.96,1185.14,Credit card,17,4.0,2026-07-03,No
+CUST101138,Female,40,38,Premium,One year,75.51,2864.51,E-check,6,1.0,2026-07-29,No
+CUST101317,Female,54,55,Basic,Two year,28.69,1557.71,,16,1.0,2026-07-25,No
+CUST100350,Female,53,26,Standard,Two year,68.39,1793.63,Bank transfer,9,0.0,2026-07-15,No
+CUST101025,Female,51,68,Premium,Month-to-month,89.86,6118.15,E-check,12,0.0,2026-07-25,No
+CUST101904,Male,21,55,Premium,Month-to-month,78.3,4328.37,Bank transfer,9,0.0,2026-07-23,Yes
+CUST100525,Male,61,52,Premium,Month-to-month,89.21,4617.12,Bank transfer,14,0.0,2026-06-18,No
+CUST100820,Male,45,33,Basic,One year,15.0,494.23,Bank transfer,13,0.0,2026-07-31,No
+CUST100441,Female,32,44,Standard,Month-to-month,65.45,2921.6,Mailed check,8,0.0,2026-07-20,No
+CUST100146,Male,60,67,Basic,Month-to-month,28.29,1852.65,E-check,11,1.0,2026-07-16,No
+CUST101618,Female,70,9,Standard,One year,51.8,432.95,Mailed check,12,0.0,2026-07-16,No
+CUST100946,Male,59,35,Basic,Month-to-month,21.78,746.79,Mailed check,5,2.0,2026-08-01,Yes
+CUST100863,Female,38,14,Basic,Month-to-month,15.0,226.27,Bank transfer,20,0.0,2026-06-03,Yes
+CUST100237,Female,45,32,Basic,Month-to-month,18.8,630.89,Credit card,17,0.0,2026-07-31,No
+CUST101872,Male,23,17,Standard,Month-to-month,56.06,947.4,Mailed check,11,2.0,2026-07-09,No
+CUST100561,Male,29,30,Basic,One year,17.84,566.96,Credit card,12,0.0,2026-07-06,No
+CUST100669,Male,42,53,Premium,Month-to-month,98.93,5270.19,Bank transfer,19,3.0,2026-07-09,Yes
+CUST100928,Female,38,58,Premium,Month-to-month,94.07,5452.26,E-check,11,1.0,2026-05-29,No
+CUST101715,Female,31,3,Basic,Month-to-month,23.76,86.68,Credit card,9,2.0,2026-07-28,No
+CUST101640,Female,55,43,Standard,Month-to-month,60.65,2583.13,Bank transfer,15,4.0,2026-07-20,No
+CUST100754,Female,67,45,Premium,Month-to-month,96.45,4337.13,Credit card,12,0.0,2026-07-19,Yes
+CUST101968,Male,24,19,Standard,Month-to-month,44.78,838.14,Bank transfer,9,4.0,2026-07-23,Yes
+CUST101323,Female,39,18,Premium,Two year,96.49,1752.35,Mailed check,15,2.0,2026-06-21,No
+CUST101446,Female,47,47,Basic,One year,15.0,703.8,Mailed check,11,2.0,2026-07-23,No
+CUST100500,Male,49,2,Basic,Month-to-month,28.18,63.37,Bank transfer,15,0.0,2026-05-22,Yes
+CUST100438,Male,20,34,Standard,Month-to-month,61.46,2088.57,E-check,18,0.0,2026-06-02,No
+CUST101934,Male,56,14,Basic,Month-to-month,20.5,251.96,Credit card,13,0.0,2026-07-27,No
+CUST100663,Female,42,9,Standard,Month-to-month,68.38,620.0,Credit card,11,0.0,2026-07-17,Yes
+CUST101976,Male,57,70,Basic,Month-to-month,23.54,1597.25,E-check,10,0.0,2026-06-27,No
+CUST100725,Male,37,24,Premium,Month-to-month,95.7,2282.45,Bank transfer,9,1.0,2026-07-10,No
+CUST101287,Female,73,48,Basic,Month-to-month,15.0,711.88,Bank transfer,8,0.0,2026-07-19,No
+CUST100262,Male,50,50,Premium,Two year,106.84,5327.19,Credit card,12,1.0,2026-07-11,No
+CUST100141,Male,41,66,Standard,Two year,55.46,3681.66,Bank transfer,10,3.0,2026-05-21,No
+CUST100351,Male,52,45,Basic,One year,25.28,1151.78,Mailed check,15,1.0,2026-07-27,No
+CUST100367,Female,63,58,Standard,One year,62.16,3583.1,Mailed check,14,1.0,2026-07-01,No
+CUST101861,Female,51,61,Premium,One year,87.94,5371.95,E-check,9,3.0,2026-07-30,No
+CUST100311,Male,52,38,Standard,One year,50.23,1911.45,Mailed check,8,0.0,2026-07-27,No
+CUST101127,Female,33,14,Basic,Month-to-month,15.0,227.59,Mailed check,16,1.0,2026-07-18,No
+CUST101985,Female,65,36,Standard,Month-to-month,55.92,2028.01,E-check,18,0.0,2026-06-28,Yes
+CUST100454,Male,39,42,Basic,One year,33.38,1422.01,Bank transfer,11,2.0,2026-06-28,No
+CUST101293,MALE,52,16,Standard,Month-to-month,48.73,798.79,Credit card,13,1.0,2026-07-28,Yes
+CUST101683,Male,70,3,Premium,Month-to-month,80.85,257.11,Mailed check,7,,2026-07-09,Yes
+CUST101634,Male,27,61,Standard,Two year,69.72,4247.22,Mailed check,14,1.0,2026-07-04,No
+CUST101172,Male,19,36,Basic,Month-to-month,30.46,1099.39,E-check,8,0.0,2026-06-26,Yes
+CUST100341,Female,39,3,Premium,Month-to-month,77.78,214.15,Credit card,10,0.0,2026-06-14,Yes
+CUST100683,Female,64,58,Basic,Month-to-month,31.07,1809.11,Credit card,17,2.0,2026-07-24,No
+CUST100961,Male,27,2,Basic,Month-to-month,26.06,22.71,Mailed check,9,1.0,2026-07-24,No
+CUST101791,Female,33,65,Standard,Two year,55.76,3642.43,Credit card,6,1.0,2026-07-02,No
+CUST100855,Male,24,46,Standard,Two year,78.89,3635.59,E-check,22,0.0,2026-07-29,No
+CUST101417,Male,25,37,Standard,Month-to-month,53.62,2018.72,E-check,10,1.0,2026-07-04,No
+CUST100179,Male,71,71,Basic,Month-to-month,15.0,1027.29,Bank transfer,10,1.0,2026-06-25,No
+CUST100977,Female,18,13,Premium,Two year,79.45,1016.46,E-check,17,2.0,2026-07-20,No
+CUST100806,Female,42,41,Basic,Month-to-month,32.81,1332.87,Bank transfer,15,0.0,2026-07-20,Yes
+CUST100397,Female,64,36,Basic,Two year,17.95,614.83,Credit card,7,0.0,2026-07-17,No
+CUST101313,MALE,53,15,Basic,Two year,25.19,356.38,Credit card,12,2.0,2026-07-13,Yes
+CUST100340,Male,18,30,Standard,One year,55.53,1698.75,Credit card,8,0.0,2026-07-14,No
+CUST100596,Male,71,32,Basic,Month-to-month,23.0,727.0,Credit card,14,2.0,2026-07-30,No
+CUST101133,Male,37,42,Basic,Month-to-month,26.29,1089.09,Mailed check,18,0.0,2026-07-23,No
+CUST101949,Male,45,4,Premium,Month-to-month,97.78,395.63,Mailed check,13,3.0,2026-07-29,Yes
+CUST100479,Female,58,24,Basic,Month-to-month,32.15,732.06,E-check,6,2.0,2026-07-23,Yes
+CUST100804,Female,44,41,Basic,Month-to-month,33.39,1380.82,E-check,12,0.0,2026-06-17,Yes
+CUST100729,Female,26,52,Basic,Two year,15.0,778.8,E-check,16,2.0,2026-05-26,No
+CUST101027,Male,72,46,Standard,Two year,55.56,2546.87,Mailed check,13,1.0,2026-07-31,Yes
+CUST100071,Female,56,62,Premium,One year,87.94,5476.53,Bank transfer,8,1.0,2026-06-24,No
+CUST101169,Male,40,59,Basic,Two year,24.79,1469.31,Credit card,13,4.0,2026-07-25,No
+CUST101733,Female,23,58,Standard,Month-to-month,46.54,2693.17,Credit card,14,1.0,2026-07-30,Yes
+CUST101723,Female,69,0,Basic,Month-to-month,31.36,,E-check,11,0.0,2026-07-22,No
+CUST100308,Female,51,56,Standard,Month-to-month,45.82,2569.79,Bank transfer,11,1.0,2026-08-01,Yes
+CUST100571,Male,53,5,Premium,Month-to-month,85.28,445.82,E-check,5,0.0,2026-07-23,No
+CUST101888,Male,56,58,Premium,One year,93.03,5416.4,Bank transfer,14,1.0,2026-07-31,No
+CUST100298,Male,19,31,Basic,Month-to-month,24.82,780.88,Mailed check,11,1.0,2026-07-26,Yes
+CUST100200,Male,42,45,Basic,Two year,24.28,1089.85,Credit card,8,1.0,2026-07-09,No
+CUST101905,Female,63,33,Basic,Month-to-month,28.45,953.97,Bank transfer,7,0.0,2026-07-17,No
+CUST101509,Female,61,11,Basic,One year,20.28,199.99,Mailed check,9,0.0,2026-07-07,No
+CUST101122,Male,33,53,Basic,One year,30.83,1640.52,Credit card,10,1.0,2026-07-30,No
+CUST101741,Female,63,16,Premium,Month-to-month,88.2,1407.95,Mailed check,15,0.0,2026-07-09,No
+CUST101334,Female,55,17,Standard,One year,55.59,942.44,Mailed check,15,3.0,2026-07-30,Yes
+CUST100504,Male,50,33,Standard,One year,48.04,1592.76,Credit card,11,1.0,2026-07-17,No
+CUST100779,Male,25,10,Standard,One year,54.71,526.31,Bank transfer,12,0.0,2026-08-01,No
+CUST100620,Female,51,17,Standard,Month-to-month,74.51,1295.1,Credit card,12,0.0,2026-06-07,Yes
+CUST101600,Female,44,19,Basic,Month-to-month,32.61,607.39,Credit card,9,3.0,2026-07-18,Yes
+CUST101139,Male,45,22,Standard,One year,46.96,1020.49,E-check,13,0.0,2026-07-31,Yes
+CUST101020,Male,22,58,Standard,Month-to-month,36.29,2107.99,Bank transfer,18,2.0,2026-07-24,No
+CUST100116,Male,56,32,Basic,One year,26.4,862.59,Mailed check,11,0.0,2026-07-17,No
+CUST101671,Male,36,17,Premium,One year,72.2,1224.51,Mailed check,15,1.0,2026-07-18,No
+CUST101779,Female,59,22,Basic,Month-to-month,16.8,367.65,E-check,12,2.0,2026-03-29,No
+CUST100004,Male,36,29,Premium,Month-to-month,98.91,2864.01,Mailed check,7,1.0,2026-07-24,No
+CUST100651,Female,19,53,Basic,Two year,35.38,1874.54,Credit card,13,0.0,2026-07-23,No
+CUST100046,Female,35,16,Standard,One year,49.42,760.32,Mailed check,10,2.0,2026-07-25,No
+CUST100328,Female,37,34,Basic,Month-to-month,15.0,532.44,Bank transfer,12,1.0,2026-07-17,No
+CUST100278,Male,74,11,Standard,Two year,58.84,640.61,,8,0.0,2026-07-05,No
+CUST100455,Male,71,66,Standard,Month-to-month,47.43,3122.1,Bank transfer,13,0.0,2026-07-12,No
+CUST100447,Female,61,58,Basic,Month-to-month,34.35,1994.73,Mailed check,7,0.0,2026-07-04,No
+CUST101435,Female,28,0,Basic,Month-to-month,15.0,,Credit card,12,0.0,2026-07-19,No
+CUST101488,MALE,49,67,Basic,Two year,31.23,2070.56,Bank transfer,13,2.0,2026-07-26,No
+CUST101610,Male,43,39,Standard,Month-to-month,52.15,2023.28,Mailed check,11,1.0,2026-08-01,No
+CUST100744,Male,31,4,Standard,Month-to-month,46.99,182.59,Mailed check,15,1.0,2026-07-26,Yes
+CUST101077,Male,50,52,Basic,One year,23.82,1239.49,Mailed check,13,2.0,2026-07-30,No
+CUST100572,Male,62,68,Premium,Month-to-month,78.08,5294.93,E-check,17,1.0,2026-08-01,No
+CUST100474,Male,28,29,Standard,Two year,65.31,1905.63,Mailed check,17,2.0,2026-07-21,No
+CUST100194,Male,49,47,Standard,Month-to-month,74.41,3479.39,Bank transfer,11,1.0,2026-07-29,Yes
+CUST101796,Male,30,18,Basic,Two year,25.31,419.25,Mailed check,11,1.0,2026-07-29,Yes
+CUST100789,Male,72,42,Basic,Month-to-month,18.32,785.48,Bank transfer,13,0.0,2026-06-26,Yes
+CUST101520,Female,56,26,Premium,One year,88.11,2316.31,Credit card,19,0.0,2026-07-31,No
+CUST101907,Male,39,51,Premium,Month-to-month,75.16,3849.43,Credit card,19,0.0,2026-07-29,Yes
+CUST100375,Female,56,12,Premium,One year,102.18,1215.91,Mailed check,15,1.0,2026-06-08,No
+CUST100737,Male,23,53,Basic,Month-to-month,39.39,2054.07,E-check,9,1.0,2026-07-13,No
+CUST101793,Male,48,27,Premium,Month-to-month,91.27,2447.53,Bank transfer,16,2.0,2026-07-17,No
+CUST100392,Female,61,10,Standard,Month-to-month,56.69,561.54,E-check,12,1.0,2026-07-21,Yes
+CUST100869,Female,49,67,Basic,Month-to-month,30.04,2013.62,E-check,5,2.0,2026-06-23,No
+CUST100431,Female,69,63,Basic,One year,31.26,1973.19,Bank transfer,8,1.0,2026-07-22,No
+CUST100325,Female,46,28,Standard,Month-to-month,57.23,1599.04,E-check,13,3.0,2026-07-12,No
+CUST100410,Male,52,20,Basic,Month-to-month,30.04,569.09,Credit card,13,1.0,2026-07-16,No
+CUST100868,Male,66,27,Premium,Month-to-month,74.84,2019.5,E-check,9,0.0,2026-07-23,No
+CUST100109,Male,73,52,Basic,Month-to-month,29.96,1538.45,E-check,7,3.0,2026-07-05,No
+CUST100800,Male,64,8,Basic,Month-to-month,30.77,247.78,Credit card,18,0.0,2026-07-16,Yes
+CUST101586,Male,18,19,Premium,One year,91.21,1722.53,E-check,4,4.0,2026-07-11,No
+CUST100860,Female,29,20,Basic,Month-to-month,24.29,501.9,Bank transfer,12,0.0,2026-07-15,Yes
+CUST100470,Male,64,18,Standard,Month-to-month,49.49,902.71,E-check,15,2.0,2026-07-07,No
+CUST101701,Female,74,5,Premium,Month-to-month,76.35,329.75,Bank transfer,11,0.0,2026-07-22,Yes
+CUST101539,Male,39,13,Basic,Month-to-month,24.32,325.32,Mailed check,13,2.0,2026-06-08,No
+CUST101808,Female,38,51,Standard,Two year,60.86,3109.68,Mailed check,10,1.0,2026-07-02,No
+CUST100095,Female,35,21,Basic,Month-to-month,16.14,361.29,Mailed check,9,1.0,2026-07-23,No
+CUST100593,Female,68,16,Standard,One year,61.46,956.47,E-check,10,1.0,2026-07-30,No
+CUST100861,Male,24,3,Basic,One year,19.49,35.76,Bank transfer,7,1.0,2026-05-16,No
+CUST100019,Male,32,4,Standard,One year,55.62,198.7,Credit card,7,0.0,2026-06-30,No
+CUST101555,Male,32,36,Basic,Month-to-month,26.03,924.91,Bank transfer,10,1.0,2026-07-31,No
+CUST101038,Male,28,28,Basic,Month-to-month,20.75,557.54,Credit card,14,2.0,2026-07-16,No
+CUST101867,Male,66,20,Premium,Month-to-month,86.35,1712.22,,12,0.0,2026-07-20,Yes
+CUST101897,Male,68,38,Premium,Two year,96.35,3674.1,Credit card,9,1.0,2026-07-17,No
+CUST101266,Male,37,18,Premium,Month-to-month,98.22,1749.42,,12,,2026-07-23,No
+CUST100353,Female,29,50,Basic,Month-to-month,20.19,992.84,Credit card,11,2.0,2026-07-15,No
+CUST101832,Female,54,23,Premium,Month-to-month,103.69,2413.41,E-check,12,0.0,2026-07-21,Yes
+CUST100372,Female,52,68,Standard,Month-to-month,59.77,4046.5,Credit card,11,2.0,2026-07-23,Yes
+CUST101775,Female,38,42,Standard,One year,52.58,2218.58,Credit card,7,0.0,2026-07-30,No
+CUST100222,Female,22,12,Basic,Two year,16.03,191.96,Mailed check,13,2.0,2026-06-21,No
+CUST101295,Female,26,12,Premium,Two year,83.15,1029.17,Credit card,10,0.0,2026-07-28,No
+CUST101210,Male,23,67,Basic,Two year,21.21,1405.01,E-check,9,1.0,2026-06-15,No
+CUST101047,Male,24,5,Standard,One year,52.24,257.05,Credit card,14,3.0,2026-08-01,Yes
+CUST100698,Female,22,6,Standard,One year,63.11,387.23,E-check,13,0.0,2026-07-12,No
+CUST100111,Male,64,35,Standard,Month-to-month,53.21,1873.69,Credit card,11,0.0,2026-06-20,Yes
+CUST101862,Male,45,37,Premium,Month-to-month,82.41,3013.11,E-check,13,4.0,2026-06-29,Yes
+CUST101697,MALE,66,71,Premium,Two year,91.74,6503.99,E-check,14,0.0,2026-07-26,No
+CUST101042,Male,30,7,Premium,One year,94.91,639.51,Credit card,11,0.0,2026-06-22,No
+CUST101124,Female,47,34,Basic,Month-to-month,26.84,937.41,Credit card,15,0.0,2026-08-01,Yes
+CUST100313,Male,23,55,Standard,One year,46.41,2557.05,Bank transfer,17,0.0,2026-05-26,No
+CUST100287,Male,47,23,Basic,Month-to-month,22.36,502.68,E-check,7,3.0,2026-07-05,No
+CUST100795,Male,67,64,Basic,One year,18.42,1166.67,Credit card,11,1.0,2026-07-06,Yes
+CUST101084,Female,19,47,Basic,Month-to-month,34.2,1606.16,E-check,22,3.0,2026-07-03,No
+CUST100507,Male,30,15,Basic,Month-to-month,31.3,503.97,Bank transfer,12,1.0,2026-07-17,No
+CUST101195,Male,69,54,Standard,One year,51.21,2735.39,E-check,12,4.0,2026-07-25,No
+CUST100430,Male,67,26,Premium,Month-to-month,99.3,2568.69,Mailed check,6,1.0,2026-07-28,No
+CUST100742,Female,66,45,Standard,Month-to-month,60.45,2670.8,Bank transfer,11,1.0,2026-07-30,Yes
+CUST101286,Female,48,47,Basic,Month-to-month,15.0,701.89,Bank transfer,12,1.0,2026-06-23,No
+CUST101773,Female,42,61,Basic,One year,35.56,2183.58,Credit card,14,1.0,2026-07-25,No
+CUST100269,Male,70,69,Basic,One year,30.22,2095.07,Mailed check,12,0.0,2026-07-19,No
+CUST100681,Male,62,52,Premium,Month-to-month,85.74,4433.91,Bank transfer,11,2.0,2026-07-27,No
+CUST101389,Male,46,63,Basic,Month-to-month,27.5,1757.51,Bank transfer,7,3.0,2026-07-16,Yes
+CUST100017,Female,42,33,Standard,Two year,59.22,1940.3,Bank transfer,18,1.0,2026-07-25,No
+CUST100603,Female,38,12,Basic,Month-to-month,15.0,178.45,Credit card,16,1.0,2026-06-28,No
+CUST101815,Male,32,0,Standard,Month-to-month,56.91,,E-check,14,2.0,2026-07-20,No
+CUST100578,Female,49,64,Standard,Month-to-month,52.94,3427.77,Mailed check,8,3.0,2026-08-01,No
+CUST100492,Male,33,62,Basic,Two year,28.94,1811.66,,9,1.0,2026-07-13,No
+CUST101377,Male,38,43,Standard,One year,44.03,1855.21,Mailed check,10,0.0,2026-06-29,No
+CUST101809,Female,21,57,Basic,Month-to-month,20.89,1164.34,E-check,16,1.0,2026-07-05,No
+CUST100845,Male,35,67,Premium,Month-to-month,85.91,5739.05,Credit card,8,4.0,2026-06-25,Yes
+CUST101752,Female,53,51,Basic,Two year,20.75,1038.77,Mailed check,13,2.0,2026-06-17,Yes
+CUST101128,Female,29,3,Standard,Month-to-month,54.59,203.77,Bank transfer,16,2.0,2026-07-16,No
+CUST100054,Male,56,65,Standard,One year,53.4,3464.82,E-check,10,1.0,2026-07-29,No
+CUST100263,Male,65,9,Premium,One year,80.32,715.17,Mailed check,15,,2026-07-06,Yes
+CUST100101,Female,69,27,Basic,Two year,26.6,717.99,E-check,9,4.0,2026-06-09,No
+CUST100275,Female,22,39,Standard,One year,38.96,1529.22,Mailed check,14,2.0,2026-07-31,No
+CUST101866,Female,39,24,Premium,One year,103.42,2490.05,Credit card,10,1.0,2026-07-29,Yes
+CUST101302,Male,50,48,Premium,One year,94.41,4490.54,Credit card,12,0.0,2026-07-14,No
+CUST100249,Male,57,67,Basic,Month-to-month,23.22,1528.94,Mailed check,17,2.0,2026-07-26,No
+CUST100833,Female,48,0,Standard,Two year,57.97,3.13,Bank transfer,8,1.0,2026-07-31,No
+CUST101929,Male,50,5,Basic,Month-to-month,28.81,147.25,Credit card,13,1.0,2026-07-01,No
+CUST101805,Male,35,35,Standard,One year,51.2,1791.58,Credit card,9,3.0,2026-07-03,Yes
+CUST101360,Female,69,29,Standard,Two year,45.68,1383.06,E-check,8,1.0,2026-07-22,Yes
+CUST100344,Male,35,29,Standard,One year,59.95,1731.0,Mailed check,7,1.0,2026-07-29,No
+CUST100640,Female,52,69,Standard,Month-to-month,48.01,3307.33,E-check,5,1.0,2026-07-27,No
+CUST100377,Male,72,52,Basic,Two year,36.99,1943.39,E-check,11,3.0,2026-06-24,No
+CUST101405,Female,40,9,Premium,Month-to-month,92.6,808.9,E-check,10,3.0,2026-08-01,Yes
+CUST100423,Male,34,51,Premium,Month-to-month,85.86,4393.72,Credit card,12,1.0,2026-06-23,No
+CUST100060,Male,61,19,Premium,Month-to-month,74.73,1391.53,Bank transfer,11,2.0,2026-08-01,Yes
+CUST101920,Male,45,7,Basic,Month-to-month,22.82,171.01,,11,1.0,2026-07-31,No
+CUST100756,Female,74,5,Standard,One year,54.77,243.02,Mailed check,7,2.0,2026-07-28,No
+CUST100984,Female,72,48,Standard,Month-to-month,61.4,2928.7,E-check,6,1.0,2026-07-26,No
+CUST100210,Male,45,8,Basic,One year,23.29,207.49,E-check,12,1.0,2026-07-20,Yes
+CUST100281,Female,40,54,Standard,Month-to-month,60.66,3274.25,Mailed check,12,0.0,2026-07-30,Yes
+CUST101665,Female,21,62,Basic,One year,23.91,1474.83,E-check,18,1.0,2026-06-26,No
+CUST100649,Male,31,56,Basic,One year,15.0,835.63,Credit card,9,2.0,2026-07-25,No
+CUST101120,Female,74,16,Standard,Month-to-month,40.5,634.79,Credit card,22,4.0,2026-05-10,No
+CUST101624,Female,48,35,Basic,Two year,29.04,1026.15,E-check,14,1.0,2026-06-08,No
+CUST101236,Male,31,21,Standard,Month-to-month,58.64,1239.97,Credit card,12,1.0,2026-07-28,No
+CUST100983,Male,30,5,Basic,Month-to-month,25.44,155.46,Credit card,12,0.0,2026-07-28,No
+CUST101192,Male,32,53,Basic,Month-to-month,38.84,2052.46,Credit card,14,3.0,2026-06-13,No
+CUST100899,Male,65,39,Basic,Month-to-month,30.94,1217.47,Bank transfer,9,0.0,2026-07-29,No
+CUST100324,Female,54,18,Standard,Two year,71.69,1291.33,E-check,12,3.0,2026-07-29,Yes
+CUST101106,Male,52,67,Standard,Month-to-month,55.58,3743.53,Mailed check,14,1.0,2026-04-12,No
+CUST101698,Male,45,71,Standard,One year,47.98,3386.47,Credit card,7,0.0,2026-06-30,Yes
+CUST100028,Female,24,46,Basic,Month-to-month,42.95,1983.02,Mailed check,10,2.0,2026-07-04,No
+CUST100832,Male,30,64,Standard,Two year,61.27,3912.18,Mailed check,13,3.0,2026-07-23,No
+CUST101028,Male,38,38,Standard,Month-to-month,57.74,2169.47,E-check,12,0.0,2026-04-26,No
+CUST101484,Male,70,2,Premium,Month-to-month,85.26,139.86,E-check,21,1.0,2026-08-01,Yes
+CUST101002,Male,43,71,Basic,Month-to-month,20.86,1470.27,E-check,13,1.0,2026-06-27,Yes
+CUST101789,Female,27,48,Premium,One year,78.26,3761.85,Mailed check,15,0.0,2026-07-22,No
+CUST100224,Female,51,10,Standard,Month-to-month,44.72,482.37,Bank transfer,12,1.0,2026-07-22,No
+CUST101842,Female,36,26,Basic,One year,24.16,611.05,Mailed check,8,2.0,2026-07-21,No
+CUST101182,Female,69,36,Basic,One year,25.29,916.13,Mailed check,10,2.0,2026-07-11,Yes
+CUST100838,Female,55,58,Premium,Month-to-month,90.7,5241.46,E-check,16,2.0,2026-06-26,No
+CUST101409,Female,22,49,Basic,One year,15.0,738.87,E-check,8,1.0,2026-07-12,No
+CUST100933,Male,31,33,Standard,Month-to-month,54.31,1784.5,Mailed check,12,,2026-07-30,No
+CUST100872,Female,61,0,Standard,Month-to-month,52.34,0.0,E-check,9,2.0,2026-07-18,Yes
+CUST101481,Male,19,31,Standard,Month-to-month,37.45,1153.07,Mailed check,11,0.0,2026-07-25,No
+CUST101102,Female,61,24,Premium,Two year,88.62,2130.31,Mailed check,9,0.0,2026-07-31,No
+CUST101965,Male,23,34,Basic,Two year,23.99,812.06,Mailed check,12,1.0,2026-07-24,No
+CUST100619,Male,70,46,Standard,Month-to-month,60.36,2790.56,Bank transfer,6,0.0,2026-07-26,No
+CUST101466,Female,66,34,Basic,Month-to-month,17.23,567.91,Bank transfer,16,2.0,2026-07-16,No
+CUST101094,Female,20,52,Standard,Month-to-month,73.59,3801.55,Mailed check,12,1.0,2026-07-30,No
+CUST100151,Male,41,46,Basic,One year,23.09,1071.83,E-check,7,1.0,2026-07-01,No
+CUST100215,Male,51,20,Basic,Month-to-month,25.68,505.34,Mailed check,15,2.0,2026-07-28,No
+CUST100098,Female,52,2,Standard,One year,44.88,116.24,Bank transfer,8,1.0,2026-07-15,No
+CUST100768,Female,62,10,Basic,Two year,19.91,190.18,E-check,11,1.0,2026-05-12,Yes
+CUST101499,Male,42,23,Basic,Month-to-month,23.58,548.13,Bank transfer,13,3.0,2026-07-11,No
+CUST101764,Male,23,11,Basic,One year,21.04,227.69,Credit card,15,0.0,2026-07-24,No
+CUST100810,Male,18,47,Basic,Month-to-month,32.48,1534.5,Mailed check,13,0.0,2026-07-12,No
+CUST101480,Male,57,48,Basic,Month-to-month,22.9,1111.32,E-check,12,1.0,2026-07-16,No
+CUST100012,Male,33,24,Standard,Month-to-month,51.68,1252.21,E-check,21,1.0,2026-07-18,No
+CUST101594,Female,42,18,Standard,Month-to-month,64.17,1135.65,Mailed check,8,1.0,2026-07-23,No
+CUST101397,Male,72,53,Premium,One year,110.33,5833.86,Mailed check,13,1.0,2026-07-24,No
+CUST100167,Male,27,3,Premium,Two year,99.29,296.94,Mailed check,11,0.0,2026-08-01,Yes
+CUST100643,Male,53,27,Premium,Month-to-month,81.03,2174.65,Credit card,16,1.0,2026-07-30,Yes
+CUST101098,Female,39,47,Basic,Month-to-month,15.0,676.64,E-check,12,1.0,2026-07-30,No
+CUST100188,Male,52,7,Premium,Month-to-month,91.61,630.15,Credit card,14,0.0,2026-07-24,Yes
+CUST101088,Female,49,1,Standard,Month-to-month,42.07,33.43,Mailed check,14,3.0,2026-05-24,Yes
+CUST100043,Female,67,22,Premium,Month-to-month,85.94,1919.77,E-check,14,1.0,2026-06-27,Yes
+CUST101989,Male,47,15,Basic,Two year,24.11,368.69,E-check,10,1.0,2026-07-28,Yes
+CUST100009,Female,40,58,Standard,One year,51.01,2957.88,E-check,13,3.0,2026-07-27,No
+CUST101348,Female,38,19,Standard,Month-to-month,59.93,1120.66,Mailed check,11,2.0,2026-07-29,No
+CUST100147,MALE,23,34,Standard,One year,59.22,2009.55,Bank transfer,12,0.0,2026-07-02,No
+CUST101592,Female,51,41,Standard,Month-to-month,49.08,2007.41,Mailed check,10,1.0,2026-07-21,No
+CUST100013,Male,23,2,Standard,Month-to-month,48.28,90.9,Bank transfer,12,5.0,2026-07-04,Yes
+CUST100389,Male,44,62,Standard,Month-to-month,58.65,3608.76,Bank transfer,14,0.0,2026-07-12,No
+CUST101285,Female,67,47,Basic,Two year,28.0,1306.85,E-check,7,1.0,2026-07-04,No
+CUST101670,Female,35,47,Basic,Month-to-month,26.58,1264.82,Credit card,11,1.0,2026-07-29,Yes
+CUST100674,Female,54,59,Standard,One year,51.63,3044.87,Mailed check,6,0.0,2026-06-16,Yes
+CUST100978,Female,61,33,Premium,One year,85.53,2808.47,Credit card,13,1.0,2026-07-10,No
+CUST101206,Male,41,34,Basic,One year,42.34,1434.99,Credit card,14,2.0,2026-07-27,No
+CUST101522,Male,29,53,Basic,Month-to-month,28.12,1488.17,Credit card,11,0.0,2026-07-21,No
+CUST100975,Female,24,57,Basic,One year,33.76,1901.72,E-check,20,0.0,2026-07-09,No
+CUST101269,Female,23,23,Basic,One year,15.0,350.63,Credit card,9,0.0,2026-07-18,Yes
+CUST100594,Female,52,57,Standard,Two year,55.93,3193.19,Credit card,10,1.0,2026-07-26,No
+CUST101331,Female,44,45,Basic,Month-to-month,45.27,2082.74,E-check,13,2.0,2026-06-04,Yes
+CUST100717,Female,73,31,Standard,Two year,52.08,1609.46,E-check,8,1.0,2026-05-31,Yes
+CUST101390,Female,50,35,Basic,Two year,15.0,530.9,E-check,12,3.0,2026-06-14,Yes
+CUST101385,Female,58,16,Basic,Month-to-month,32.75,518.87,Bank transfer,13,0.0,2026-07-18,No
+CUST101800,Male,62,37,Standard,Month-to-month,45.17,1664.97,Mailed check,15,0.0,2026-07-30,Yes
+CUST101580,Female,33,52,Basic,Month-to-month,31.78,1652.87,Bank transfer,10,0.0,2026-08-01,Yes
+CUST101759,Male,52,0,Standard,Month-to-month,59.23,,Bank transfer,11,0.0,2026-07-13,No
+CUST100463,Male,34,23,Standard,Month-to-month,64.45,1455.72,Bank transfer,13,3.0,2026-07-14,No
+CUST101118,Male,48,47,Standard,One year,55.8,2633.25,Bank transfer,15,0.0,2026-07-06,No
+CUST101227,Female,35,35,Standard,Two year,67.29,2362.21,Credit card,15,1.0,2026-06-14,Yes
+CUST100540,Male,25,22,Premium,Month-to-month,101.12,2222.53,Credit card,16,0.0,2026-07-01,No
+CUST100025,Female,49,43,Standard,Month-to-month,71.68,3058.39,Credit card,14,0.0,2026-06-27,No
+CUST100630,Male,68,55,Standard,One year,59.26,3251.17,Mailed check,15,1.0,2026-07-13,No
+CUST101463,Male,32,30,Premium,Month-to-month,87.77,2654.26,Bank transfer,12,1.0,2026-07-15,Yes
+CUST101346,Male,67,65,Premium,Month-to-month,78.88,5093.37,Bank transfer,14,1.0,2026-07-28,No
+CUST100848,Male,40,55,Basic,Two year,31.11,1710.19,Mailed check,9,0.0,2026-07-13,No
+CUST100115,Female,42,63,Basic,Month-to-month,33.7,2117.49,E-check,10,2.0,2026-07-29,No
+CUST100024,Female,64,59,Standard,One year,61.96,3663.9,Mailed check,11,3.0,2026-08-01,No
+CUST100370,Female,21,21,Basic,Month-to-month,20.06,404.37,E-check,17,1.0,2026-07-18,No
+CUST100586,Female,54,50,Basic,Month-to-month,15.0,726.64,Mailed check,10,2.0,2026-07-12,No
+CUST100096,Female,49,47,Standard,Month-to-month,40.0,1891.44,Credit card,14,3.0,2026-07-14,No
+CUST100565,Female,42,25,Basic,Two year,28.91,724.02,Credit card,13,1.0,2026-08-01,No
+CUST100972,Male,37,17,Basic,One year,24.77,400.03,Mailed check,12,0.0,2026-07-18,Yes
+CUST101453,Male,49,1,Premium,Month-to-month,86.6,49.25,Mailed check,12,1.0,2026-07-09,Yes
+CUST100099,Male,56,41,Premium,One year,90.45,3702.61,Mailed check,14,1.0,2026-05-05,Yes
+CUST101513,Male,66,37,Standard,Month-to-month,57.56,2103.95,E-check,13,0.0,2026-06-12,No
+CUST101500,Male,57,10,Standard,Month-to-month,47.02,466.16,Bank transfer,14,1.0,2026-07-16,No
+CUST101927,MALE,25,37,Standard,Month-to-month,56.84,2115.5,Mailed check,16,1.0,2026-07-29,No
+CUST100357,Female,50,14,Standard,Two year,48.45,685.46,E-check,14,2.0,2026-07-30,No
+CUST101351,Female,54,2,Standard,Month-to-month,61.4,95.42,Bank transfer,10,2.0,2026-07-17,No
+CUST100817,Male,22,8,Basic,Two year,22.27,179.79,Credit card,13,2.0,2026-08-01,No
+CUST101623,Female,68,12,Basic,One year,33.42,373.68,Bank transfer,17,1.0,2026-08-01,No
+CUST101146,Male,73,33,Basic,Two year,25.31,834.17,Credit card,18,1.0,2026-08-01,No
+CUST101747,Male,37,54,Standard,Two year,40.81,2178.5,Bank transfer,9,2.0,2026-06-12,No
+CUST101806,Female,60,57,Premium,Month-to-month,82.47,4729.93,E-check,10,0.0,2026-06-12,No
+CUST101587,MALE,21,52,Premium,One year,74.23,3845.12,E-check,14,4.0,2026-07-19,Yes
+CUST101716,Female,28,12,Standard,Month-to-month,35.59,433.19,Credit card,10,1.0,2026-05-30,No
+CUST101226,MALE,37,4,Basic,Month-to-month,18.98,77.14,E-check,10,3.0,2026-07-21,Yes
+CUST100270,Female,59,26,Basic,Month-to-month,31.67,841.25,Bank transfer,15,0.0,2026-05-25,No
+CUST100118,Female,22,13,Basic,Month-to-month,33.77,420.49,E-check,10,1.0,2026-07-27,No
+CUST100117,Female,37,51,Standard,Month-to-month,39.55,2044.47,Mailed check,10,1.0,2026-07-16,No
+CUST101914,Female,69,62,Standard,Month-to-month,41.92,2607.98,Bank transfer,7,1.0,2026-07-23,No
+CUST100556,Female,59,62,Standard,Month-to-month,53.88,3326.71,Mailed check,6,1.0,2026-07-07,Yes
+CUST100684,Male,48,46,Premium,Month-to-month,104.38,4830.7,E-check,10,3.0,2026-06-23,Yes
+CUST101241,Female,63,29,Basic,Month-to-month,20.63,622.94,E-check,12,0.0,2026-07-14,Yes
+CUST100506,Female,58,60,Basic,One year,15.0,879.86,Mailed check,13,1.0,2026-07-31,No
+CUST101702,Male,71,31,Standard,Month-to-month,57.97,1822.16,Mailed check,15,1.0,2026-05-28,No
+CUST100164,Female,68,19,Standard,One year,38.72,730.14,Mailed check,10,2.0,2026-06-21,No
+CUST100740,Male,22,46,Standard,Month-to-month,60.13,2781.13,Mailed check,10,0.0,2026-07-23,No
+CUST101493,Female,32,65,Standard,Month-to-month,62.69,4073.28,Bank transfer,8,2.0,2026-07-14,No
+CUST101802,Male,73,67,Basic,Month-to-month,34.94,2327.28,Bank transfer,9,,2026-07-14,Yes
+CUST100465,Male,38,55,Standard,Month-to-month,39.8,2205.57,Bank transfer,12,3.0,2026-07-20,No
+CUST101157,Male,56,37,Standard,Month-to-month,57.47,2126.31,Credit card,11,3.0,2026-05-20,Yes
+CUST101233,Male,50,5,Basic,Month-to-month,24.68,102.0,Credit card,13,0.0,2026-06-06,No
+CUST100142,Female,21,43,Premium,Month-to-month,95.79,4122.17,E-check,11,0.0,2026-07-24,No
+CUST100113,Female,27,29,Standard,Month-to-month,62.03,1799.54,Credit card,4,1.0,2026-07-24,Yes
+CUST101072,Female,50,53,Standard,Month-to-month,53.98,2863.44,Mailed check,16,1.0,2026-07-31,No
+CUST101384,Male,26,57,Standard,Month-to-month,54.51,3131.92,Bank transfer,10,1.0,2026-07-23,No
+CUST100378,Female,46,50,Standard,Month-to-month,59.5,2982.38,Bank transfer,13,3.0,2026-06-23,Yes
+CUST100063,Male,20,62,Basic,Two year,15.0,915.13,E-check,5,0.0,2026-07-29,No
+CUST100488,Male,74,0,Basic,Two year,25.18,,Mailed check,12,2.0,2026-07-24,No
+CUST100637,Male,38,17,Basic,Two year,17.25,280.06,Mailed check,11,1.0,2026-07-15,Yes
+CUST100186,Female,66,5,Premium,Month-to-month,85.46,440.62,E-check,10,0.0,2026-07-26,No
+CUST101345,Male,43,44,Standard,Two year,56.69,2510.56,E-check,15,2.0,2026-07-28,No
+CUST101275,Female,36,18,Basic,Month-to-month,29.96,548.23,E-check,12,2.0,2026-07-23,Yes
+CUST100635,Female,35,6,Standard,Two year,47.9,311.79,Mailed check,10,1.0,2026-07-30,No
+CUST100294,Female,30,44,Premium,Month-to-month,98.72,4353.78,Mailed check,10,1.0,2026-07-03,Yes
+CUST100875,Male,28,26,Basic,Two year,26.28,699.93,E-check,13,3.0,2026-07-21,Yes
+CUST100453,Female,74,21,Basic,Month-to-month,16.55,322.76,Mailed check,12,2.0,2026-06-16,Yes
+CUST100286,Male,70,22,Basic,Two year,38.49,853.58,Mailed check,9,1.0,2026-07-30,No
+CUST101873,Female,51,20,Premium,Month-to-month,83.17,1652.82,E-check,6,0.0,2026-07-19,Yes
+CUST101966,Male,29,34,Standard,Month-to-month,64.36,2178.57,Bank transfer,13,1.0,2026-07-31,No
+CUST100300,Male,30,66,Standard,Month-to-month,43.89,2877.31,Bank transfer,8,2.0,2026-07-13,Yes
+CUST100841,Female,55,64,Basic,Two year,15.0,957.92,Bank transfer,14,0.0,2026-07-29,No
+CUST100315,Female,47,36,Basic,Month-to-month,25.59,940.56,E-check,12,2.0,2026-07-27,No
+CUST100895,Female,42,53,Basic,One year,20.55,1080.97,Mailed check,14,2.0,2026-07-29,No
+CUST100707,FEMALE,45,28,Standard,Month-to-month,48.51,1329.46,Mailed check,13,0.0,2026-06-30,Yes
+CUST100359,Male,64,41,Standard,Two year,47.36,1937.66,Mailed check,15,0.0,2026-07-24,No
+CUST100130,Female,54,47,Basic,Two year,21.28,977.09,Bank transfer,11,3.0,2026-07-31,No
+CUST101137,Female,62,39,Standard,Month-to-month,61.31,2390.49,Bank transfer,18,3.0,2026-06-22,No
+CUST100728,Male,19,10,Basic,Month-to-month,25.09,262.22,Credit card,12,0.0,2026-07-29,No
+CUST100189,FEMALE,67,64,Basic,Two year,25.79,1641.23,Credit card,16,2.0,2026-07-25,No
+CUST100027,Female,33,65,Standard,Month-to-month,57.6,3766.64,E-check,15,2.0,2026-07-10,No
+CUST101567,Female,71,28,Standard,One year,52.97,1495.09,Bank transfer,11,0.0,2026-07-26,No
+CUST101923,Male,19,16,Basic,Month-to-month,33.11,508.3,Credit card,7,0.0,2026-04-24,Yes
+CUST100918,FEMALE,33,50,Standard,Month-to-month,45.99,2292.28,E-check,12,5.0,2026-07-17,Yes
+CUST100746,Male,59,53,Standard,One year,50.74,2717.76,Credit card,9,4.0,2026-07-22,Yes
+CUST101228,Female,27,48,Premium,Month-to-month,87.82,4226.17,Mailed check,12,0.0,2026-07-30,Yes
+CUST100947,Female,53,65,Basic,One year,16.49,1094.27,Mailed check,6,3.0,2026-07-04,No
+CUST100757,Male,56,37,Standard,Month-to-month,43.63,1626.71,Credit card,10,3.0,2026-07-21,Yes
+CUST100738,Male,54,59,Premium,One year,87.23,5149.07,Mailed check,5,2.0,2026-07-29,No
+CUST101571,Female,47,15,Basic,Month-to-month,25.81,398.51,Credit card,7,1.0,2026-07-01,Yes
+CUST101171,Male,62,53,Basic,Two year,25.45,1376.67,E-check,9,0.0,2026-07-31,No
+CUST100266,Female,60,38,Standard,Month-to-month,55.02,2067.16,Bank transfer,11,1.0,2026-07-30,No
+CUST101223,Male,52,45,Basic,Month-to-month,16.62,755.91,Credit card,11,4.0,2026-07-21,No
+CUST101504,Male,39,62,Standard,Month-to-month,52.84,3243.4,Mailed check,8,3.0,2026-07-05,Yes
+CUST100075,Female,21,45,Premium,Month-to-month,102.87,4632.64,Credit card,7,0.0,2026-07-16,No
+CUST101443,Male,60,59,Basic,Month-to-month,36.03,2122.31,Bank transfer,8,2.0,2026-07-22,No
+CUST101308,Male,54,24,Basic,One year,36.55,858.3,E-check,6,1.0,2026-06-13,No
+CUST101707,Female,21,58,Premium,Month-to-month,96.57,5581.8,Credit card,11,1.0,2026-08-01,No
+CUST100948,Female,47,14,Standard,Month-to-month,57.36,806.52,Bank transfer,11,1.0,2026-07-12,No
+CUST101194,Female,54,0,Standard,Month-to-month,58.22,0.0,Credit card,12,2.0,2026-08-01,Yes
+CUST101277,Male,68,39,Standard,Month-to-month,48.74,1902.34,Credit card,9,2.0,2026-07-23,Yes
+CUST101316,Female,67,27,Basic,One year,31.3,880.46,Mailed check,13,0.0,2026-08-01,No
+CUST101333,Female,71,56,Basic,Month-to-month,23.23,1287.85,E-check,7,1.0,2026-07-10,No
+CUST101051,Male,59,61,Premium,Month-to-month,100.18,6117.66,Credit card,6,1.0,2026-06-16,Yes
+CUST100180,Male,64,37,Basic,Month-to-month,19.89,746.11,,11,2.0,2026-07-31,No
+CUST100758,Male,48,61,Premium,Month-to-month,89.03,5399.05,Mailed check,14,1.0,2026-06-27,No
+CUST100657,Male,58,45,Basic,Month-to-month,15.55,703.83,Mailed check,11,2.0,2026-07-22,No
+CUST101734,Male,34,58,Premium,Month-to-month,94.37,5470.36,E-check,12,1.0,2026-07-15,No
+CUST100376,Female,32,33,Standard,One year,48.71,1597.3,Bank transfer,12,1.0,2026-07-14,No
+CUST101900,FEMALE,24,63,Standard,Month-to-month,38.28,2406.11,Mailed check,8,3.0,2026-07-07,Yes
+CUST100023,Female,43,5,Premium,Month-to-month,100.72,492.05,E-check,10,1.0,2026-07-03,Yes
+CUST100346,Male,31,66,Standard,Two year,52.83,3493.03,Credit card,10,2.0,2026-07-08,No
+CUST101645,Male,38,56,Standard,One year,60.12,3367.22,Credit card,12,2.0,2026-07-27,No
+CUST101857,Male,72,29,Basic,One year,27.42,797.31,Mailed check,12,0.0,2026-07-18,No
+CUST101724,Female,27,14,Standard,One year,61.5,835.5,Bank transfer,16,1.0,2026-06-23,No
+CUST100008,Male,34,27,Standard,Month-to-month,52.73,1427.11,Bank transfer,11,0.0,2026-07-25,Yes
+CUST100228,Male,25,44,Standard,Two year,61.47,2693.41,Bank transfer,15,2.0,2026-07-28,No
+CUST100489,Male,63,35,Basic,One year,15.0,554.45,Bank transfer,19,1.0,2026-07-22,No
+CUST100213,Male,20,40,Basic,Month-to-month,38.6,1529.75,Credit card,12,1.0,2026-07-15,Yes
+CUST100835,Female,28,25,Standard,Month-to-month,62.74,1559.48,Bank transfer,13,2.0,2026-07-19,Yes
+CUST100688,Male,71,6,Premium,Month-to-month,85.51,489.96,E-check,10,1.0,2026-07-27,Yes
+CUST100449,Female,53,12,Basic,Month-to-month,28.26,344.35,Bank transfer,20,4.0,2026-07-07,No
+CUST101412,Male,18,17,Basic,Month-to-month,21.8,401.95,Credit card,10,2.0,2026-07-27,No
+CUST100015,Male,42,24,Basic,Two year,26.11,636.89,Credit card,9,0.0,2026-06-04,No
+CUST101573,Female,61,61,Standard,Two year,59.99,3618.3,E-check,18,0.0,2026-07-15,No
+CUST101783,Female,24,36,Standard,Month-to-month,51.07,1845.5,Bank transfer,16,0.0,2026-07-10,No
+CUST101782,Female,45,49,Standard,Month-to-month,62.5,3055.34,Bank transfer,15,0.0,2026-07-30,No
+CUST101457,Female,48,47,Premium,One year,101.44,4754.63,Credit card,14,1.0,2026-06-30,No
+CUST100957,Male,28,12,Basic,Month-to-month,16.92,184.72,Credit card,12,1.0,2026-07-29,Yes
+CUST100546,Male,24,51,Basic,One year,26.67,1337.47,Mailed check,6,1.0,2026-06-03,Yes
+CUST101162,Female,29,45,Standard,Month-to-month,42.01,1883.24,Credit card,13,1.0,2026-07-20,No
+CUST100660,Female,31,23,Standard,Two year,42.82,949.76,Mailed check,17,1.0,2026-07-08,No
+CUST100354,Female,24,49,Basic,Two year,19.05,907.71,Credit card,15,2.0,2026-07-04,No
+CUST100748,Male,70,49,Standard,One year,61.38,3011.01,Bank transfer,12,1.0,2026-06-08,No
+CUST100207,Female,58,63,Premium,One year,84.13,5291.93,Mailed check,14,1.0,2026-07-21,No
+CUST101156,Female,25,9,Premium,Month-to-month,97.01,824.23,Mailed check,17,2.0,2026-07-10,No
+CUST100739,Female,70,56,Premium,Month-to-month,87.75,4889.82,Mailed check,11,0.0,2026-07-04,No
+CUST101083,Female,66,9,Standard,Month-to-month,50.44,439.96,Bank transfer,10,1.0,2026-07-24,No
+CUST100416,Male,32,45,Basic,Month-to-month,18.83,869.47,Mailed check,11,0.0,2026-07-14,Yes
+CUST101432,Female,48,32,Premium,Month-to-month,96.23,3080.11,Credit card,8,0.0,2026-07-30,Yes
+CUST101067,Male,62,54,Premium,Two year,93.4,5003.1,Bank transfer,11,2.0,2026-05-12,Yes
+CUST101598,Female,56,57,Basic,Month-to-month,44.71,2550.28,Mailed check,14,1.0,2026-06-02,No
+CUST100701,Female,60,7,Standard,One year,59.37,404.57,E-check,6,1.0,2026-06-18,No
+CUST100442,Male,42,71,Standard,Month-to-month,59.53,4227.12,Bank transfer,11,4.0,2026-07-22,Yes
+CUST101426,Male,41,6,Basic,Month-to-month,41.33,251.82,E-check,7,2.0,2026-07-20,No
+CUST101449,Female,25,58,Basic,Month-to-month,19.54,1132.26,Bank transfer,9,0.0,2026-07-27,No
+CUST100536,Female,49,56,Basic,Two year,15.0,846.16,Credit card,12,1.0,2026-07-27,No
+CUST100348,Female,46,3,Basic,Month-to-month,34.69,137.8,Credit card,8,0.0,2026-07-30,No
+CUST101420,Male,60,0,Basic,Month-to-month,15.84,3.41,E-check,13,3.0,2026-06-04,No
+CUST100403,Male,74,18,Standard,Month-to-month,58.26,1065.53,Bank transfer,13,0.0,2026-07-06,No
+CUST100362,Male,68,34,Standard,One year,66.6,2279.94,Bank transfer,13,,2026-07-02,Yes
+CUST100026,Female,27,10,Basic,One year,28.5,266.42,Bank transfer,17,0.0,2026-07-03,Yes
+CUST101116,Male,30,31,Basic,Two year,27.23,844.63,,16,3.0,2026-07-13,No
+CUST101177,Female,74,60,Standard,Two year,52.92,3209.71,E-check,13,1.0,2026-07-16,Yes
+CUST100177,Male,22,54,Premium,Two year,95.5,5170.04,Credit card,9,0.0,2026-05-05,No
+CUST101937,Female,42,12,Premium,Two year,84.9,1023.0,Bank transfer,10,0.0,2026-07-29,Yes
+CUST100879,Male,31,35,Standard,Month-to-month,44.89,1582.88,Credit card,10,0.0,2026-07-06,No
+CUST101901,Male,38,60,Standard,Two year,49.76,2976.71,Mailed check,14,2.0,2026-08-01,No
+CUST100755,Female,46,68,Basic,Two year,34.07,2341.9,Mailed check,15,3.0,2026-08-01,No
+CUST100252,Female,44,18,Standard,Month-to-month,62.74,1168.14,Credit card,16,0.0,2026-07-18,Yes
+CUST100414,Male,29,19,Basic,Two year,30.06,578.72,Bank transfer,7,0.0,2026-06-19,No
+CUST100558,Female,28,58,Basic,Month-to-month,35.0,2050.13,Credit card,13,0.0,2026-07-15,No
+CUST100553,Female,43,23,Basic,One year,32.93,736.46,Bank transfer,11,0.0,2026-07-29,No
+CUST100193,Male,20,34,Standard,Month-to-month,51.45,1748.16,Credit card,16,1.0,2026-05-28,No
+CUST101502,Female,42,27,Basic,One year,34.79,949.32,Credit card,9,0.0,2026-06-17,Yes
+CUST100704,Male,74,58,Premium,Month-to-month,84.16,4911.74,Credit card,8,1.0,2026-05-31,Yes
+CUST101491,Male,28,18,Standard,Month-to-month,55.04,998.58,Credit card,8,2.0,2026-07-27,No
+CUST100445,Male,24,37,Basic,Two year,32.54,1188.95,E-check,5,2.0,2026-07-17,No
+CUST100788,Female,18,16,Standard,Month-to-month,50.61,841.04,Mailed check,14,0.0,2026-07-16,No
+CUST101936,Male,40,26,Standard,Two year,60.89,1584.16,Credit card,10,0.0,2026-07-11,No
+CUST101799,Male,26,65,Basic,Two year,31.9,2082.74,Bank transfer,10,1.0,2026-07-31,No
+CUST101464,Male,67,60,Standard,Month-to-month,64.11,3859.24,Bank transfer,18,5.0,2026-07-08,Yes
+CUST100451,Female,55,60,Standard,Month-to-month,47.64,2881.44,Credit card,10,1.0,2026-05-28,Yes
+CUST101399,Male,25,7,Premium,One year,79.4,550.65,Bank transfer,11,0.0,2026-07-01,No
+CUST100464,Female,25,34,Basic,Month-to-month,20.68,719.21,Credit card,16,0.0,2026-06-15,No
+CUST100687,Male,20,5,Basic,Month-to-month,28.35,123.11,Bank transfer,9,0.0,2026-06-23,No
+CUST100458,Male,19,41,Basic,Month-to-month,22.98,937.95,Bank transfer,9,0.0,2026-06-02,Yes
+CUST101376,Female,59,63,Standard,Month-to-month,43.67,2731.27,Credit card,6,1.0,2026-05-02,Yes
+CUST100943,Male,52,64,Standard,Month-to-month,51.14,3312.81,Bank transfer,16,0.0,2026-07-04,No
+CUST101617,Male,51,59,Standard,Month-to-month,44.8,2608.1,Credit card,11,0.0,2026-06-10,Yes
+CUST100747,Male,37,32,Standard,One year,60.63,1947.59,Mailed check,11,1.0,2026-07-11,No
+CUST100369,Male,46,16,Basic,Month-to-month,22.71,351.91,Bank transfer,15,0.0,2026-07-14,No
+CUST100484,Male,41,12,Standard,One year,52.12,621.33,,13,3.0,2026-07-22,No
+CUST101352,Male,62,53,Standard,Month-to-month,59.71,3155.84,E-check,11,2.0,2026-06-25,No
+CUST101187,Male,72,57,Premium,Month-to-month,89.74,5098.44,E-check,14,2.0,2026-07-22,Yes
+CUST100307,Female,48,31,Standard,Month-to-month,49.05,1537.1,Credit card,11,2.0,2026-07-16,No
+CUST100285,Male,60,24,Basic,Month-to-month,38.71,899.88,Credit card,12,0.0,2026-07-30,Yes
+CUST100623,Female,32,12,Standard,Month-to-month,47.75,590.16,Bank transfer,7,0.0,2026-07-02,No
+CUST101473,Female,72,53,Standard,Month-to-month,55.37,2971.48,Credit card,15,0.0,2026-07-12,No
+CUST100700,Female,25,31,Basic,Two year,23.44,738.53,Credit card,17,2.0,2026-07-28,No
+CUST101810,Female,67,31,Basic,Two year,23.87,751.32,Credit card,15,1.0,2026-07-27,Yes
+CUST100925,Male,68,20,Basic,One year,33.93,672.36,Bank transfer,7,2.0,2026-08-01,No
+CUST101095,Female,71,58,Basic,One year,22.03,1269.62,Mailed check,12,2.0,2026-07-22,Yes
+CUST101709,Female,65,68,Basic,Month-to-month,15.0,1059.39,Bank transfer,10,1.0,2026-06-29,Yes
+CUST100953,Female,21,38,Standard,Two year,61.44,2355.01,Credit card,18,3.0,2026-07-29,No
+CUST101946,Male,27,33,Basic,Month-to-month,29.69,1001.88,Mailed check,13,1.0,2026-07-30,No
+CUST100715,Female,66,49,Standard,Month-to-month,50.96,2470.9,Bank transfer,17,4.0,2026-07-28,No
+CUST101912,Female,32,0,Premium,One year,92.27,0.0,Credit card,10,2.0,2026-07-29,No
+CUST101257,Male,21,31,Standard,One year,59.7,1837.57,Credit card,11,1.0,2026-07-25,Yes
+CUST100097,Female,49,50,Basic,Month-to-month,23.28,1156.38,Mailed check,14,0.0,2026-07-11,Yes
+CUST101361,Female,72,1,Standard,Month-to-month,42.19,51.77,Credit card,16,1.0,2026-07-10,No
+CUST101073,Male,53,19,Standard,Two year,43.12,815.87,E-check,13,3.0,2026-07-25,No
+CUST100765,Male,55,43,Standard,Two year,47.71,2041.33,E-check,16,1.0,2026-07-28,No
+CUST100139,Male,66,47,Standard,Month-to-month,55.56,2598.26,E-check,15,0.0,2026-07-26,No
+CUST100802,Male,66,35,Basic,Month-to-month,20.82,719.04,Mailed check,14,2.0,2026-07-18,No
+CUST100936,Female,70,9,Premium,Two year,105.78,952.38,Mailed check,12,0.0,2026-07-18,No
+CUST101892,Male,64,64,Standard,Month-to-month,56.77,3633.84,Credit card,7,0.0,2026-05-27,Yes
+CUST101438,Female,36,21,Standard,Two year,42.03,895.86,Bank transfer,9,2.0,2026-07-30,No
+CUST101489,Male,49,60,Basic,One year,30.27,1824.08,Mailed check,15,0.0,2026-07-22,No
+CUST101329,Male,72,10,Premium,Month-to-month,92.08,898.16,Mailed check,8,2.0,2026-07-30,No
+CUST101666,Female,73,43,Basic,Month-to-month,26.19,1110.83,Bank transfer,21,1.0,2026-07-31,Yes
+CUST101653,Male,34,17,Basic,Two year,27.77,470.91,Bank transfer,13,0.0,2026-07-16,No
+CUST100128,Female,21,15,Basic,Month-to-month,28.79,425.41,Mailed check,13,0.0,2026-07-30,Yes
+CUST100691,Female,27,54,Basic,Month-to-month,38.22,2105.12,E-check,9,0.0,2026-08-01,No
+CUST100885,Male,38,56,Premium,Two year,95.49,5378.99,Credit card,11,2.0,2026-07-25,No
+CUST101231,Female,42,60,Standard,Month-to-month,52.85,3160.59,Mailed check,16,1.0,2026-07-09,No
+CUST101770,Male,48,11,Standard,Month-to-month,62.21,682.86,Credit card,16,2.0,2026-07-14,No
+CUST100522,Female,51,7,Basic,Two year,20.64,130.15,E-check,15,2.0,2026-07-29,No
+CUST100264,Male,58,13,Standard,Month-to-month,61.04,816.18,E-check,13,3.0,2026-07-31,No
+CUST101159,Female,50,35,Standard,One year,51.51,1805.77,Credit card,9,1.0,2026-07-07,No
+CUST101436,Female,69,36,Premium,One year,92.7,3344.85,E-check,9,3.0,2026-07-12,No
+CUST101591,Male,59,63,Basic,Two year,37.9,2383.91,E-check,13,1.0,2026-07-25,No
+CUST100631,Female,71,44,Basic,Two year,15.85,695.13,Credit card,6,3.0,2026-07-21,Yes
+CUST100498,Male,27,29,Standard,Two year,55.7,1604.01,Credit card,12,2.0,2026-07-10,No
+CUST101980,Male,18,35,Standard,Month-to-month,65.76,2306.66,Credit card,12,0.0,2026-07-09,No
+CUST101363,Female,43,48,Standard,Month-to-month,55.16,2673.93,Credit card,16,1.0,2026-07-30,No
+CUST101660,Male,41,12,Standard,Month-to-month,65.2,792.51,Mailed check,13,0.0,2026-07-05,Yes
+CUST101152,Female,37,57,Standard,One year,52.95,3029.09,E-check,9,0.0,2026-07-28,No
+CUST100432,Male,24,50,Premium,Month-to-month,89.35,4460.38,Credit card,12,3.0,2026-07-29,No
+CUST101158,Female,49,18,Premium,One year,99.29,1775.77,E-check,10,0.0,2026-07-14,No
+CUST101240,Male,71,66,Premium,Month-to-month,99.36,6552.32,E-check,13,1.0,2026-05-29,Yes
+CUST100068,Female,72,46,Basic,Two year,15.0,681.17,Mailed check,20,2.0,2026-07-31,No
+CUST100935,Male,65,10,Premium,Month-to-month,92.59,908.44,Bank transfer,7,0.0,2026-07-30,No
+CUST101039,Male,27,23,Premium,Two year,82.84,1913.44,Bank transfer,11,1.0,2026-06-18,No
+CUST101199,Male,66,37,Basic,Month-to-month,23.84,849.96,Credit card,16,5.0,2026-06-02,Yes
+CUST101853,Male,59,47,Standard,Month-to-month,43.91,2049.09,Credit card,12,1.0,2026-06-20,No
+CUST100573,Female,25,43,Premium,Two year,84.82,3644.32,Bank transfer,9,0.0,2026-07-07,No
+CUST100334,Female,34,68,Premium,Two year,90.7,6156.28,Mailed check,16,1.0,2026-07-30,No
+CUST100338,Female,27,55,Basic,Month-to-month,22.09,1225.59,Credit card,11,1.0,2026-07-03,Yes
+CUST101343,Male,30,56,Basic,Two year,39.66,2231.8,Credit card,8,1.0,2026-06-23,No
+CUST100664,Male,37,34,Premium,Month-to-month,94.57,3216.19,Mailed check,7,4.0,2026-07-23,Yes
+CUST100383,Male,19,45,Standard,Two year,56.17,2545.41,Bank transfer,17,1.0,2026-07-31,No
+CUST101814,Female,23,27,Basic,One year,28.0,753.2,Credit card,8,0.0,2026-07-25,No
+CUST100055,Female,34,39,Standard,One year,58.48,2278.5,Mailed check,17,3.0,2026-06-04,No
+CUST101643,Female,57,16,Standard,Month-to-month,68.48,1099.52,Bank transfer,18,0.0,2026-07-23,No
+CUST100971,Male,53,67,Standard,Two year,56.48,3800.88,Credit card,12,2.0,2026-08-01,No
+CUST100699,Male,37,50,Premium,Two year,95.21,4720.62,Mailed check,11,3.0,2026-07-09,No
+CUST101535,Female,61,14,Basic,Month-to-month,31.31,432.02,Bank transfer,10,0.0,2026-07-21,No
+CUST100721,Male,64,58,Premium,Month-to-month,100.59,5846.91,Mailed check,10,3.0,2026-07-24,No
+CUST101682,Male,55,53,Basic,One year,15.0,773.48,E-check,15,2.0,2026-07-31,No
+CUST100170,Female,74,27,Standard,Two year,45.49,1213.39,Credit card,17,4.0,2026-05-02,No
+CUST101150,Male,47,66,Standard,Month-to-month,49.68,3307.97,Credit card,21,1.0,2026-07-31,Yes
+CUST100956,Female,47,40,Standard,One year,65.11,2620.89,Credit card,16,0.0,2026-07-28,No
+CUST100326,Male,39,59,Standard,Month-to-month,66.73,3904.03,Mailed check,10,1.0,2026-07-21,Yes
+CUST100503,Female,19,44,Premium,Month-to-month,95.2,4179.75,,4,3.0,2026-08-01,No
+CUST101836,Female,20,9,Basic,Two year,17.91,142.51,Credit card,13,1.0,2026-06-29,No
+CUST100409,Female,51,11,Standard,Month-to-month,41.28,436.64,E-check,13,0.0,2026-07-17,No
+CUST101413,Female,40,61,Standard,Month-to-month,40.32,2474.49,Credit card,15,3.0,2026-07-12,No
+CUST100297,Male,56,59,Basic,Month-to-month,40.14,2406.84,E-check,15,2.0,2026-06-10,No
+CUST100892,Male,70,40,Premium,Month-to-month,87.05,3432.43,Mailed check,10,1.0,2026-07-26,No
+CUST100829,Female,30,44,Standard,Month-to-month,52.44,2308.03,Bank transfer,13,2.0,2026-08-01,No
+CUST101940,Male,36,59,Standard,Month-to-month,68.08,4008.65,Bank transfer,11,0.0,2026-07-30,No
+CUST100840,Male,21,4,Basic,Month-to-month,29.72,131.43,,18,1.0,2026-07-31,Yes
+CUST101087,Female,44,58,Premium,One year,85.33,4933.13,Bank transfer,8,2.0,2026-08-01,No
+CUST100734,Female,18,48,Basic,One year,31.03,1492.08,E-check,12,2.0,2026-08-01,No
+CUST100671,Female,45,28,Basic,One year,19.54,524.26,E-check,13,2.0,2026-06-21,No
+CUST100648,Female,61,12,Basic,Two year,25.8,308.95,Bank transfer,13,3.0,2026-07-30,No
+CUST100266,Female,60,38,Standard,Month-to-month,55.02,2067.16,Bank transfer,11,1.0,2026-07-30,No
+CUST101684,Male,48,38,Basic,Two year,15.87,633.76,Credit card,16,1.0,2026-07-28,No
+CUST101542,Female,39,49,Standard,Month-to-month,57.14,2809.91,Mailed check,6,0.0,2026-07-23,No
+CUST101971,Male,62,47,Premium,One year,111.5,5248.07,Mailed check,10,0.0,2026-06-17,Yes
+CUST100716,Male,66,14,Basic,Month-to-month,35.9,512.21,Bank transfer,9,1.0,2026-07-19,Yes
+CUST100718,Female,61,27,Basic,One year,42.61,1155.09,Credit card,12,2.0,2026-06-26,No
+CUST100531,Female,26,12,Standard,Two year,47.86,555.39,E-check,10,0.0,2026-07-28,Yes
+CUST100407,Female,55,44,Basic,Two year,23.11,1013.9,Mailed check,8,2.0,2026-07-16,No
+CUST100199,Male,64,48,Standard,Month-to-month,61.91,2979.31,Credit card,11,2.0,2026-07-12,No
+CUST100473,Female,49,70,Standard,Two year,61.7,4346.31,E-check,11,2.0,2026-07-29,Yes
+CUST101267,Female,35,14,Standard,Month-to-month,49.95,732.89,Mailed check,15,1.0,2026-06-15,No
+CUST101205,Female,47,46,Standard,One year,57.01,2622.97,Mailed check,13,3.0,2026-07-31,No
+CUST100828,Male,65,17,Standard,Two year,53.24,901.51,Mailed check,14,0.0,2026-06-07,No
+CUST100216,Female,29,50,Basic,Two year,15.0,735.46,Credit card,14,0.0,2026-07-28,No
+CUST100253,Male,30,27,Standard,Month-to-month,62.49,1689.08,Bank transfer,18,5.0,2026-07-31,No
+CUST100152,Male,28,39,Premium,Month-to-month,85.99,3346.76,Mailed check,15,3.0,2026-07-20,No
+CUST101276,Male,48,66,Standard,Month-to-month,71.0,4685.24,Credit card,10,3.0,2026-05-09,Yes
+CUST101090,Female,25,67,Premium,One year,72.66,4834.34,E-check,9,1.0,2026-07-07,No
+CUST100930,Male,39,41,Premium,Month-to-month,83.12,3396.56,E-check,10,1.0,2026-07-17,Yes
+CUST101256,Female,32,29,Basic,One year,26.37,782.09,Credit card,8,1.0,2026-06-07,No
+CUST101444,Male,22,45,Standard,Month-to-month,58.49,2632.08,Bank transfer,5,2.0,2026-07-31,No
+CUST101338,Female,40,7,Basic,Two year,15.0,111.37,E-check,14,,2026-07-24,No
+CUST101767,Male,63,71,Standard,Month-to-month,60.08,4237.09,E-check,12,0.0,2026-07-21,No
+CUST101614,Female,31,63,Basic,Month-to-month,15.0,948.81,Credit card,9,1.0,2026-07-14,No
+CUST101885,Female,33,54,Basic,Month-to-month,15.0,781.76,E-check,9,1.0,2026-07-21,No
+CUST100530,Male,23,52,Basic,Month-to-month,41.21,2124.13,E-check,13,1.0,2026-07-25,No
+CUST101403,Female,32,58,Standard,Month-to-month,50.07,2889.13,Mailed check,9,2.0,2026-07-28,No
+CUST101298,Male,68,48,Premium,Month-to-month,101.59,4858.49,E-check,8,0.0,2026-07-13,No
+CUST100240,Female,34,7,Standard,Month-to-month,53.5,354.26,Bank transfer,11,0.0,2026-07-21,Yes
+CUST101010,Male,56,52,Basic,Two year,35.05,1814.89,Mailed check,12,1.0,2026-07-31,No
+CUST101743,Male,68,12,Basic,Month-to-month,27.29,331.5,Credit card,10,1.0,2026-07-15,No
+CUST100187,Male,59,26,Standard,Month-to-month,60.09,1607.98,E-check,13,1.0,2026-07-13,No
+CUST100246,Male,68,46,Premium,Month-to-month,89.91,4144.48,Credit card,5,1.0,2026-07-28,Yes
+CUST100905,Female,60,46,Premium,Two year,85.99,3970.8,Bank transfer,11,3.0,2026-07-22,No
+CUST101820,Male,37,71,Basic,One year,32.75,2339.77,Credit card,16,1.0,2026-06-27,No
+CUST101044,Female,42,28,Basic,Month-to-month,26.8,751.36,Bank transfer,13,2.0,2026-08-01,Yes
+CUST100901,Female,32,37,Standard,Month-to-month,52.6,1941.1,Credit card,14,0.0,2026-03-10,No
+CUST100692,Male,46,57,Standard,Two year,60.63,3447.87,E-check,12,1.0,2026-08-01,No
+CUST100302,Male,44,43,Basic,Two year,23.75,1020.1,Bank transfer,14,0.0,2026-08-01,No
+CUST100283,Male,27,61,Standard,Month-to-month,61.95,3771.26,Bank transfer,11,0.0,2026-07-22,Yes
+CUST100898,MALE,51,9,Basic,Month-to-month,27.39,240.14,Bank transfer,14,3.0,2026-06-29,Yes
+CUST100505,Male,50,44,Premium,One year,89.39,3944.6,Mailed check,11,0.0,2026-07-28,No
+CUST101931,Female,69,13,Premium,Month-to-month,86.65,1122.33,Bank transfer,15,2.0,2026-07-13,No
+CUST100321,Male,45,64,Basic,Two year,21.4,1358.06,Bank transfer,16,1.0,2026-07-12,No
+CUST101478,Female,29,30,Standard,Two year,64.57,1955.87,Credit card,13,0.0,2026-07-27,No
+CUST101261,Male,49,33,Standard,One year,46.96,1554.0,E-check,10,3.0,2026-07-21,No
+CUST101167,Female,53,5,Basic,Month-to-month,24.94,84.63,Credit card,14,2.0,2026-07-26,Yes
+CUST100621,Female,53,70,Basic,Month-to-month,31.68,2220.95,Bank transfer,14,1.0,2026-06-30,No
+CUST101913,Female,39,64,Standard,One year,52.97,3379.17,Mailed check,12,2.0,2026-07-29,No
+CUST101916,Female,31,41,Premium,Month-to-month,86.81,3560.37,Credit card,10,0.0,2026-07-28,No
+CUST100122,Female,20,67,Basic,One year,17.77,1184.79,Credit card,14,1.0,2026-07-22,No
+CUST101988,Male,21,58,Standard,Month-to-month,43.91,2542.58,E-check,12,0.0,2026-06-28,No
+CUST100510,Male,30,16,Standard,Month-to-month,48.59,786.47,Mailed check,14,2.0,2026-07-10,Yes
+CUST100280,Female,48,64,Basic,Month-to-month,23.71,1495.35,E-check,22,2.0,2026-06-25,No
+CUST101750,Female,27,51,Standard,One year,67.8,3466.38,Mailed check,18,2.0,2026-07-27,No
+CUST101731,Male,71,71,Premium,Two year,73.64,5249.11,Mailed check,10,0.0,2026-07-14,No
+CUST101388,Male,65,20,Basic,Month-to-month,27.63,529.07,Credit card,15,2.0,2026-07-24,Yes
+CUST100993,Female,32,18,Basic,Two year,23.01,400.74,Mailed check,17,0.0,2026-07-20,No
+CUST101033,Female,32,6,Basic,Month-to-month,27.79,182.15,Credit card,12,0.0,2026-07-03,No
+CUST101186,Female,35,10,Basic,Month-to-month,15.0,147.75,Mailed check,8,2.0,2026-07-06,No
+CUST100677,Female,57,15,Premium,One year,77.63,1172.17,Credit card,19,3.0,2026-06-29,No
+CUST100518,FEMALE,43,30,Basic,Two year,15.0,448.97,Bank transfer,9,2.0,2026-07-31,No
+CUST101350,Female,35,66,Standard,Month-to-month,53.5,3531.37,E-check,11,2.0,2026-07-17,Yes
+CUST101511,Male,68,3,Premium,Two year,99.11,282.97,E-check,17,0.0,2026-07-30,No
+CUST100067,Male,43,24,Basic,One year,30.39,714.78,Credit card,13,0.0,2026-07-22,No
+CUST100332,Female,21,37,Basic,Month-to-month,23.79,879.62,E-check,10,,2026-07-30,No
+CUST100568,Male,36,49,Standard,One year,55.41,2708.89,E-check,9,2.0,2026-08-01,No
+CUST101173,Male,58,8,Standard,Month-to-month,60.23,508.48,E-check,13,1.0,2026-07-31,No
+CUST101198,Male,64,0,Standard,One year,57.4,,Bank transfer,11,3.0,2026-07-12,No
+CUST101433,Female,63,27,Standard,Month-to-month,46.02,1224.46,Credit card,14,2.0,2026-07-21,No
+CUST101074,Male,20,18,Standard,Month-to-month,45.86,823.85,Mailed check,11,1.0,2026-07-31,No
+CUST100472,Male,55,25,Premium,One year,92.95,2331.08,Mailed check,14,0.0,2026-07-19,Yes
+CUST101510,Male,49,49,Standard,Month-to-month,68.72,3344.52,E-check,20,0.0,2026-06-28,No
+CUST100511,Female,69,33,Standard,One year,55.49,1843.3,Credit card,9,2.0,2026-07-19,No
+CUST100477,Female,50,64,Standard,Two year,54.55,3475.52,Mailed check,12,0.0,2026-07-29,No
+CUST101427,Male,34,21,Premium,One year,93.83,1939.04,Credit card,13,1.0,2026-07-03,No
+CUST101401,Male,25,56,Basic,Month-to-month,16.86,942.21,E-check,10,2.0,2026-07-20,No
+CUST100318,Male,58,36,Standard,Month-to-month,54.66,1969.51,Credit card,11,0.0,2026-06-03,Yes
+CUST100955,Male,42,33,Basic,Month-to-month,25.36,853.65,E-check,15,3.0,2026-07-08,Yes
+CUST101719,Male,43,48,Basic,One year,21.81,1084.93,E-check,14,2.0,2026-06-30,No
+CUST101201,Female,55,4,Premium,Month-to-month,97.13,391.55,Mailed check,12,1.0,2026-07-31,Yes
+CUST100581,Male,35,26,Premium,Two year,94.05,2461.21,,12,2.0,2026-06-23,No
+CUST100132,Male,65,11,Basic,Month-to-month,22.61,239.09,Bank transfer,13,1.0,2026-08-01,Yes
+CUST101725,Female,67,16,Premium,Month-to-month,88.27,1403.27,Credit card,12,1.0,2026-07-31,No
+CUST101005,Male,21,66,Basic,Month-to-month,23.42,1541.98,Credit card,8,1.0,2026-07-02,Yes
+CUST101939,Male,60,34,Premium,Month-to-month,88.96,3005.0,Credit card,11,3.0,2026-06-24,Yes
+CUST101790,Male,33,20,Basic,One year,26.54,554.04,Bank transfer,10,3.0,2026-06-14,Yes
+CUST101952,Male,54,69,Standard,Two year,53.96,3697.13,E-check,18,1.0,2026-06-08,No
+CUST100368,Male,51,46,Premium,Month-to-month,79.77,3680.06,Credit card,16,1.0,2026-05-22,No
+CUST100732,Male,43,27,Basic,Month-to-month,25.82,700.6,Credit card,13,0.0,2026-07-20,No
+CUST100417,Female,61,11,Standard,One year,66.48,705.03,Bank transfer,7,1.0,2026-07-29,No
+CUST100125,Female,73,1,Basic,Month-to-month,34.98,27.23,Credit card,13,0.0,2026-07-24,No
+CUST100857,Male,38,25,Basic,Month-to-month,29.15,734.96,E-check,11,1.0,2026-07-22,Yes
+CUST101041,Female,31,56,Standard,Month-to-month,51.19,2821.44,E-check,10,2.0,2026-07-27,No
+CUST100256,Male,23,40,Basic,Two year,26.96,1069.93,E-check,10,0.0,2026-07-17,No
+CUST101969,Male,33,34,Basic,Month-to-month,27.99,944.46,Credit card,10,2.0,2026-07-24,No
+CUST101548,Male,46,19,Standard,One year,49.66,927.75,Credit card,11,1.0,2026-07-27,No
+CUST100289,Female,48,27,Basic,Month-to-month,24.82,657.47,Bank transfer,15,1.0,2026-07-07,No
+CUST101283,Male,19,0,Basic,One year,39.75,0.0,Credit card,19,1.0,2026-07-04,No
+CUST100777,Female,18,58,Basic,Month-to-month,26.75,1540.69,Mailed check,14,1.0,2026-06-25,No
+CUST100081,Female,50,22,Basic,Month-to-month,29.89,636.32,E-check,16,,2026-07-10,No
+CUST100053,Female,59,33,Basic,Month-to-month,22.57,725.46,E-check,17,0.0,2026-03-20,No
+CUST101599,Male,44,33,Premium,Month-to-month,89.13,2956.34,Credit card,13,2.0,2026-06-18,No
+CUST101479,Female,44,23,Standard,One year,69.29,1593.75,Mailed check,9,1.0,2026-07-18,No
+CUST100557,Female,31,3,Premium,Month-to-month,85.8,233.56,,11,1.0,2026-07-27,No
+CUST100040,Male,68,46,Standard,Two year,54.55,2495.7,E-check,12,1.0,2026-06-16,Yes
+CUST101714,Female,64,21,Standard,Two year,54.45,1173.35,Mailed check,14,1.0,2026-07-28,No
+CUST100261,Female,45,65,Basic,Month-to-month,25.8,1668.55,Credit card,8,1.0,2026-07-05,Yes
+CUST100992,Female,26,61,Basic,Month-to-month,32.13,1961.76,E-check,8,1.0,2026-07-06,No
+CUST100912,Male,60,57,Basic,Month-to-month,30.52,1738.21,E-check,8,1.0,2026-07-16,No
+CUST100083,Female,62,45,Basic,Month-to-month,35.74,1553.92,Bank transfer,20,,2026-06-22,No
+CUST101121,Male,72,26,Premium,Two year,111.04,2910.1,Credit card,15,2.0,2026-07-20,Yes
+CUST101889,Male,39,68,Standard,Month-to-month,48.22,3251.44,Mailed check,16,3.0,2026-07-23,No
+CUST101553,FEMALE,67,12,Standard,Month-to-month,52.67,637.61,Bank transfer,10,2.0,2026-06-27,No
+CUST100824,Female,26,66,Standard,Two year,60.17,3979.83,Credit card,4,2.0,2026-07-29,No
+CUST100030,Male,40,29,Basic,Two year,23.29,697.14,Credit card,9,0.0,2026-07-21,No
+CUST100513,Female,39,59,Premium,Two year,101.84,5974.08,Credit card,16,0.0,2026-07-26,No
+CUST101081,Male,21,5,Basic,Two year,25.03,128.47,Mailed check,16,2.0,2026-07-28,Yes
+CUST101297,Male,63,25,Standard,Month-to-month,54.59,1352.73,Credit card,17,0.0,2026-06-16,No
+CUST101675,Male,63,67,Basic,Month-to-month,22.11,1438.81,Mailed check,8,2.0,2026-06-30,Yes
+CUST101022,Female,66,61,Basic,One year,36.88,2241.61,E-check,12,2.0,2026-07-17,No
+CUST101221,Female,44,24,Standard,Two year,55.42,1345.42,Credit card,16,1.0,2026-07-28,No
+CUST101305,Male,56,61,Standard,One year,60.91,3716.56,Credit card,12,2.0,2026-06-02,No
+CUST101593,Female,60,28,Basic,Month-to-month,15.0,404.71,Credit card,14,0.0,2026-05-28,No
+CUST101588,Male,57,11,Basic,Month-to-month,35.82,429.2,Mailed check,16,0.0,2026-07-09,Yes
+CUST100856,Male,42,70,Basic,Month-to-month,38.67,2724.14,E-check,10,2.0,2026-05-01,No
+CUST101834,Female,35,19,Basic,Two year,36.14,681.22,Credit card,17,1.0,2026-07-17,No
+CUST101874,Female,18,22,Basic,One year,16.46,363.49,Mailed check,19,1.0,2026-07-01,No
+CUST100048,Female,47,10,Basic,Two year,23.06,237.42,E-check,17,0.0,2026-06-27,No
+CUST101996,Female,29,2,Standard,Month-to-month,49.48,107.33,Credit card,9,1.0,2026-07-06,No
+CUST101855,Female,24,0,Standard,Two year,64.21,,Bank transfer,14,2.0,2026-06-21,No
+CUST100467,Male,47,56,Premium,One year,92.88,5202.16,Mailed check,13,1.0,2026-07-15,No
+CUST100153,MALE,30,53,Basic,One year,25.04,1341.74,E-check,10,0.0,2026-07-25,No
+CUST101950,Female,58,19,Standard,Month-to-month,50.15,986.79,E-check,8,3.0,2026-06-17,No
+CUST101961,MALE,57,43,Basic,Month-to-month,34.46,1486.27,Bank transfer,17,0.0,2026-07-14,Yes
+CUST100394,Male,45,16,Standard,One year,52.64,834.85,E-check,11,2.0,2026-05-28,No
+CUST100123,Male,62,67,Basic,Month-to-month,36.17,2437.54,Credit card,13,1.0,2026-06-18,No
+CUST100355,Male,46,5,Basic,One year,29.11,154.51,Bank transfer,13,2.0,2026-07-24,No
+CUST100134,Male,70,10,Basic,One year,24.33,231.27,E-check,15,2.0,2026-08-01,No
+CUST100268,Male,42,2,Standard,Two year,63.15,160.8,E-check,17,0.0,2026-06-05,Yes
+CUST100385,Female,31,43,Standard,Two year,62.21,2687.43,E-check,14,1.0,2026-04-21,No
+CUST100609,Female,45,46,Basic,One year,32.67,1473.58,Mailed check,7,2.0,2026-07-27,No
+CUST100220,Male,57,40,Standard,One year,71.21,2833.78,Bank transfer,13,1.0,2026-07-23,No
+CUST100041,Male,65,57,Standard,Month-to-month,57.02,3216.86,E-check,10,3.0,2026-07-31,Yes
+CUST100219,Male,32,54,Standard,Month-to-month,41.72,2269.73,Bank transfer,13,1.0,2026-07-28,No
+CUST100597,Male,32,59,Standard,Month-to-month,44.31,2556.23,E-check,10,2.0,2026-07-21,No
+CUST101844,Female,42,34,Standard,Month-to-month,47.55,1660.09,Bank transfer,15,2.0,2026-07-19,No
+CUST101247,Female,42,45,Basic,Month-to-month,19.44,884.42,E-check,13,1.0,2026-07-22,No
+CUST100680,Female,53,26,Basic,Month-to-month,18.83,498.67,Bank transfer,15,2.0,2026-06-13,Yes
+CUST101082,Male,30,26,Standard,One year,56.99,1493.91,Mailed check,8,2.0,2026-07-30,No
+CUST101908,Female,32,0,Basic,One year,18.99,1.83,E-check,14,0.0,2026-07-22,Yes
+CUST100858,Female,32,39,Standard,Two year,57.38,2265.89,Bank transfer,14,1.0,2026-07-30,No
+CUST100541,Female,25,31,Standard,Month-to-month,65.53,2005.34,Mailed check,15,2.0,2026-07-26,Yes
+CUST101050,Female,20,27,Basic,Month-to-month,29.39,792.91,E-check,17,2.0,2026-06-13,No
+CUST101581,Female,25,34,Basic,Two year,20.43,699.53,E-check,14,2.0,2026-06-23,No
+CUST101368,Male,35,24,Standard,Two year,62.94,1519.09,E-check,18,4.0,2026-05-31,No
+CUST101882,Male,19,63,Basic,One year,30.57,1947.21,Mailed check,8,3.0,2026-07-29,No
+CUST101078,Female,23,33,Standard,Two year,55.25,1800.46,Credit card,9,3.0,2026-07-16,No
+CUST101343,Male,30,56,Basic,Two year,39.66,2231.8,Credit card,8,1.0,2026-06-23,No
+CUST101699,Female,64,61,Basic,One year,36.33,2260.72,E-check,7,2.0,2026-07-10,No
+CUST100997,FEMALE,59,43,Basic,One year,21.47,947.89,E-check,10,1.0,2026-05-11,No
+CUST101475,Female,27,47,Basic,Two year,19.14,852.94,Bank transfer,11,1.0,2026-05-27,No
+CUST101578,FEMALE,25,47,Premium,Month-to-month,87.46,4113.13,Mailed check,11,0.0,2026-07-09,No
+CUST101823,Female,65,26,Premium,Month-to-month,77.52,2008.61,Bank transfer,16,2.0,2026-07-23,No
+CUST101787,Female,31,48,Basic,Two year,25.44,1208.64,Bank transfer,16,0.0,2026-07-25,No
+CUST101575,Male,42,44,Basic,One year,19.19,880.22,Bank transfer,9,2.0,2026-05-08,No
+CUST101822,Female,32,37,Basic,Month-to-month,21.63,804.33,Bank transfer,9,0.0,2026-07-20,No
+CUST100981,Female,59,58,Basic,Two year,40.42,2347.75,E-check,13,3.0,2026-07-14,No
+CUST101419,Male,40,60,Standard,Month-to-month,53.63,3228.51,Mailed check,12,3.0,2026-07-19,No
+CUST101454,Male,65,7,Premium,Month-to-month,84.36,630.22,Credit card,12,2.0,2026-07-27,Yes
+CUST100336,Male,39,33,Standard,Month-to-month,60.62,1994.59,E-check,8,1.0,2026-07-16,Yes
+CUST100232,Female,35,71,Basic,Month-to-month,28.23,1991.09,Mailed check,11,0.0,2026-07-29,No
+CUST101008,Female,36,71,Standard,Month-to-month,54.79,3906.08,Mailed check,5,0.0,2026-07-24,No
+CUST101423,Male,68,20,Standard,Month-to-month,53.33,1036.0,Mailed check,14,1.0,2026-06-29,No
+CUST100158,Male,21,25,Standard,Two year,61.62,1543.91,E-check,23,0.0,2026-07-11,No
+CUST100468,Male,35,46,Standard,One year,57.72,2634.59,E-check,6,2.0,2026-07-29,No
+CUST100882,Male,63,3,Basic,Month-to-month,20.81,75.0,Mailed check,23,3.0,2026-06-25,No
+CUST101619,Male,74,38,Standard,Month-to-month,56.31,2109.84,Bank transfer,14,1.0,2026-06-16,No
+CUST101034,Male,52,13,Premium,Month-to-month,84.25,1091.81,Mailed check,9,1.0,2026-07-08,No
+CUST101132,Female,25,16,Standard,Month-to-month,48.38,787.14,Mailed check,13,,2026-07-26,Yes
+CUST101126,Female,72,27,Premium,Month-to-month,86.05,2317.42,Credit card,11,2.0,2026-07-25,No
+CUST100585,Male,39,14,Basic,Month-to-month,29.5,396.59,E-check,14,0.0,2026-07-02,Yes
+CUST100205,Male,51,38,Basic,One year,38.39,1458.6,Mailed check,14,2.0,2026-07-21,No
+CUST100003,Male,41,20,Premium,Month-to-month,85.37,1706.4,Mailed check,11,0.0,2026-07-14,No
+CUST100887,Female,25,52,Standard,Two year,57.4,2982.15,Credit card,8,2.0,2026-06-24,No
+CUST101785,Female,72,53,Standard,One year,64.18,3414.21,Mailed check,11,0.0,2026-06-16,No
+CUST101447,Female,71,5,Standard,Month-to-month,65.35,325.18,Credit card,10,3.0,2026-07-17,Yes
+CUST101845,Male,38,52,Basic,Month-to-month,18.89,978.97,Bank transfer,11,0.0,2026-06-16,Yes
+CUST101468,Female,21,15,Standard,Two year,46.31,715.49,Mailed check,19,1.0,2026-07-29,No
+CUST101109,Male,47,8,Premium,Two year,106.2,856.44,Credit card,10,2.0,2026-07-27,No
+CUST100693,Female,27,6,Standard,Month-to-month,61.47,376.11,E-check,8,2.0,2026-07-29,Yes
+CUST101673,Male,36,54,Premium,One year,90.69,4917.92,Mailed check,15,2.0,2026-07-25,No
+CUST101654,Female,72,39,Basic,One year,33.73,1314.0,Bank transfer,14,1.0,2026-07-27,No
+CUST100714,Female,54,55,Standard,Month-to-month,46.86,2544.44,Mailed check,8,0.0,2026-07-19,No
+CUST100951,Female,66,0,Standard,Month-to-month,40.92,,Credit card,13,1.0,2026-07-25,No
+CUST101583,Female,61,36,Basic,Month-to-month,15.0,555.26,E-check,8,1.0,2026-07-26,No
+CUST101327,Male,39,14,Premium,Month-to-month,99.72,1381.71,Mailed check,7,0.0,2026-07-22,Yes
+CUST100883,Female,26,66,Standard,One year,74.25,4907.64,Credit card,20,1.0,2026-07-26,No
+CUST101644,Male,56,64,Basic,One year,39.23,2495.97,Credit card,13,2.0,2026-05-22,No
+CUST101620,Male,37,27,Basic,Two year,19.24,512.01,Mailed check,20,3.0,2026-06-16,No
+CUST101113,Male,61,35,Basic,Two year,26.4,969.16,E-check,10,1.0,2026-07-31,No
+CUST101203,Female,62,70,Basic,One year,18.7,1320.67,Mailed check,15,1.0,2026-05-26,No
+CUST101062,Male,43,23,Basic,Month-to-month,31.9,736.67,E-check,14,1.0,2026-07-15,Yes
+CUST100157,Female,69,18,Standard,Month-to-month,57.42,1080.15,Bank transfer,12,3.0,2026-07-28,No
+CUST101056,Female,28,48,Standard,One year,69.48,3332.99,Bank transfer,7,4.0,2026-06-29,No
+CUST100523,Male,59,54,Premium,Month-to-month,91.76,4979.71,Bank transfer,11,3.0,2026-07-22,No
+CUST100462,Female,30,40,Premium,Two year,82.26,3313.93,E-check,18,2.0,2026-07-21,No
+CUST100652,Male,72,9,Basic,Month-to-month,15.0,101.52,,14,1.0,2026-07-29,No
+CUST100160,Male,37,21,Basic,Month-to-month,31.3,652.14,Credit card,13,1.0,2026-07-13,No
+CUST100305,Male,34,22,Basic,One year,30.63,687.45,Credit card,14,0.0,2026-07-05,Yes
+CUST100656,Male,62,52,Standard,Two year,38.58,1989.53,Bank transfer,20,0.0,2026-07-13,No
+CUST100547,Female,28,19,Basic,Month-to-month,21.26,403.15,,14,1.0,2026-07-29,Yes
+CUST100713,Female,29,4,Standard,One year,49.72,181.13,Bank transfer,10,1.0,2026-07-27,No
+CUST100395,Female,46,23,Standard,Month-to-month,64.65,1491.54,Bank transfer,12,2.0,2026-07-21,No
+CUST100783,Female,22,25,Premium,Two year,88.47,2231.41,Credit card,5,2.0,2026-06-17,No
+CUST100399,Male,54,27,Basic,Two year,29.32,799.27,E-check,10,1.0,2026-06-01,No
+CUST100798,Male,43,58,Standard,Month-to-month,39.22,2266.76,Credit card,10,1.0,2026-07-19,Yes
+CUST100618,Male,53,40,Standard,One year,63.78,2565.08,Mailed check,14,0.0,2026-06-05,No
+CUST101543,Male,45,32,Standard,Month-to-month,63.68,2045.64,Mailed check,12,0.0,2026-06-26,No
+CUST100508,Female,47,65,Basic,One year,26.28,1695.33,Credit card,14,2.0,2026-07-05,No
+CUST101375,Male,55,57,Basic,Month-to-month,30.73,1760.87,E-check,13,1.0,2026-06-20,No
+CUST100736,Female,52,51,Premium,Month-to-month,81.56,4183.61,Mailed check,17,2.0,2026-07-21,No
+CUST101168,Male,50,38,Standard,Month-to-month,44.38,1731.92,Bank transfer,20,1.0,2026-07-23,No
+CUST101676,MALE,36,58,Standard,Month-to-month,56.79,3291.24,Credit card,11,1.0,2026-07-31,Yes
+CUST100985,Female,39,39,Basic,Month-to-month,24.54,947.76,Bank transfer,10,1.0,2026-07-21,Yes
+CUST100867,Female,50,45,Basic,Two year,32.09,1431.01,Mailed check,11,3.0,2026-07-09,No
+CUST100459,Male,41,63,Standard,Month-to-month,51.96,3257.04,Bank transfer,9,2.0,2026-07-30,No
+CUST101336,Male,38,47,Standard,One year,58.01,2731.7,Mailed check,14,0.0,2026-07-20,No
+CUST100062,Male,51,71,Basic,Two year,33.95,2419.12,E-check,13,2.0,2026-07-12,No
+CUST101831,Male,74,66,Standard,Month-to-month,61.36,4053.1,Mailed check,13,1.0,2026-07-18,Yes
+CUST100871,Female,52,36,Standard,Month-to-month,65.57,2341.16,,11,0.0,2026-07-21,No
+CUST101884,Male,51,52,Standard,One year,59.46,3105.64,Mailed check,12,4.0,2026-07-25,No
+CUST101710,Male,64,61,Standard,Two year,41.21,2557.44,Mailed check,10,4.0,2026-07-21,No
+CUST100457,Female,70,9,Basic,Month-to-month,29.3,256.6,Bank transfer,20,0.0,2026-07-31,Yes
+CUST100954,Male,43,56,Basic,Month-to-month,26.47,1497.95,Bank transfer,10,1.0,2026-07-07,No
+CUST100478,Male,55,35,Basic,One year,25.21,874.26,Bank transfer,11,0.0,2026-07-27,Yes
+CUST101347,Male,62,44,Basic,Two year,24.05,1044.71,Bank transfer,12,2.0,2026-06-03,No
+CUST101487,Male,33,24,Standard,Month-to-month,49.95,1178.09,Mailed check,8,1.0,2026-07-03,No
+CUST100870,Male,66,14,Standard,One year,53.34,751.59,E-check,15,0.0,2026-08-01,No
+CUST100790,Female,72,65,Premium,Two year,76.22,4930.94,E-check,10,1.0,2026-07-22,No
+CUST100617,Female,58,27,Basic,Month-to-month,17.36,470.28,E-check,17,1.0,2026-07-16,Yes
+CUST101902,Male,37,53,Basic,Month-to-month,26.05,1385.42,E-check,6,0.0,2026-06-30,No
+CUST101382,Male,34,5,Basic,Month-to-month,28.96,133.01,Mailed check,15,2.0,2026-07-02,Yes
+CUST101421,Male,18,44,Standard,Month-to-month,51.25,2242.74,Bank transfer,19,2.0,2026-06-04,No
+CUST101925,Male,73,12,Basic,One year,28.38,360.55,Bank transfer,12,1.0,2026-07-30,No
+CUST101626,Male,23,3,Basic,Month-to-month,21.46,58.37,Bank transfer,10,4.0,2026-08-01,Yes
+CUST100347,Female,64,44,Standard,One year,51.29,2269.66,Mailed check,12,1.0,2026-08-01,No
+CUST101018,Female,72,27,Premium,Month-to-month,97.31,2623.27,E-check,4,2.0,2026-07-20,Yes
+CUST101200,Male,59,28,Basic,One year,29.33,814.88,Credit card,10,0.0,2026-07-31,No
+CUST101534,Male,40,64,Basic,Month-to-month,27.44,1741.7,Mailed check,13,6.0,2026-07-19,Yes
+CUST100760,Female,64,45,Basic,One year,37.31,1678.5,E-check,5,1.0,2026-07-15,No
+CUST100446,Male,34,66,Premium,Month-to-month,88.16,5839.43,Mailed check,12,1.0,2026-07-17,No
+CUST100650,Male,31,48,Basic,Two year,26.75,1287.27,Mailed check,7,1.0,2026-07-01,Yes
+CUST101238,Male,130,4,Basic,One year,16.23,105.95,Mailed check,15,2.0,2026-07-09,No
+CUST101798,Male,61,27,Basic,Month-to-month,39.11,1046.85,,17,1.0,2026-07-26,Yes
+CUST100379,Male,46,2,Basic,Month-to-month,15.21,0.0,E-check,13,2.0,2026-07-18,Yes
+CUST100564,Female,30,56,Premium,Month-to-month,85.9,4807.17,Credit card,14,3.0,2026-07-12,No
+CUST101739,Male,59,15,Basic,Two year,18.66,299.54,Mailed check,8,0.0,2026-07-18,No
+CUST101742,Female,43,29,Standard,One year,40.28,1172.07,,18,0.0,2026-07-11,No
+CUST101829,Male,73,24,Basic,Month-to-month,20.78,505.43,Mailed check,17,2.0,2026-07-08,Yes
+CUST101922,Female,66,46,Premium,Month-to-month,87.6,4034.37,Bank transfer,8,0.0,2026-07-28,No
+CUST100967,Female,66,64,Standard,One year,56.77,3603.27,Mailed check,15,0.0,2026-07-09,No
+CUST100920,Male,70,46,Basic,Month-to-month,25.71,1171.07,Mailed check,11,0.0,2026-07-20,No
+CUST100231,Female,43,18,Basic,Two year,30.17,531.4,E-check,12,1.0,2026-07-29,No
+CUST101974,Female,67,60,Standard,Month-to-month,49.15,2965.15,Credit card,15,4.0,2026-06-20,Yes
+CUST100382,Female,49,50,Basic,Two year,34.64,1741.15,Bank transfer,15,4.0,2026-07-21,No
+CUST101178,Male,26,57,Basic,Two year,41.78,2361.49,Credit card,9,1.0,2026-07-19,No
+CUST101215,Male,31,22,Premium,Two year,84.61,1868.7,Bank transfer,15,0.0,2026-07-15,No
+CUST100072,Male,32,20,Basic,One year,32.87,651.88,E-check,12,1.0,2026-07-01,No
+CUST100070,Female,61,14,Premium,Month-to-month,90.24,1267.34,Credit card,7,0.0,2026-07-23,Yes
+CUST101342,Male,18,35,Basic,Month-to-month,28.5,988.6,Bank transfer,15,2.0,2026-07-14,No
+CUST101085,Male,22,69,Premium,Two year,99.8,6881.44,Bank transfer,8,1.0,2026-07-30,No
+CUST100171,Male,43,3,Premium,Month-to-month,105.91,320.53,Bank transfer,12,0.0,2026-07-17,Yes
+CUST101294,Female,38,70,Premium,Month-to-month,91.05,6347.28,E-check,11,2.0,2026-07-20,Yes
+CUST100168,Male,60,54,Basic,Two year,22.7,1215.85,Credit card,11,,2026-07-10,No
+CUST100493,Female,71,22,Standard,Month-to-month,46.42,992.45,Credit card,6,2.0,2026-07-18,No
+CUST101252,Female,38,5,Basic,Month-to-month,15.0,64.31,Credit card,14,3.0,2026-07-20,Yes
+CUST101667,Male,41,37,Basic,Two year,28.77,1084.49,E-check,6,0.0,2026-07-16,No
+CUST101943,FEMALE,28,57,Basic,Month-to-month,23.51,1334.75,Credit card,16,0.0,2026-07-24,No
+CUST100893,Male,46,56,Basic,Month-to-month,23.08,1251.61,Credit card,9,0.0,2026-07-30,Yes
+CUST100272,Female,44,37,Basic,Month-to-month,22.4,795.67,E-check,12,0.0,2026-07-20,No
+CUST101296,Male,45,68,Basic,One year,17.28,1164.84,Mailed check,11,0.0,2026-07-19,No
+CUST100420,Female,25,18,Premium,Month-to-month,94.11,1697.2,Mailed check,13,1.0,2026-07-03,No
+CUST100094,Female,30,25,Premium,Two year,85.23,2125.24,E-check,16,3.0,2026-07-28,No
+CUST101369,Female,57,35,Basic,Two year,28.61,1018.66,Credit card,18,0.0,2026-08-01,No
+CUST101584,Female,22,56,Standard,Month-to-month,51.74,2919.88,Bank transfer,13,3.0,2026-07-16,No
+CUST101595,Female,27,10,Basic,One year,22.71,241.9,E-check,10,3.0,2026-07-23,Yes
+CUST100042,Female,25,56,Basic,One year,20.11,1130.83,E-check,13,3.0,2026-06-26,No
+CUST100056,Female,31,27,Basic,Month-to-month,27.82,772.47,E-check,13,0.0,2026-06-28,Yes
+CUST101601,Male,19,49,Standard,Month-to-month,47.1,2329.5,E-check,12,3.0,2026-07-12,Yes
+CUST101494,Female,34,60,Standard,Month-to-month,64.19,3835.78,E-check,8,2.0,2026-07-28,No
+CUST101942,Female,68,68,Standard,One year,42.69,2893.15,E-check,8,3.0,2026-07-31,No
+CUST101633,Male,37,45,Basic,One year,23.02,1039.2,Mailed check,8,0.0,2026-07-21,No
+CUST100888,FEMALE,65,22,Basic,Month-to-month,27.44,638.62,E-check,17,0.0,2026-07-02,No
+CUST100574,Male,46,63,Basic,Month-to-month,24.66,1573.57,E-check,9,1.0,2026-06-09,No
+CUST100038,Male,24,40,Premium,One year,102.97,4133.01,Bank transfer,10,2.0,2026-06-28,No
+CUST100306,FEMALE,57,47,Standard,Month-to-month,63.23,2973.12,E-check,11,1.0,2026-06-29,Yes
+CUST100668,Male,34,11,Standard,Month-to-month,50.42,532.35,Mailed check,14,2.0,2026-07-12,No
+CUST100006,Male,48,33,Standard,Two year,46.43,1526.8,E-check,6,3.0,2026-07-15,No
+CUST101196,Female,59,2,Basic,One year,19.53,54.32,E-check,8,1.0,2026-07-07,No
+CUST100782,Female,55,54,Premium,One year,91.55,4929.26,E-check,18,,2026-07-23,No
+CUST100408,Female,32,46,Premium,Month-to-month,95.37,4382.21,Mailed check,17,0.0,2026-07-31,No
+CUST101890,Female,29,58,Standard,One year,52.33,3030.31,E-check,11,1.0,2026-06-24,No
+CUST100781,Male,49,18,Standard,Month-to-month,60.51,1078.38,E-check,11,2.0,2026-07-31,Yes
+CUST100166,Female,63,50,Standard,Month-to-month,48.78,2434.38,Credit card,6,2.0,2026-07-27,No
+CUST100534,Male,56,52,Standard,Month-to-month,44.72,2308.44,E-check,12,0.0,2026-07-14,Yes
+CUST100583,Female,35,43,Standard,Two year,52.04,2233.22,E-check,11,0.0,2026-07-17,No
+CUST101259,Male,29,9,Standard,Two year,48.64,425.36,E-check,13,2.0,2026-07-30,No
+CUST101910,Female,57,21,Standard,Month-to-month,40.49,866.34,E-check,10,2.0,2026-07-24,No
+CUST101429,Male,37,3,Basic,Two year,17.01,31.14,E-check,9,2.0,2026-07-19,No
+CUST101994,Male,49,65,Basic,Month-to-month,15.0,957.55,E-check,15,0.0,2026-07-24,No
+CUST101774,Male,53,10,Basic,One year,34.54,335.04,Bank transfer,6,0.0,2026-08-01,No
+CUST101263,Male,30,10,Standard,Two year,44.9,478.78,E-check,16,,2026-07-26,No
+CUST101898,Female,66,71,Basic,Month-to-month,28.95,2097.36,Mailed check,11,3.0,2026-07-14,No
+CUST101114,Male,53,45,Premium,One year,93.75,4205.59,E-check,14,4.0,2026-07-09,No
+CUST101123,Male,59,49,Premium,Month-to-month,82.17,4001.61,Mailed check,10,1.0,2026-04-25,No
+CUST101380,Female,66,70,Premium,Month-to-month,96.49,6744.72,Bank transfer,22,1.0,2026-06-25,No
+CUST100813,Female,33,66,Standard,One year,52.06,3465.95,Bank transfer,19,2.0,2026-07-13,No
+CUST100316,Male,24,6,Basic,Two year,34.2,212.82,Mailed check,15,3.0,2026-07-28,No
+CUST101288,Female,32,63,Standard,Month-to-month,58.67,3667.64,Mailed check,7,2.0,2026-07-13,No
+CUST101958,MALE,32,13,Standard,Two year,61.68,832.87,E-check,15,0.0,2026-07-23,Yes
+CUST100516,Female,55,12,Basic,Month-to-month,26.91,303.76,Bank transfer,14,3.0,2026-07-12,Yes
+CUST101860,Female,41,48,Standard,Month-to-month,61.62,2945.84,Mailed check,15,3.0,2026-07-25,No
+CUST101674,Male,66,38,Standard,Month-to-month,59.4,2283.47,Credit card,9,2.0,2026-07-21,No
+CUST101693,Male,72,27,Standard,Month-to-month,53.86,1453.26,Mailed check,12,0.0,2026-07-21,No
+CUST100533,Male,26,18,Standard,Month-to-month,57.97,1029.3,E-check,10,2.0,2026-07-12,Yes
+CUST100173,Female,66,44,Standard,Two year,48.75,2147.59,Credit card,15,1.0,2026-07-11,No
+CUST101048,Male,38,57,Premium,One year,96.92,5530.0,Mailed check,8,1.0,2026-08-01,No
+CUST100271,Female,53,1,Standard,Month-to-month,56.35,80.77,Bank transfer,13,1.0,2026-07-31,Yes
+CUST100548,Female,37,31,Standard,One year,36.89,1162.25,Mailed check,8,0.0,2026-07-10,No
+CUST100964,Male,48,46,Basic,Month-to-month,17.69,824.22,Bank transfer,11,1.0,2026-07-07,No
+CUST101703,Male,62,9,Standard,Month-to-month,47.95,456.58,Mailed check,12,3.0,2026-07-26,No
+CUST101636,Male,71,63,Standard,Month-to-month,51.45,3268.46,E-check,11,1.0,2026-07-28,No
+CUST100598,Female,50,54,Standard,Month-to-month,53.61,2881.73,E-check,7,1.0,2026-07-29,Yes
+CUST101609,Male,59,71,Basic,Month-to-month,20.66,1435.48,E-check,13,1.0,2026-07-11,No
+CUST100570,Female,63,40,Standard,Two year,58.03,2323.69,E-check,10,1.0,2026-06-26,Yes
+CUST100074,Male,66,52,Premium,One year,93.89,4933.82,E-check,12,0.0,2026-07-07,No
+CUST100061,Male,62,0,Basic,Month-to-month,31.16,,E-check,22,1.0,2026-07-07,No
+CUST101992,Male,71,44,Premium,Two year,100.64,4434.33,Bank transfer,8,2.0,2026-07-23,No
+CUST100809,Male,50,71,Basic,One year,20.7,1474.63,Credit card,11,0.0,2026-06-02,Yes
+CUST100244,Male,49,46,Standard,One year,57.34,2639.38,Bank transfer,12,2.0,2026-07-23,No
+CUST101104,Female,55,64,Basic,Month-to-month,26.92,1692.05,Mailed check,15,0.0,2026-06-18,No
+CUST101448,Female,49,55,Standard,One year,60.2,3331.1,Mailed check,13,0.0,2026-07-27,No
+CUST100105,Female,70,18,Basic,One year,16.78,299.73,E-check,6,0.0,2026-07-30,Yes
+CUST100673,Female,52,24,Standard,One year,56.87,1336.97,E-check,13,3.0,2026-07-29,No
+CUST100642,Female,25,20,Standard,Month-to-month,52.31,1012.84,Bank transfer,11,1.0,2026-07-30,Yes
+CUST101271,FEMALE,46,8,Premium,Two year,90.89,728.35,Credit card,13,0.0,2026-07-28,No
+CUST100665,Male,19,24,Basic,One year,30.03,685.09,Mailed check,9,2.0,2026-07-08,No
+CUST100509,Female,50,39,Basic,Month-to-month,15.25,614.04,E-check,10,1.0,2026-07-22,No
+CUST100131,Male,42,29,Standard,Two year,51.98,1538.77,Mailed check,15,0.0,2026-07-26,Yes
+CUST100444,Female,31,62,Premium,Month-to-month,84.16,5241.86,Mailed check,12,2.0,2026-07-23,Yes
+CUST100866,Male,42,18,Basic,Month-to-month,15.0,272.41,Bank transfer,11,2.0,2026-07-19,No
+CUST101791,Female,33,65,Standard,Two year,55.76,3642.43,Credit card,6,1.0,2026-07-02,No
+CUST101778,Female,61,39,Standard,One year,59.16,2312.13,Credit card,14,2.0,2026-07-14,No
+CUST100057,MALE,48,46,Basic,Month-to-month,28.65,1323.8,Mailed check,9,1.0,2026-05-22,No
+CUST101659,Female,20,38,Basic,Month-to-month,31.92,1233.98,Mailed check,11,2.0,2026-07-02,Yes
+CUST101070,Male,57,19,Basic,Month-to-month,27.82,495.84,Mailed check,14,2.0,2026-07-07,No
+CUST101134,Male,20,40,Basic,Two year,17.96,723.18,Bank transfer,7,0.0,2026-07-26,No
+CUST100086,Female,19,71,Basic,Month-to-month,35.33,2525.1,E-check,10,0.0,2026-07-24,No
+CUST101852,Female,21,3,Standard,Two year,44.65,86.35,Credit card,6,2.0,2026-07-31,Yes
+CUST100771,Male,67,40,Standard,Month-to-month,52.63,2100.8,Mailed check,10,0.0,2026-07-26,No
+CUST101232,Male,71,8,Standard,Month-to-month,53.8,413.38,Credit card,17,2.0,2026-07-13,No
+CUST100708,Female,74,28,Standard,One year,61.03,1711.45,Mailed check,18,1.0,2026-06-22,No
+CUST101558,Male,41,35,Premium,Month-to-month,83.06,2901.21,E-check,8,1.0,2026-07-25,No
+CUST101340,Male,56,5,Standard,Month-to-month,59.9,259.46,Credit card,13,2.0,2026-07-30,Yes
+CUST101563,Female,54,42,Basic,Month-to-month,23.55,1013.51,Credit card,13,2.0,2026-06-30,Yes
+CUST100538,Male,67,30,Basic,Month-to-month,24.74,744.04,,10,1.0,2026-07-12,No
+CUST101880,Female,65,71,Premium,Month-to-month,84.1,5977.95,Bank transfer,8,0.0,2026-07-21,Yes
+CUST101180,FEMALE,28,39,Premium,Month-to-month,84.89,3294.37,Bank transfer,8,2.0,2026-07-15,No
+CUST101554,Female,48,65,Standard,Two year,59.38,3870.81,Mailed check,11,0.0,2026-07-17,No
+CUST101307,Female,34,42,Premium,Month-to-month,80.49,3357.95,Bank transfer,19,2.0,2026-07-15,Yes
+CUST100418,Female,33,69,Standard,Month-to-month,47.83,3297.74,Bank transfer,9,0.0,2026-06-23,No
+CUST101847,Female,74,25,Basic,Two year,25.7,640.95,Mailed check,18,0.0,2026-07-29,No
+CUST101704,Male,50,2,Basic,One year,33.71,76.56,Mailed check,11,2.0,2026-07-15,No
+CUST101281,Male,27,49,Basic,One year,27.46,1360.35,E-check,12,1.0,2026-05-19,No
+CUST100851,Female,28,25,Standard,Two year,43.44,1071.71,E-check,9,1.0,2026-07-29,No
+CUST101749,Male,38,14,Standard,Month-to-month,56.48,819.81,,13,0.0,2026-07-16,No
+CUST101726,Female,20,23,Premium,One year,76.1,1762.71,E-check,13,1.0,2026-07-28,No
+CUST101690,Female,47,37,Basic,Month-to-month,26.12,956.88,Credit card,9,2.0,2026-07-20,No
+CUST101854,Female,74,54,Standard,One year,56.41,3054.38,Mailed check,12,0.0,2026-07-10,No
+CUST101803,Female,60,48,Basic,Month-to-month,37.94,1820.55,Credit card,9,3.0,2026-07-26,No
+CUST101729,Female,66,22,Basic,Month-to-month,26.09,612.88,Credit card,15,2.0,2026-07-13,No
+CUST101795,Female,42,5,Standard,One year,64.29,309.52,Bank transfer,17,4.0,2026-07-21,No
+CUST100304,Female,58,62,Standard,Two year,44.4,2765.05,Credit card,13,1.0,2026-07-23,No
+CUST101516,Male,52,31,Standard,Two year,62.52,1913.91,E-check,14,0.0,2026-07-30,No
+CUST100335,Female,29,7,Basic,Month-to-month,26.4,175.09,Mailed check,15,4.0,2026-07-26,No
+CUST100995,Male,41,19,Standard,Month-to-month,47.42,912.3,E-check,15,1.0,2026-07-22,No
+CUST100569,Male,72,7,Standard,Two year,66.76,456.31,Bank transfer,16,4.0,2026-07-15,No
+CUST100088,FEMALE,52,34,Basic,Two year,22.92,798.45,Mailed check,10,1.0,2026-07-14,No
+CUST100874,Female,43,23,Premium,Month-to-month,88.5,1990.66,Mailed check,19,1.0,2026-07-26,No
+CUST101151,Male,38,61,Standard,One year,57.56,3548.78,Bank transfer,10,1.0,2026-06-03,No
+CUST101523,Male,58,20,Basic,Month-to-month,19.13,385.26,Mailed check,11,1.0,2026-07-20,No
+CUST100712,Male,54,8,Basic,Two year,29.4,208.38,Credit card,11,1.0,2026-07-25,No
+CUST101746,Female,54,20,Basic,Month-to-month,39.86,802.96,E-check,13,2.0,2026-07-26,Yes
+CUST101849,Female,50,33,Premium,Month-to-month,87.55,2856.88,,11,1.0,2026-07-19,No
+CUST101381,Female,58,8,Standard,One year,61.6,463.9,Bank transfer,16,1.0,2026-07-20,No
+CUST100221,Male,42,38,Standard,Month-to-month,71.48,2708.96,Credit card,10,1.0,2026-07-23,No
+CUST100319,Female,49,55,Premium,One year,89.25,4888.0,Credit card,8,0.0,2026-07-14,No
+CUST101755,Female,21,56,Standard,Month-to-month,59.12,3328.25,Bank transfer,14,0.0,2026-07-01,No
+CUST100878,Male,63,60,Premium,Month-to-month,85.48,5118.49,E-check,14,2.0,2026-07-03,No
+CUST101801,Male,53,36,Premium,One year,97.59,3512.78,Mailed check,12,1.0,2026-07-14,Yes
+CUST100825,Female,50,19,Standard,Two year,73.49,1416.19,Credit card,11,2.0,2026-07-31,Yes
+CUST101986,Female,60,67,Basic,Month-to-month,18.75,1256.62,E-check,13,1.0,2026-07-29,No
+CUST101467,Female,53,14,Standard,One year,58.4,785.88,Bank transfer,17,0.0,2026-07-29,No
+CUST100138,Male,32,68,Basic,Month-to-month,35.69,2412.23,Mailed check,7,0.0,2026-07-26,No
+CUST100163,Female,70,37,Standard,One year,46.19,1727.55,E-check,16,0.0,2026-07-28,No
+CUST101781,Female,39,5,Premium,One year,96.49,500.13,E-check,10,1.0,2026-06-28,No
+CUST101450,Female,27,28,Basic,Two year,15.0,456.62,E-check,11,0.0,2026-07-02,No
+CUST100960,Male,61,51,Premium,Month-to-month,73.9,3771.06,Credit card,16,2.0,2026-07-27,No
+CUST101708,Female,37,30,Standard,Month-to-month,55.94,1680.86,E-check,11,1.0,2026-08-01,No
+CUST101242,Male,69,56,Standard,Two year,75.83,4255.13,Bank transfer,14,0.0,2026-07-18,No
+CUST101179,Male,18,59,Premium,Two year,94.78,5572.29,Mailed check,9,1.0,2026-07-19,No
+CUST101930,Female,59,34,Premium,Month-to-month,102.18,3448.78,E-check,15,1.0,2026-07-19,No
+CUST101679,Female,62,5,Basic,One year,30.41,151.92,Mailed check,8,2.0,2026-08-01,Yes
+CUST101804,Male,37,42,Standard,One year,51.79,2157.76,Credit card,14,0.0,2026-07-07,No
+CUST100633,Male,20,8,Standard,Month-to-month,65.39,491.34,Mailed check,9,1.0,2026-07-17,Yes
+CUST101188,Male,23,56,Basic,Month-to-month,18.9,1065.37,Credit card,11,1.0,2026-06-25,No
+CUST100655,Male,55,46,Standard,One year,42.91,1993.66,E-check,10,1.0,2026-08-01,No
+CUST100016,Female,35,19,Premium,Month-to-month,88.72,1689.92,Mailed check,8,1.0,2026-07-24,No
+CUST101688,Male,62,58,Premium,Month-to-month,96.79,5613.17,Mailed check,11,3.0,2026-07-21,Yes
+CUST101165,Female,51,7,Standard,One year,62.37,450.04,Bank transfer,20,1.0,2026-07-10,No
+CUST100137,Male,26,20,Basic,Month-to-month,25.73,510.03,,12,1.0,2026-07-22,Yes
+CUST101225,Female,31,54,Basic,Month-to-month,28.44,1557.61,Bank transfer,9,1.0,2026-07-22,No
+CUST100697,Female,18,42,Premium,Month-to-month,97.1,4090.69,Mailed check,12,1.0,2026-05-24,No
+CUST101097,Female,20,50,Basic,One year,33.5,1666.03,Credit card,6,4.0,2026-07-16,No
+CUST101615,Male,31,7,Standard,Month-to-month,63.69,449.99,E-check,12,0.0,2026-07-28,No
+CUST100448,Male,37,68,Premium,Month-to-month,93.21,6306.87,,11,2.0,2026-07-24,No
+CUST101895,Male,27,29,Standard,Month-to-month,49.0,1397.57,Mailed check,9,2.0,2026-07-28,No
+CUST100327,Male,21,17,Basic,Month-to-month,18.65,297.01,Credit card,12,0.0,2026-08-01,Yes
+CUST100317,Male,27,67,Standard,Month-to-month,58.95,3980.56,E-check,8,1.0,2026-07-16,Yes
+CUST101529,Female,25,21,Standard,Month-to-month,47.98,1015.43,Mailed check,11,2.0,2026-07-21,No
+CUST100526,Male,66,38,Basic,Month-to-month,23.51,889.71,Credit card,13,0.0,2026-07-08,No
+CUST100087,MALE,72,61,Standard,Two year,66.17,4048.33,Credit card,11,0.0,2026-07-30,No
+CUST101274,Male,40,61,Basic,Two year,15.0,934.77,Mailed check,12,0.0,2026-06-29,No
+CUST100148,Male,56,64,Basic,Month-to-month,25.81,1666.3,E-check,8,0.0,2026-07-09,Yes
+CUST101622,Female,33,35,Standard,Month-to-month,52.74,1832.1,,8,2.0,2026-06-17,No
+CUST101208,Male,47,68,Basic,Month-to-month,33.8,2298.11,Mailed check,20,0.0,2026-07-24,No
+CUST101839,Male,54,4,Basic,One year,28.78,109.74,Mailed check,15,1.0,2026-07-29,No
+CUST100365,Male,43,17,Basic,Month-to-month,30.44,519.91,Credit card,16,2.0,2026-07-31,No
+CUST100589,Male,58,69,Premium,One year,98.46,6799.78,Credit card,9,1.0,2026-06-04,No
+CUST101851,Male,70,11,Standard,Month-to-month,67.34,708.29,Bank transfer,14,1.0,2026-07-02,No
+CUST100198,Male,73,60,Basic,Month-to-month,23.13,1417.17,E-check,9,0.0,2026-07-27,No
+CUST101896,Female,52,10,Basic,Two year,15.0,149.59,,15,1.0,2026-07-09,No
+CUST100192,Male,41,13,Standard,Month-to-month,39.15,495.04,Credit card,5,2.0,2026-07-28,No
+CUST100404,Female,22,63,Standard,One year,61.53,3862.53,Mailed check,5,4.0,2026-07-20,No
+CUST101574,Female,64,6,Basic,Two year,23.44,126.94,E-check,14,1.0,2026-07-31,No
+CUST101987,Female,54,39,Premium,Month-to-month,87.89,3479.03,Bank transfer,11,1.0,2026-07-23,No
+CUST100483,Female,68,36,Basic,Month-to-month,27.79,1010.56,E-check,9,1.0,2026-07-31,No
+CUST101461,Male,26,42,Basic,One year,33.66,1374.32,Credit card,18,1.0,2026-07-26,No
+CUST100791,Female,43,33,Standard,Month-to-month,55.98,1867.61,Mailed check,11,1.0,2026-07-13,No
+CUST100799,Male,25,43,Basic,One year,32.71,1416.61,Mailed check,11,1.0,2026-07-30,No
+CUST100384,Male,64,20,Standard,Month-to-month,58.0,1160.3,Credit card,15,0.0,2026-07-23,No
+CUST100750,Female,41,26,Basic,Month-to-month,15.0,367.05,Mailed check,11,0.0,2026-08-01,Yes
+CUST100422,Female,42,47,Standard,One year,48.08,2257.29,Bank transfer,12,2.0,2026-07-25,No
+CUST100314,Male,36,27,Basic,Month-to-month,40.83,1090.98,Bank transfer,18,1.0,2026-07-25,Yes
+CUST101021,Male,64,32,Basic,Month-to-month,20.08,633.56,Mailed check,12,4.0,2026-07-30,No
+CUST100543,Female,45,9,Basic,Month-to-month,25.37,229.59,E-check,8,0.0,2026-07-21,No
+CUST100913,Female,62,49,Basic,Month-to-month,15.0,769.4,Credit card,9,1.0,2026-07-26,No
+CUST100662,Male,56,13,Basic,Month-to-month,26.76,362.82,Credit card,9,0.0,2026-07-24,No
+CUST100902,Female,61,60,Basic,Month-to-month,29.2,1739.03,Bank transfer,11,2.0,2026-06-24,No
+CUST101956,Female,26,3,Standard,One year,65.35,167.2,Credit card,9,2.0,2026-06-20,No
+CUST100685,Female,28,33,Basic,One year,22.47,741.56,E-check,11,,2026-06-07,No
+CUST101677,Male,39,61,Basic,Month-to-month,29.45,1768.24,Mailed check,11,1.0,2026-06-23,Yes
+CUST100159,Female,25,51,Premium,One year,95.61,4875.41,Mailed check,9,2.0,2026-07-20,No
+CUST100999,Male,41,1,Basic,One year,23.33,9.39,Credit card,13,1.0,2026-06-23,No
+CUST101301,Female,33,57,Basic,One year,26.51,1480.28,E-check,10,0.0,2026-06-16,No
+CUST101777,Male,41,31,Premium,Month-to-month,88.8,2730.2,E-check,10,0.0,2026-07-31,No
+CUST100202,Male,21,7,Standard,Month-to-month,67.6,464.39,E-check,9,0.0,2026-07-31,Yes
+CUST101023,Female,52,49,Premium,Month-to-month,79.48,3915.98,E-check,17,1.0,2026-07-25,No
+CUST101533,Male,24,3,Basic,Month-to-month,28.76,103.4,Credit card,9,1.0,2026-06-06,Yes
+CUST101189,Female,52,3,Standard,Month-to-month,51.04,174.13,Bank transfer,11,2.0,2026-06-12,Yes
+CUST100112,Female,74,39,Basic,Month-to-month,15.0,584.16,Credit card,8,1.0,2026-07-30,No
+CUST101807,Male,74,12,Basic,Month-to-month,27.47,340.05,E-check,15,0.0,2026-07-15,No
+CUST101751,Female,22,52,Basic,Month-to-month,21.84,1114.06,Bank transfer,9,1.0,2026-07-30,No
+CUST100980,Female,62,3,Premium,Two year,96.95,287.99,Mailed check,9,0.0,2026-07-13,No
+CUST100922,Male,42,15,Basic,Month-to-month,20.61,331.4,E-check,8,0.0,2026-07-20,No
+CUST101485,Male,49,68,Standard,Month-to-month,69.17,4678.29,Bank transfer,10,1.0,2026-07-28,No
+CUST101589,Female,52,48,Standard,Two year,58.31,2789.83,E-check,12,3.0,2026-06-24,No
+CUST101964,Male,37,62,Basic,One year,33.15,2050.66,Bank transfer,5,0.0,2026-06-27,No
+CUST101358,Female,28,3,Basic,Month-to-month,20.28,17.61,Credit card,13,0.0,2026-06-10,Yes
+CUST100815,Male,70,44,Standard,One year,55.92,2476.92,Mailed check,16,1.0,2026-07-15,No
+CUST101549,Female,38,37,Standard,Month-to-month,62.14,2313.93,Mailed check,12,3.0,2026-07-25,No
+CUST101538,Female,39,45,Basic,One year,33.76,1470.93,E-check,13,1.0,2026-07-14,No
+CUST100679,Female,73,57,Standard,Month-to-month,54.95,3145.22,Credit card,13,0.0,2026-07-22,No
+CUST101093,Male,67,9,Basic,Month-to-month,24.6,226.08,Credit card,11,1.0,2026-07-14,No
+CUST100080,Male,35,5,Basic,Two year,15.0,18.92,Mailed check,15,2.0,2026-07-13,No
+CUST101760,Female,18,43,Premium,Month-to-month,82.1,3522.49,Credit card,12,0.0,2026-07-02,Yes
+CUST101344,Male,38,48,Basic,Two year,18.7,915.41,Credit card,14,1.0,2026-08-01,No
+CUST101532,Female,63,70,Basic,Two year,25.61,1777.88,E-check,11,6.0,2026-07-27,No
+CUST100752,Female,51,60,Premium,Month-to-month,100.4,6063.48,Mailed check,16,3.0,2026-07-12,No
+CUST101319,Male,52,40,Basic,Month-to-month,24.08,933.74,Mailed check,12,1.0,2026-07-23,No
+CUST101054,Male,58,40,Basic,Month-to-month,27.16,1096.18,E-check,16,0.0,2026-07-24,No
+CUST100242,Female,57,45,Premium,Two year,85.03,3790.13,Credit card,10,1.0,2026-03-31,No
+CUST101944,Male,73,48,Basic,Two year,22.33,1058.45,Credit card,10,0.0,2026-07-14,No
+CUST100641,Female,43,43,Premium,One year,102.36,4352.77,Credit card,16,1.0,2026-08-01,No
+CUST100696,Male,58,15,Basic,Month-to-month,15.95,230.55,Bank transfer,19,2.0,2026-07-27,No
+CUST100209,Male,20,53,Standard,Month-to-month,60.14,3190.32,Credit card,11,2.0,2026-07-31,No
+CUST100156,Male,24,14,Standard,Two year,36.65,506.2,Bank transfer,16,0.0,2026-07-14,No
+CUST100770,Male,33,69,Standard,Two year,63.85,4405.72,E-check,16,2.0,2026-07-31,No
+CUST101754,Male,43,32,Basic,Month-to-month,31.21,1018.71,Credit card,10,0.0,2026-07-30,Yes
+CUST100435,Female,61,46,Standard,One year,49.43,2259.93,E-check,6,0.0,2026-05-28,No
+CUST101063,Male,55,37,Standard,One year,51.76,1908.44,E-check,11,2.0,2026-07-05,No
+CUST100974,Female,71,34,Basic,Month-to-month,27.55,935.97,Bank transfer,10,2.0,2026-08-01,No
+CUST100551,Female,23,27,Standard,Two year,42.8,1141.26,Bank transfer,14,1.0,2026-07-31,No
+CUST101395,Female,45,12,Basic,Month-to-month,38.29,445.35,Credit card,8,2.0,2026-07-22,Yes
+CUST101649,Female,21,8,Standard,Month-to-month,47.16,402.2,Credit card,10,2.0,2026-04-24,No
+CUST101013,Male,35,11,Basic,Month-to-month,15.85,170.1,Credit card,9,1.0,2026-07-23,No
+CUST101886,Female,65,36,Basic,Month-to-month,24.81,922.83,Bank transfer,14,0.0,2026-07-11,No
+CUST100466,Female,35,29,Standard,Two year,46.94,1388.81,Bank transfer,10,1.0,2026-05-05,Yes
+CUST101476,Male,38,34,Premium,Two year,95.48,3240.15,Credit card,13,4.0,2026-07-24,Yes
+CUST101306,Female,57,16,Basic,Month-to-month,23.2,383.12,,13,1.0,2026-07-31,No
+CUST100277,Female,62,40,Premium,Month-to-month,109.41,4349.66,Bank transfer,8,1.0,2026-07-27,Yes
+CUST101069,Male,53,28,Basic,One year,21.07,604.4,E-check,10,1.0,2026-05-08,No
+CUST101017,Male,50,56,Basic,Month-to-month,16.17,903.94,Bank transfer,12,1.0,2026-07-26,No
+CUST101757,Male,56,8,Basic,Month-to-month,15.0,118.37,E-check,12,1.0,2026-07-25,No
+CUST100722,Female,32,70,Basic,Two year,37.6,2632.56,Mailed check,12,1.0,2026-06-29,No
+CUST101953,FEMALE,38,58,Standard,Month-to-month,54.8,3161.2,E-check,14,2.0,2026-07-29,Yes
+CUST100786,Male,64,28,Premium,One year,94.85,2658.91,Credit card,21,1.0,2026-07-25,No
+CUST101545,Female,30,42,Premium,Month-to-month,84.61,3532.4,Bank transfer,13,0.0,2026-07-26,Yes
+CUST101309,Female,56,2,Basic,One year,15.0,32.48,Mailed check,14,3.0,2026-08-01,No
+CUST101459,Male,57,19,Premium,Two year,91.69,1718.07,E-check,11,,2026-07-14,No
+CUST101303,Female,21,52,Standard,Month-to-month,54.12,2819.61,E-check,18,0.0,2026-08-01,No
+CUST100906,Female,65,67,Premium,Two year,102.25,6838.1,Bank transfer,8,2.0,2026-07-06,No
+CUST100563,Male,29,48,Standard,One year,56.22,2670.67,Credit card,17,0.0,2026-07-28,No
+CUST100388,Male,28,0,Premium,One year,94.25,,Bank transfer,9,0.0,2026-06-26,No
+CUST100022,Female,62,49,Basic,Month-to-month,36.67,1831.85,E-check,11,4.0,2026-06-19,No
+CUST101730,Female,47,45,Standard,Month-to-month,52.13,2342.76,Mailed check,12,2.0,2026-07-28,No
+CUST100124,Male,31,7,Basic,Two year,23.63,179.45,Credit card,8,0.0,2026-07-18,No
+CUST101246,Female,23,31,Basic,Month-to-month,28.23,853.67,Credit card,9,2.0,2026-07-31,Yes
+CUST100773,Female,72,67,Basic,Month-to-month,15.0,997.57,Credit card,8,2.0,2026-07-21,No
+CUST100880,Male,27,23,Premium,Month-to-month,82.0,1869.36,Bank transfer,8,1.0,2026-07-24,Yes
+CUST101144,Female,37,42,Standard,Month-to-month,50.93,2113.6,E-check,9,2.0,2026-07-24,No
+CUST101166,Male,31,50,Standard,Month-to-month,55.8,2773.18,E-check,14,1.0,2026-07-27,No
+CUST100050,Male,56,34,Basic,Month-to-month,21.89,755.38,Mailed check,13,1.0,2026-07-15,Yes
+CUST101396,Male,28,10,Basic,Month-to-month,15.75,138.45,Mailed check,13,1.0,2026-08-01,No
+CUST101458,Female,25,26,Basic,Month-to-month,32.98,836.99,E-check,17,0.0,2026-07-31,Yes
+CUST101105,Female,34,44,Standard,Month-to-month,48.54,2137.63,Mailed check,19,1.0,2026-07-03,No
+CUST100703,Female,18,44,Standard,One year,47.18,2084.02,Credit card,9,1.0,2026-06-23,No
+CUST100482,Male,39,14,Standard,Month-to-month,60.64,846.85,E-check,16,1.0,2026-07-14,No
+CUST101145,Female,57,47,Basic,Month-to-month,15.0,706.35,Credit card,11,2.0,2026-05-30,No
+CUST101911,Female,38,39,Premium,Month-to-month,95.1,3741.5,Credit card,11,2.0,2026-07-31,No
+CUST100066,Female,57,57,Standard,Month-to-month,51.41,2932.75,Credit card,13,0.0,2026-07-30,No
+CUST101720,Female,33,19,Basic,Month-to-month,16.44,353.57,E-check,21,0.0,2026-07-18,Yes
+CUST100733,Female,46,64,Basic,Month-to-month,15.0,969.32,E-check,10,3.0,2026-07-11,Yes
+CUST101784,Male,52,63,Standard,Month-to-month,49.01,3079.85,Mailed check,14,3.0,2026-07-12,No
+CUST100801,Female,57,36,Premium,Two year,92.56,3329.2,E-check,10,1.0,2026-07-19,No
+CUST101948,Female,41,46,Standard,Month-to-month,46.02,2107.78,Bank transfer,14,0.0,2026-05-21,Yes
+CUST101470,MALE,58,34,Premium,Month-to-month,83.77,2846.52,Mailed check,15,1.0,2026-07-25,Yes
+CUST100907,Male,40,37,Standard,Two year,57.7,2115.06,Credit card,15,0.0,2026-07-07,No
+CUST100031,Male,43,20,Basic,One year,35.02,658.61,Bank transfer,13,3.0,2026-07-31,No
+CUST100417,Female,61,11,Standard,One year,66.48,705.03,Bank transfer,7,1.0,2026-07-29,No
+CUST100881,Female,19,23,Standard,Month-to-month,50.87,1156.51,Mailed check,12,0.0,2026-03-04,Yes
+CUST100632,Male,29,33,Standard,One year,56.97,1905.72,Credit card,14,1.0,2026-07-29,No
+CUST101561,Female,39,71,Basic,Month-to-month,38.08,2681.49,E-check,14,3.0,2026-07-11,No
+CUST101918,Male,58,21,Basic,Month-to-month,22.33,482.73,Mailed check,5,3.0,2026-07-25,Yes
+CUST100064,Male,54,66,Basic,Month-to-month,27.63,1832.34,Credit card,16,3.0,2026-07-01,No
+CUST101621,Female,28,48,Basic,Month-to-month,30.66,1434.25,Credit card,15,0.0,2026-06-05,Yes
+CUST101606,Female,69,2,Standard,Two year,68.65,134.77,Bank transfer,19,4.0,2026-07-28,Yes
+CUST100077,Female,39,16,Basic,One year,30.33,495.72,Bank transfer,9,0.0,2026-07-07,No
+CUST100491,Male,32,65,Basic,Two year,22.02,1434.18,E-check,16,2.0,2026-07-29,No
+CUST101638,Male,43,39,Standard,Month-to-month,64.57,2530.84,Mailed check,12,2.0,2026-07-25,No
+CUST101537,Female,28,46,Standard,Month-to-month,54.35,2506.87,,20,1.0,2026-07-08,No
+CUST100532,Male,23,20,Standard,Month-to-month,45.0,924.43,Mailed check,10,4.0,2026-07-03,No
+CUST100065,Female,60,3,Standard,Month-to-month,63.46,207.09,E-check,6,0.0,2026-07-25,No
+CUST101776,Female,47,16,Premium,One year,92.8,1472.26,Credit card,8,0.0,2026-07-26,No
+CUST100296,Female,29,29,Premium,Month-to-month,89.44,2578.09,Bank transfer,13,2.0,2026-07-18,No
+CUST100591,Female,45,50,Basic,One year,23.13,1176.55,Credit card,12,3.0,2026-07-08,No
+CUST100767,Female,40,49,Premium,One year,92.37,4530.31,E-check,13,1.0,2026-05-15,No
+CUST100724,Male,61,25,Premium,Month-to-month,90.55,2203.4,Credit card,15,1.0,2026-06-04,Yes
+CUST101425,Female,52,26,Standard,Two year,64.99,1675.03,Credit card,9,2.0,2026-05-19,No
+CUST100626,Male,23,15,Basic,Two year,25.87,417.08,Credit card,19,2.0,2026-07-28,No
+CUST101408,Male,36,1,Standard,Two year,53.37,49.82,E-check,13,4.0,2026-07-10,Yes
+CUST101947,Female,25,25,Basic,One year,36.4,860.47,Bank transfer,13,1.0,2026-06-30,No
+CUST101212,Female,33,59,Basic,Month-to-month,22.96,1349.44,Credit card,21,2.0,2026-07-10,No
+CUST101611,Female,71,55,Standard,Month-to-month,66.72,3662.29,Bank transfer,15,2.0,2026-07-22,No
+CUST100251,Male,57,35,Standard,Month-to-month,63.3,2216.2,Mailed check,6,1.0,2026-07-25,Yes
+CUST101819,Male,28,62,Basic,Two year,22.38,1369.66,Mailed check,13,1.0,2026-07-06,No
+CUST101990,Female,23,61,Basic,Month-to-month,26.38,1594.2,E-check,3,1.0,2026-06-22,No
+CUST101903,Male,43,57,Basic,Two year,29.57,1697.25,Bank transfer,10,2.0,2026-07-17,No
+CUST100982,Female,64,28,Basic,Month-to-month,21.13,587.55,Bank transfer,6,2.0,2026-07-11,No
+CUST101772,Male,41,41,Basic,Two year,15.0,598.83,Credit card,15,3.0,2026-07-28,No
+CUST100706,Female,37,66,Basic,Month-to-month,17.75,1195.08,Bank transfer,11,1.0,2026-07-30,No
+CUST100487,FEMALE,29,59,Basic,Month-to-month,15.0,885.84,E-check,12,0.0,2026-07-16,No
+CUST100273,Female,55,2,Basic,Month-to-month,24.47,86.23,Bank transfer,18,3.0,2026-07-31,No
+CUST101761,Male,41,8,Basic,Month-to-month,15.5,150.62,Bank transfer,12,2.0,2026-07-31,No
+CUST101668,Male,51,59,Basic,One year,27.9,1630.75,Mailed check,14,0.0,2026-07-04,No
+CUST100963,Male,30,48,Basic,Two year,19.14,931.82,Mailed check,15,2.0,2026-07-22,No
+CUST100877,Female,25,62,Standard,Two year,59.6,3700.51,Mailed check,9,3.0,2026-07-09,Yes
+CUST101740,Female,52,1,Premium,One year,91.32,99.08,Credit card,9,2.0,2026-07-12,No
+CUST101812,Male,44,57,Standard,One year,67.08,3828.93,E-check,15,2.0,2026-07-19,No
+CUST100411,Female,66,10,Standard,Two year,37.06,383.22,E-check,9,1.0,2026-06-21,No
+CUST100667,Female,23,16,Standard,Month-to-month,47.61,791.49,Mailed check,14,2.0,2026-07-31,No
+CUST101262,Male,45,27,Standard,Month-to-month,55.87,1540.8,Mailed check,14,3.0,2026-07-05,No
+CUST100149,Female,73,7,Standard,One year,35.17,243.44,Mailed check,22,1.0,2026-06-15,No
+CUST100644,Female,65,53,Standard,Two year,59.83,3186.19,Credit card,9,4.0,2026-07-28,No
+CUST101604,Female,30,51,Premium,One year,94.37,4780.59,E-check,10,2.0,2026-07-08,No
+CUST100218,Female,26,38,Basic,Two year,15.0,548.68,Credit card,11,3.0,2026-07-27,No
+CUST100239,Female,30,68,Basic,Month-to-month,17.54,1210.9,Bank transfer,8,1.0,2026-05-30,Yes
+CUST101131,Female,29,18,Standard,Month-to-month,60.46,1128.0,Bank transfer,14,1.0,2026-07-04,Yes
+CUST101216,Female,26,24,Basic,Month-to-month,32.16,765.07,Mailed check,11,1.0,2026-06-19,No
+CUST100792,Male,60,7,Basic,Month-to-month,28.62,224.77,E-check,5,5.0,2026-06-16,No
+CUST100191,Male,34,39,Standard,Month-to-month,68.92,2655.84,Credit card,12,1.0,2026-07-22,No
+CUST100333,Male,44,63,Standard,One year,48.81,3098.29,Credit card,19,0.0,2026-07-06,No
+CUST101321,MALE,44,70,Standard,Month-to-month,64.79,4536.18,Bank transfer,17,3.0,2026-06-27,Yes
+CUST101324,Male,31,65,Basic,Month-to-month,30.79,1985.53,E-check,14,0.0,2026-07-18,No
+CUST100962,Female,56,62,Basic,Month-to-month,20.82,1295.18,Mailed check,10,1.0,2026-07-26,Yes
+CUST101320,Female,24,50,Premium,Month-to-month,104.09,5206.22,Credit card,11,3.0,2026-07-25,Yes
+CUST101955,Male,72,17,Premium,One year,81.81,1393.28,Bank transfer,8,0.0,2026-07-31,No
+CUST101651,Female,62,12,Standard,Month-to-month,65.19,774.68,Mailed check,14,0.0,2026-07-10,No
+CUST101616,Male,74,55,Premium,Two year,80.91,4457.74,Bank transfer,12,1.0,2026-07-22,No
+CUST100582,Female,23,33,Basic,Month-to-month,26.0,885.31,Mailed check,10,0.0,2026-07-20,No
+CUST101909,Male,73,54,Basic,Month-to-month,29.12,1587.39,Mailed check,13,1.0,2026-07-24,Yes
+CUST101692,Female,66,66,Standard,One year,56.97,3753.88,Mailed check,15,0.0,2026-06-20,No
+CUST100839,Male,63,40,Basic,One year,15.0,617.29,Bank transfer,10,0.0,2026-06-21,No
+CUST100627,Female,56,8,Standard,Two year,42.69,331.71,Bank transfer,16,1.0,2026-06-22,Yes
+CUST100323,Female,47,19,Basic,Month-to-month,16.07,309.04,Bank transfer,5,1.0,2026-07-14,No
+CUST101642,Male,71,61,Standard,One year,52.6,3202.54,Mailed check,9,1.0,2026-07-23,No
+CUST101160,Female,0,58,Standard,Month-to-month,65.11,3798.23,E-check,12,2.0,2026-07-31,No
+CUST100778,Female,72,61,Standard,Month-to-month,48.41,2903.3,Bank transfer,11,0.0,2026-07-31,No
+CUST101076,Female,25,29,Standard,One year,60.28,1724.57,E-check,13,2.0,2026-05-14,No
+CUST100939,Female,44,47,Basic,Month-to-month,24.97,1190.34,Mailed check,13,2.0,2026-07-11,Yes
+CUST100437,Female,41,6,Standard,One year,41.28,252.47,Mailed check,11,2.0,2026-07-25,No
+CUST100119,Male,18,52,Standard,One year,38.9,2058.14,Mailed check,15,3.0,2026-07-08,Yes
+CUST101552,Male,44,55,Basic,Month-to-month,27.0,1509.2,E-check,10,2.0,2026-07-10,Yes
+CUST101562,Female,60,39,Premium,One year,85.22,3338.81,E-check,15,3.0,2026-07-23,No
+CUST101026,Female,50,65,Basic,Two year,24.51,1575.36,Credit card,7,1.0,2026-07-21,No
+CUST101253,Female,51,17,Premium,Month-to-month,84.01,1430.02,Mailed check,14,1.0,2026-07-26,Yes
+CUST101556,Female,68,48,Premium,Month-to-month,83.96,4047.92,Credit card,14,1.0,2026-07-30,No
+CUST100076,FEMALE,46,13,Standard,Month-to-month,42.57,570.1,Mailed check,14,0.0,2026-07-24,Yes
+CUST101053,Male,56,68,Standard,Two year,39.63,2676.16,Bank transfer,5,1.0,2026-07-16,Yes
+CUST100900,Male,54,6,Basic,Month-to-month,31.08,195.91,Bank transfer,14,2.0,2026-07-02,No
+CUST100371,Female,34,67,Basic,Month-to-month,16.12,1076.55,E-check,14,3.0,2026-07-18,Yes
+CUST101863,Female,60,14,Basic,Month-to-month,17.46,246.42,Bank transfer,12,0.0,2026-07-25,Yes
+CUST101441,Female,45,34,Standard,Month-to-month,53.58,1824.26,Bank transfer,14,2.0,2026-05-22,Yes
+CUST101977,Male,55,49,Basic,Month-to-month,18.02,881.95,Bank transfer,8,1.0,2026-07-22,No
+CUST100941,Male,64,24,Basic,Two year,31.26,770.33,Mailed check,14,1.0,2026-07-27,No
+CUST100577,Female,72,10,Standard,Month-to-month,49.1,539.37,Credit card,11,3.0,2026-07-27,Yes
+CUST100819,Male,43,26,Basic,One year,42.55,1056.43,Mailed check,15,2.0,2026-07-21,No
+CUST101496,Female,35,24,Basic,Month-to-month,33.27,816.59,E-check,16,1.0,2026-06-29,No
+CUST101490,Male,51,28,Basic,One year,31.82,898.06,Credit card,8,1.0,2026-08-01,No
+CUST101732,Male,62,7,Basic,Month-to-month,34.13,250.24,E-check,14,0.0,2026-07-23,Yes
+CUST101379,Female,30,58,Basic,Month-to-month,29.41,1724.26,Credit card,7,0.0,2026-07-07,Yes
+CUST100886,Male,43,48,Basic,Month-to-month,28.57,1356.19,Bank transfer,17,1.0,2026-07-20,No
+CUST100968,Female,59,66,Basic,Month-to-month,28.67,1894.44,Bank transfer,14,1.0,2026-07-24,No
+CUST101596,Female,38,49,Standard,Month-to-month,45.93,2230.71,Credit card,10,1.0,2026-07-11,Yes
+CUST100785,Male,39,3,Basic,Month-to-month,25.3,61.89,Credit card,7,1.0,2026-07-08,No
+CUST101928,FEMALE,61,44,Standard,Month-to-month,66.42,2928.23,Bank transfer,15,1.0,2026-07-30,No
+CUST101680,Female,29,59,Premium,One year,90.56,5335.94,Credit card,14,0.0,2026-07-27,No
+CUST101488,MALE,49,67,Basic,Two year,31.23,2070.56,Bank transfer,13,2.0,2026-07-26,No
+CUST100301,Male,63,27,Standard,Month-to-month,53.16,1409.92,E-check,16,0.0,2026-07-13,No
+CUST100689,Female,31,24,Standard,One year,50.78,1193.06,Credit card,12,2.0,2026-05-23,No
+CUST100812,Male,48,26,Standard,Two year,46.87,1194.57,Bank transfer,12,3.0,2026-07-17,No
+CUST101061,Male,21,1,Premium,One year,76.26,37.08,Mailed check,15,0.0,2026-07-18,No
+CUST100236,FEMALE,30,60,Standard,Two year,50.67,3057.54,Mailed check,15,1.0,2026-07-31,No
+CUST101115,Male,22,31,Basic,One year,27.06,816.42,Mailed check,11,1.0,2026-07-19,No
+CUST101355,Female,34,58,Standard,One year,59.47,3445.26,E-check,12,1.0,2026-06-09,No
+CUST100499,Female,57,71,Basic,One year,15.0,1057.05,Mailed check,18,2.0,2026-06-30,No
+CUST101656,Female,21,14,Premium,Month-to-month,94.97,1379.95,Mailed check,15,2.0,2026-06-26,No
+CUST101079,Male,58,21,Standard,Month-to-month,53.6,1128.87,Mailed check,12,0.0,2026-08-01,No
+CUST101326,Male,-5,44,Standard,Month-to-month,52.29,2275.89,E-check,12,3.0,2026-06-12,No
+CUST100794,Male,47,7,Premium,Two year,101.36,686.22,Credit card,13,1.0,2026-07-28,No
+CUST101924,Female,42,16,Basic,Month-to-month,35.35,564.24,Credit card,11,,2026-07-16,No
+CUST101765,Female,58,56,Basic,Month-to-month,17.96,1001.2,Mailed check,21,0.0,2026-07-19,No
+CUST101932,Male,52,71,Basic,Month-to-month,15.0,1068.65,Bank transfer,9,1.0,2026-07-24,Yes
+CUST100990,Female,26,12,Basic,Month-to-month,34.22,427.99,Bank transfer,8,0.0,2026-07-27,No
+CUST101371,Male,58,57,Standard,Month-to-month,56.01,3183.39,Mailed check,12,3.0,2026-07-26,Yes
+CUST100934,Female,21,8,Premium,Month-to-month,90.48,739.3,E-check,18,2.0,2026-06-26,No
+CUST100387,Male,39,67,Premium,Month-to-month,87.26,5863.37,Credit card,8,1.0,2026-07-09,Yes
+CUST101469,Male,31,12,Standard,Month-to-month,59.01,699.14,Bank transfer,14,1.0,2026-07-13,Yes
+CUST100390,Male,20,23,Premium,Two year,91.71,2130.06,Bank transfer,13,0.0,2026-07-16,No
+CUST100743,Male,68,25,Premium,Two year,96.61,2430.88,Bank transfer,12,0.0,2026-07-10,Yes
+CUST100352,Male,69,63,Premium,Month-to-month,86.7,5409.28,Mailed check,11,0.0,2026-07-29,No
+CUST101217,Female,32,20,Standard,Month-to-month,54.51,1108.83,Mailed check,11,3.0,2026-07-17,Yes
+CUST100235,Female,65,11,Premium,One year,92.31,989.45,Bank transfer,3,1.0,2026-07-11,No
+CUST101706,Male,23,48,Standard,One year,62.69,3052.31,Mailed check,17,2.0,2026-07-05,No
+CUST100480,Female,25,36,Standard,Month-to-month,50.67,1801.93,Credit card,18,0.0,2026-07-31,No
+CUST100567,Female,68,37,Basic,Month-to-month,16.02,641.96,Bank transfer,14,1.0,2026-07-07,No
+CUST101140,Female,68,51,Standard,Two year,46.13,2357.46,Mailed check,20,0.0,2026-07-30,No
+CUST101681,Female,47,13,Basic,Month-to-month,26.25,320.74,Bank transfer,12,2.0,2026-07-31,No
+CUST101864,Female,58,51,Standard,One year,62.03,3158.39,Bank transfer,16,3.0,2026-05-19,No
+CUST101565,Male,73,19,Basic,One year,39.44,799.08,E-check,18,0.0,2026-07-06,No
+CUST100120,Female,47,58,Premium,Month-to-month,75.04,4346.25,Bank transfer,16,3.0,2026-07-06,No
+CUST101982,Female,25,69,Standard,One year,69.89,4851.84,E-check,8,0.0,2026-08-01,No
+CUST101024,Female,61,18,Basic,Month-to-month,34.59,616.75,Mailed check,18,1.0,2026-07-11,No
+CUST101086,Male,61,58,Standard,Month-to-month,54.7,3166.53,E-check,12,3.0,2026-07-27,No
+CUST101272,Male,60,46,Standard,Two year,50.14,2329.46,Bank transfer,15,0.0,2026-06-01,No
+CUST100926,Male,32,71,Premium,Month-to-month,90.19,6416.37,Credit card,17,0.0,2026-07-09,No
+CUST100515,Male,19,65,Basic,Month-to-month,15.0,974.65,E-check,15,1.0,2026-07-24,No
+CUST100223,Female,28,63,Basic,Month-to-month,24.93,1593.05,E-check,12,3.0,2026-07-13,No
+CUST101477,Female,53,37,Premium,Month-to-month,84.93,3115.48,Credit card,10,1.0,2026-07-06,Yes
+CUST100613,Female,67,36,Standard,Two year,51.66,1873.92,Credit card,14,7.0,2026-07-17,Yes
+CUST100843,Male,23,21,Basic,One year,37.6,773.17,Bank transfer,10,2.0,2026-07-14,No
+CUST101245,Female,58,12,Standard,Month-to-month,58.15,721.37,Bank transfer,9,1.0,2026-07-29,No
+CUST100052,Male,35,15,Basic,Two year,33.03,486.31,Credit card,12,1.0,2026-07-20,No
+CUST101843,Male,68,14,Basic,Two year,33.42,450.43,E-check,8,2.0,2026-07-12,No
+CUST100485,Female,58,7,Basic,Month-to-month,29.98,214.82,Mailed check,15,1.0,2026-07-22,Yes
+CUST101933,Male,23,60,Basic,Month-to-month,19.65,1156.51,Bank transfer,9,1.0,2026-07-16,No
+CUST100818,Female,58,53,Premium,Month-to-month,82.0,4322.37,Bank transfer,18,1.0,2026-07-24,No
+CUST100155,Female,42,46,Premium,One year,102.25,4673.02,E-check,9,0.0,2026-07-19,No
+CUST101366,Male,69,60,Premium,Two year,96.62,5792.99,E-check,16,1.0,2026-07-06,No
+CUST100600,Male,29,46,Standard,Month-to-month,49.61,2271.09,Credit card,15,1.0,2026-06-30,No
+CUST101602,Female,58,9,Standard,Month-to-month,41.51,370.77,,7,1.0,2026-07-31,No
+CUST100248,Male,73,65,Basic,Month-to-month,17.52,1129.31,Mailed check,10,1.0,2026-07-21,No
+CUST100761,FEMALE,60,12,Premium,Month-to-month,91.66,1112.17,E-check,8,0.0,2026-06-21,No
+CUST101827,Female,43,30,Standard,Month-to-month,54.22,1599.49,Mailed check,7,1.0,2026-07-20,No
+CUST101130,Female,33,25,Standard,Two year,58.11,1463.86,Bank transfer,12,0.0,2026-07-16,No
+CUST100542,Male,67,61,Standard,Month-to-month,70.43,4292.24,Mailed check,6,1.0,2026-07-03,No
+CUST100793,Female,27,12,Standard,Month-to-month,44.41,510.08,Credit card,8,1.0,2026-07-01,No
+CUST101141,Male,57,46,Premium,Two year,91.63,4212.97,Credit card,16,1.0,2026-07-29,No
+CUST101455,Male,45,53,Basic,Month-to-month,30.77,1617.68,Bank transfer,15,2.0,2026-06-10,No
+CUST100628,Male,59,37,Premium,One year,95.18,3525.4,Mailed check,17,0.0,2026-07-07,No
+CUST100150,Male,63,44,Basic,Month-to-month,15.0,665.09,Bank transfer,11,0.0,2026-06-19,No
+CUST101837,Female,40,66,Basic,Month-to-month,27.0,1761.51,Credit card,5,6.0,2026-06-16,No
+CUST100291,Male,53,53,Standard,Month-to-month,47.42,2525.41,Mailed check,11,1.0,2026-07-20,No
+CUST100381,Female,69,31,Standard,Month-to-month,51.44,1604.97,Credit card,12,,2026-07-12,Yes
+CUST100686,Female,27,36,Basic,One year,19.87,723.83,Credit card,12,1.0,2026-07-28,No
+CUST101367,Female,65,47,Standard,Month-to-month,42.94,2022.25,E-check,14,2.0,2026-07-27,Yes
+CUST101224,Male,35,31,Basic,Month-to-month,29.68,873.33,Credit card,15,1.0,2026-07-26,Yes
+CUST100897,Female,22,56,Basic,Two year,31.14,1723.14,E-check,13,1.0,2026-07-12,Yes
+CUST100854,Male,71,70,Basic,One year,21.08,1514.86,E-check,18,0.0,2026-07-16,No
+CUST101071,Female,54,40,Standard,Month-to-month,41.19,1662.58,Mailed check,17,1.0,2026-06-28,Yes
+CUST101999,Male,72,14,Basic,Month-to-month,26.96,352.18,Credit card,11,2.0,2026-06-30,No
+CUST101527,Male,30,58,Basic,Month-to-month,26.11,1505.04,Credit card,17,0.0,2026-07-31,No
+CUST101687,Male,65,31,Premium,Two year,89.05,2775.19,Mailed check,16,0.0,2026-07-20,No
+CUST100891,Male,45,61,Basic,One year,15.0,923.84,,13,0.0,2026-07-14,No
+CUST101756,Male,56,51,Premium,One year,81.06,4064.97,Mailed check,12,2.0,2026-07-21,No
+CUST101432,Female,48,32,Premium,Month-to-month,96.23,3080.11,Credit card,8,0.0,2026-07-30,Yes
+CUST101364,Female,21,8,Standard,Month-to-month,51.29,414.68,Mailed check,14,2.0,2026-07-07,No
+CUST100615,Male,68,16,Standard,Month-to-month,55.1,877.2,Mailed check,10,2.0,2026-07-26,Yes
+CUST100154,Male,51,45,Premium,Month-to-month,86.24,3909.95,Bank transfer,17,1.0,2026-07-18,Yes
+CUST101193,Female,39,67,Premium,Month-to-month,101.38,6807.59,Bank transfer,11,2.0,2026-07-28,Yes
+CUST101713,Male,23,30,Basic,Month-to-month,30.82,940.65,E-check,8,3.0,2026-07-08,Yes
+CUST101997,Male,28,7,Standard,One year,62.75,411.51,Bank transfer,11,1.0,2026-07-25,No
+CUST101780,Female,47,55,Basic,One year,15.66,875.0,E-check,11,2.0,2026-07-30,No
+CUST100322,Female,32,46,Premium,One year,81.94,3775.15,Bank transfer,12,2.0,2026-07-13,No
+CUST101547,Male,19,39,Standard,One year,43.52,1701.27,Credit card,14,5.0,2026-07-28,Yes
+CUST101282,Male,42,12,Standard,One year,57.45,664.21,Credit card,13,0.0,2026-07-08,No
+CUST100082,Male,33,58,Standard,One year,62.0,3602.58,Mailed check,18,1.0,2026-07-23,No
+CUST100512,Male,43,15,Basic,One year,32.39,473.37,Credit card,17,1.0,2026-07-21,No
+CUST101526,Male,38,40,Standard,Two year,42.57,1714.03,Credit card,17,1.0,2026-08-01,No
+CUST101970,Male,20,31,Premium,One year,91.59,2814.09,E-check,8,1.0,2026-07-28,No
+CUST100929,Male,30,30,Basic,One year,34.23,1041.94,Mailed check,11,0.0,2026-07-29,No
+CUST101632,Female,21,10,Standard,Month-to-month,52.93,551.67,Mailed check,10,1.0,2026-07-20,No
+CUST101357,Male,66,61,Basic,One year,33.71,2096.11,Credit card,12,2.0,2026-07-26,No
+CUST100010,Male,54,26,Standard,One year,52.77,1368.6,Mailed check,16,0.0,2026-07-23,No
+CUST100831,Male,70,67,Basic,One year,17.14,1138.02,Credit card,10,0.0,2026-06-10,No
+CUST100032,Female,38,27,Premium,Month-to-month,97.84,2617.76,Credit card,12,2.0,2026-07-20,No
+CUST101515,Female,38,13,Basic,Month-to-month,31.73,411.98,E-check,20,0.0,2026-07-28,No
+CUST100413,Male,41,55,Basic,Two year,15.0,812.72,Bank transfer,10,4.0,2026-07-27,No
+CUST100580,Female,61,8,Standard,One year,50.11,367.04,Bank transfer,11,1.0,2026-07-27,No
+CUST101406,Female,41,43,Basic,Month-to-month,15.39,674.07,Credit card,11,1.0,2026-07-20,Yes
+CUST101550,Male,32,2,Basic,Month-to-month,39.13,73.13,,17,1.0,2026-07-10,No
+CUST101628,Male,36,37,Standard,Two year,40.71,1501.53,Credit card,15,0.0,2026-07-24,No
+CUST101906,Male,69,30,Premium,Two year,85.43,2552.95,E-check,17,1.0,2026-07-14,No
+CUST100614,Female,66,41,Standard,Month-to-month,38.75,1585.52,Bank transfer,16,0.0,2026-07-01,Yes
+CUST101045,Male,19,16,Standard,Month-to-month,55.49,889.4,Bank transfer,13,8.0,2026-07-24,Yes
+CUST101402,Male,66,39,Premium,One year,84.88,3322.07,Credit card,16,0.0,2026-07-15,No
+CUST101014,Male,36,16,Basic,Two year,19.39,296.09,Credit card,11,2.0,2026-06-19,No
+CUST100089,Female,59,18,Premium,One year,90.23,1656.25,E-check,9,0.0,2026-07-23,Yes
+CUST101700,Male,28,56,Basic,Month-to-month,15.0,838.44,Mailed check,11,2.0,2026-07-11,Yes
+CUST100601,Female,66,22,Standard,One year,66.47,1457.91,E-check,11,3.0,2026-07-31,No
+CUST101237,Female,18,40,Standard,One year,55.19,2247.36,E-check,5,0.0,2026-07-21,No
+CUST101838,Female,43,23,Basic,Two year,15.74,366.39,E-check,11,1.0,2026-08-01,No
+CUST100133,Male,18,34,Standard,Month-to-month,41.78,1444.52,Bank transfer,11,1.0,2026-07-02,No
+CUST101370,Male,52,7,Premium,Two year,78.34,539.75,Bank transfer,7,0.0,2026-07-24,No
+CUST100555,Female,58,29,Basic,One year,34.54,1044.41,Bank transfer,14,0.0,2026-05-17,No
+CUST101031,Female,65,12,Standard,Month-to-month,57.96,707.43,Mailed check,12,2.0,2026-07-17,No
+CUST101566,Male,20,7,Standard,Month-to-month,58.8,402.39,Mailed check,18,1.0,2026-05-09,No
+CUST100320,Female,51,64,Basic,Month-to-month,19.2,1252.34,Mailed check,9,2.0,2026-07-25,No
+CUST101771,Male,37,64,Basic,Month-to-month,21.95,1387.8,Credit card,19,1.0,2026-07-11,No
+CUST101211,Female,20,11,Premium,One year,97.32,1071.22,Mailed check,13,1.0,2026-07-18,No
+CUST101738,Male,36,60,Basic,Month-to-month,35.77,2143.83,Bank transfer,14,0.0,2026-07-19,No
+CUST100634,Female,62,7,Standard,Month-to-month,48.12,316.79,Mailed check,11,0.0,2026-07-26,No
+CUST100552,Male,39,52,Premium,Month-to-month,89.92,4668.39,Mailed check,19,1.0,2026-06-30,Yes
+CUST101328,Female,22,2,Basic,One year,24.88,52.13,Bank transfer,9,2.0,2026-07-26,No
+CUST101055,Male,66,48,Premium,Month-to-month,85.06,4071.95,Mailed check,12,3.0,2026-07-27,No
+CUST101559,Male,61,53,Standard,One year,55.11,2896.45,E-check,11,2.0,2026-07-28,No
+CUST100796,Male,35,42,Premium,Month-to-month,73.17,3044.84,Credit card,16,,2026-07-19,Yes
+CUST101718,Female,26,41,Standard,Month-to-month,49.81,2031.64,Mailed check,17,0.0,2026-07-23,No
+CUST101264,Female,1,38,Premium,One year,76.8,2935.03,Bank transfer,9,2.0,2026-07-16,No
+CUST101833,Male,38,25,Standard,Month-to-month,49.84,1243.47,Bank transfer,17,3.0,2026-07-21,No
+CUST100174,Female,20,66,Basic,Month-to-month,25.99,1730.78,Bank transfer,9,0.0,2026-07-26,No
+CUST100766,Male,37,32,Basic,Two year,27.74,902.79,Mailed check,19,1.0,2026-07-24,No
+CUST100245,Female,46,48,Standard,Month-to-month,66.02,3148.8,Mailed check,12,2.0,2026-07-23,No
+CUST101080,Male,56,66,Basic,Month-to-month,33.65,2233.83,Bank transfer,14,1.0,2026-07-08,No
+CUST101737,Male,70,27,Standard,Two year,58.76,1605.46,E-check,8,1.0,2026-07-12,No
+CUST100145,Male,54,8,Basic,Two year,19.45,152.98,Bank transfer,16,2.0,2026-07-04,No
+CUST100090,Female,51,29,Standard,Month-to-month,47.53,1400.29,Credit card,12,2.0,2026-06-29,No
+CUST101416,Male,30,66,Standard,Month-to-month,56.72,3729.19,E-check,13,,2026-07-12,Yes
+CUST100682,Male,40,41,Basic,One year,32.51,1330.48,E-check,14,1.0,2026-07-27,No
+CUST100310,Female,62,23,Premium,One year,93.96,2157.11,Bank transfer,18,1.0,2026-07-05,No
+CUST101383,Female,73,28,Premium,Two year,77.09,2165.04,E-check,10,0.0,2026-07-19,No
+CUST100093,Female,30,13,Basic,Month-to-month,29.28,382.93,Credit card,14,1.0,2026-07-25,Yes
+CUST101568,Male,36,39,Basic,Month-to-month,21.22,803.95,Bank transfer,10,1.0,2026-07-12,Yes
+CUST100924,Male,28,53,Standard,One year,65.52,3449.11,E-check,11,5.0,2026-06-09,No
+CUST101686,Female,36,24,Standard,Month-to-month,65.17,1557.53,Mailed check,9,0.0,2026-07-18,No
+CUST101035,Female,45,18,Basic,Month-to-month,30.06,548.53,Mailed check,9,2.0,2026-07-29,No
+CUST101400,Male,39,58,Standard,Month-to-month,61.54,3563.42,E-check,11,3.0,2026-07-19,No
+CUST100243,Male,62,29,Standard,Two year,49.44,1422.1,Credit card,11,2.0,2026-07-17,No
+CUST101111,Male,25,0,Basic,Month-to-month,23.95,0.0,Mailed check,12,2.0,2026-07-30,Yes
+CUST100214,Male,42,16,Standard,One year,68.92,1076.1,Bank transfer,9,0.0,2026-06-20,No
+CUST101984,Female,49,13,Standard,Two year,65.17,843.22,Credit card,12,1.0,2026-08-01,No
+CUST101197,Male,29,37,Standard,One year,60.93,2282.72,Credit card,6,3.0,2026-06-11,No
+CUST100998,Female,25,22,Premium,Month-to-month,92.49,2014.5,Bank transfer,11,1.0,2026-07-10,Yes
+CUST100853,Male,41,59,Standard,Month-to-month,76.71,4557.49,Mailed check,13,3.0,2026-07-13,No
+CUST100425,Male,70,54,Standard,Month-to-month,51.05,2778.12,Bank transfer,8,1.0,2026-07-29,No
+CUST101763,Male,53,14,Standard,Month-to-month,69.85,967.91,E-check,13,2.0,2026-07-25,Yes
+CUST101142,Female,71,62,Standard,One year,59.44,3698.15,E-check,13,2.0,2026-07-17,No
+CUST101143,Male,22,68,Premium,One year,92.25,6295.82,,10,1.0,2026-05-23,No
+CUST100226,Male,32,10,Basic,Month-to-month,38.11,355.46,Credit card,16,1.0,2026-06-01,No
+CUST101627,Male,73,63,Basic,One year,31.75,1962.25,Bank transfer,16,0.0,2026-07-31,No
+CUST100000,Male,64,15,Standard,One year,51.0,749.11,E-check,7,3.0,2026-07-25,No
+CUST101418,Male,74,66,Basic,One year,39.09,2588.16,E-check,13,1.0,2026-07-25,No
+CUST100401,Female,23,16,Basic,One year,29.76,498.42,Mailed check,11,1.0,2026-07-29,No
+CUST101428,Female,22,52,Premium,Month-to-month,91.14,4741.82,E-check,9,2.0,2026-07-03,Yes
+CUST101103,Male,19,27,Standard,Two year,47.5,1280.79,Credit card,12,1.0,2026-07-30,No
+CUST100084,Male,59,37,Standard,Two year,64.41,2384.6,Mailed check,6,0.0,2026-07-29,No
+CUST100162,Female,71,50,Standard,Month-to-month,50.17,2489.72,Mailed check,11,1.0,2026-07-21,No
+CUST100114,Male,47,8,Standard,One year,54.65,446.08,Bank transfer,11,0.0,2026-07-27,No
+CUST100670,Male,74,23,Basic,Month-to-month,15.0,367.63,Mailed check,8,1.0,2026-07-23,No
+CUST101174,Male,38,55,Standard,Month-to-month,46.9,2604.43,Mailed check,10,2.0,2026-06-19,Yes
+CUST101528,Female,38,53,Standard,One year,52.47,2796.2,Bank transfer,16,2.0,2026-07-31,Yes
+CUST101518,Female,47,60,Premium,Month-to-month,82.36,4907.15,E-check,17,2.0,2026-07-30,No
+CUST101392,Female,67,41,Standard,Month-to-month,54.12,2254.14,Bank transfer,10,2.0,2026-07-27,No
+CUST100889,Male,19,68,Basic,Month-to-month,26.31,1747.88,Credit card,14,0.0,2026-06-24,No
+CUST101501,Female,31,54,Basic,Two year,15.0,812.56,Credit card,11,2.0,2026-07-20,No
+CUST100625,Female,53,1,Standard,One year,49.67,98.9,Bank transfer,12,1.0,2026-07-27,No
+CUST101962,Female,35,14,Basic,Month-to-month,15.74,228.65,Mailed check,11,1.0,2026-07-24,No
+CUST100952,Male,30,22,Basic,Two year,17.45,367.42,Credit card,12,1.0,2026-07-23,No
+CUST100807,Male,63,65,Standard,Month-to-month,62.45,4037.23,E-check,10,0.0,2026-07-18,No
+CUST100258,Female,36,1,Standard,Two year,55.67,28.8,Credit card,11,1.0,2026-07-09,No
+CUST100624,Male,51,30,Basic,Two year,21.05,658.5,Bank transfer,11,2.0,2026-07-14,No
+CUST100826,Male,58,34,Basic,Month-to-month,24.06,813.47,Credit card,9,1.0,2026-07-19,No
+CUST100234,Female,54,60,Basic,One year,27.55,1599.92,Credit card,15,1.0,2026-07-31,No
+CUST100135,Male,63,63,Premium,Month-to-month,86.93,5499.96,E-check,9,1.0,2026-07-25,Yes
+CUST100616,Male,49,47,Basic,Month-to-month,22.43,1054.77,Bank transfer,7,1.0,2026-07-18,No
+CUST101963,Female,59,18,Premium,Two year,91.19,1616.08,Bank transfer,11,1.0,2026-07-21,No
+CUST100836,Male,21,19,Premium,Month-to-month,83.51,1622.86,Credit card,12,1.0,2026-07-28,No
+CUST100842,Male,36,16,Standard,Month-to-month,46.77,734.16,Mailed check,13,2.0,2026-07-26,No
+CUST100959,Male,48,5,Premium,Two year,83.23,445.32,Mailed check,16,1.0,2026-06-14,No
+CUST100592,Male,27,36,Basic,Two year,28.37,1033.08,E-check,15,2.0,2026-07-11,Yes
+CUST101314,Female,55,24,Standard,Month-to-month,51.57,1246.13,Mailed check,19,1.0,2026-07-31,No
+CUST101525,Male,35,4,Premium,One year,90.05,358.65,Credit card,14,1.0,2026-07-08,No
+CUST101291,Male,36,38,Basic,Month-to-month,20.27,757.53,E-check,9,2.0,2026-06-18,Yes
+CUST100343,Female,73,68,Standard,Month-to-month,73.18,4976.04,E-check,11,1.0,2026-07-27,No
+CUST101650,Male,74,21,Basic,Month-to-month,34.17,688.3,E-check,16,0.0,2026-07-04,Yes
+CUST101576,Male,54,58,Basic,Month-to-month,27.73,1616.55,Bank transfer,13,0.0,2026-06-30,Yes
+CUST100293,Female,31,35,Premium,Month-to-month,100.0,3484.49,Credit card,15,2.0,2026-07-20,No
+CUST100364,Male,40,67,Premium,One year,82.99,5544.69,E-check,12,1.0,2026-07-17,No
+CUST100178,Male,22,0,Premium,Two year,99.49,,E-check,10,1.0,2026-07-14,No
+CUST100659,Female,64,36,Basic,Month-to-month,34.19,1227.87,E-check,9,1.0,2026-07-10,Yes
+CUST100996,Male,74,67,Standard,Month-to-month,43.47,2917.73,Mailed check,11,4.0,2026-06-18,No
+CUST100014,Female,25,67,Premium,Month-to-month,83.99,5620.05,E-check,10,0.0,2026-07-28,Yes
+CUST101110,Male,69,35,Standard,Month-to-month,51.6,1818.06,E-check,22,1.0,2026-07-13,Yes
+CUST101394,Male,38,60,Basic,Two year,15.0,861.13,Credit card,18,0.0,2026-07-10,Yes
+CUST100165,Male,62,28,Basic,Month-to-month,22.1,603.8,Mailed check,15,2.0,2026-07-19,Yes
+CUST101881,Female,74,60,Premium,Month-to-month,74.4,4475.79,Bank transfer,8,1.0,2026-07-26,No
+CUST101359,Male,38,59,Premium,Two year,93.3,5506.98,Mailed check,11,0.0,2026-07-10,No
+CUST100059,Male,52,69,Standard,Month-to-month,59.45,4088.06,Mailed check,10,1.0,2026-07-28,No
+CUST100709,Female,60,27,Standard,Month-to-month,56.07,1503.07,Credit card,11,3.0,2026-07-15,Yes
+CUST100676,Female,18,27,Standard,Month-to-month,54.13,1435.1,Bank transfer,17,1.0,2026-07-07,No
+CUST101378,Female,59,28,Premium,Month-to-month,89.46,2502.03,Mailed check,15,1.0,2026-07-20,Yes
+CUST100780,Male,46,17,Standard,Month-to-month,39.72,658.47,Bank transfer,11,2.0,2026-07-18,Yes
+CUST100424,Female,46,69,Basic,Month-to-month,15.0,1032.04,Bank transfer,8,0.0,2026-07-19,Yes
+CUST100292,Male,19,17,Standard,Two year,46.3,801.39,Credit card,11,0.0,2026-07-26,Yes
+CUST101065,Male,49,25,Standard,Month-to-month,54.0,1363.16,E-check,10,2.0,2026-07-26,No
+CUST101792,Male,71,62,Basic,Month-to-month,27.88,1709.7,Credit card,12,4.0,2026-07-07,Yes
+CUST100329,Female,49,42,Basic,Month-to-month,17.18,730.14,Credit card,11,1.0,2026-05-03,No
+CUST100429,Female,63,14,Basic,Month-to-month,25.24,363.1,E-check,10,0.0,2026-08-01,No
+CUST101012,Female,42,26,Basic,Month-to-month,25.33,651.67,Mailed check,18,0.0,2026-07-23,No
+CUST100079,Female,30,8,Standard,Month-to-month,48.69,384.97,E-check,7,3.0,2026-07-13,No
+CUST101052,Male,71,40,Standard,Month-to-month,58.48,2311.69,Credit card,11,0.0,2026-07-18,No
+CUST100937,Male,69,16,Premium,Two year,95.77,1527.84,Credit card,13,1.0,2026-07-18,No
+CUST100834,Male,58,57,Basic,Month-to-month,15.0,838.05,Bank transfer,12,0.0,2026-07-25,No
+CUST100749,Female,67,37,Basic,Month-to-month,38.07,1407.64,Mailed check,16,0.0,2026-08-01,No
+CUST100890,Male,23,52,Standard,Two year,55.32,2842.51,Mailed check,15,1.0,2026-07-26,No
+CUST100254,Male,62,39,Basic,Month-to-month,28.49,1114.35,Mailed check,7,0.0,2026-07-29,Yes
+CUST101813,Male,24,55,Standard,Two year,42.48,2340.69,E-check,16,5.0,2026-08-01,No
+CUST101482,Female,71,54,Standard,Two year,49.49,2651.67,Credit card,15,0.0,2026-07-20,No
+CUST101960,Female,63,6,Basic,Month-to-month,16.08,99.77,Bank transfer,15,1.0,2026-06-29,No
+CUST101407,Male,62,10,Basic,Two year,28.52,318.07,Credit card,10,3.0,2026-07-24,No
+CUST101337,Female,27,65,Basic,Two year,21.08,1343.75,Mailed check,11,2.0,2026-06-02,No
+CUST101108,Female,40,48,Standard,Month-to-month,53.54,2528.72,Bank transfer,16,0.0,2026-07-19,Yes
+CUST100136,Male,32,49,Premium,Month-to-month,94.64,4653.49,Credit card,13,4.0,2026-07-15,No
+CUST101135,Male,33,41,Basic,Month-to-month,29.09,1220.09,Credit card,6,1.0,2026-06-28,Yes
+CUST101218,Male,38,60,Basic,Two year,15.0,905.28,Mailed check,8,2.0,2026-06-20,No
+CUST100852,Male,18,18,Premium,Month-to-month,85.17,1555.07,E-check,19,1.0,2026-07-29,No
+CUST101202,Female,35,20,Basic,Month-to-month,23.77,459.21,Credit card,7,0.0,2026-07-14,Yes
+CUST101887,Female,68,55,Basic,Month-to-month,22.8,1249.8,Bank transfer,17,2.0,2026-07-26,No
+CUST100723,Male,23,56,Standard,Month-to-month,48.09,2748.29,Bank transfer,5,2.0,2026-06-11,Yes
+CUST100859,Male,18,4,Standard,Month-to-month,51.28,213.79,E-check,15,1.0,2026-07-30,No
+CUST100969,Male,59,14,Premium,Month-to-month,87.64,1261.69,Mailed check,21,3.0,2026-05-15,No
+CUST100496,Male,37,45,Premium,Two year,94.46,4216.47,E-check,13,2.0,2026-07-16,No
+CUST100950,Male,19,69,Standard,Month-to-month,65.71,4531.03,E-check,12,1.0,2026-07-15,Yes
+CUST100805,Female,25,42,Basic,Month-to-month,17.11,730.01,Bank transfer,5,,2026-07-20,No
+CUST100129,Female,35,61,Basic,Two year,30.57,1856.42,Credit card,4,1.0,2026-06-29,No
+CUST100337,Male,34,47,Standard,Month-to-month,66.76,3128.81,Bank transfer,10,1.0,2026-07-15,No
+CUST101998,Male,63,23,Standard,Month-to-month,42.97,1014.48,Credit card,13,1.0,2026-07-28,Yes
+CUST100608,Female,21,67,Standard,One year,45.05,3033.04,Credit card,11,0.0,2026-07-22,No
+CUST101148,Male,18,60,Basic,Month-to-month,46.44,2786.09,,17,0.0,2026-07-29,No
+CUST100195,Female,52,55,Standard,Month-to-month,50.4,2795.95,Credit card,19,0.0,2026-06-14,No
+CUST101250,Male,51,16,Standard,Month-to-month,54.85,893.35,Credit card,14,2.0,2026-07-17,No
+CUST101292,Female,26,25,Basic,One year,15.0,389.81,Mailed check,5,2.0,2026-07-24,No
+CUST101979,Female,45,31,Standard,Month-to-month,53.29,1654.05,E-check,8,0.0,2026-07-23,No
+CUST100909,Female,63,40,Basic,Two year,29.76,1164.93,Mailed check,14,1.0,2026-07-01,No
+CUST100584,Female,36,67,Basic,Month-to-month,30.15,2010.01,E-check,13,0.0,2026-07-04,No
+CUST100103,Female,66,70,Premium,Month-to-month,82.14,5768.52,Mailed check,11,3.0,2026-07-31,No
+CUST101850,Male,67,49,Basic,Month-to-month,23.84,1166.96,Bank transfer,10,1.0,2026-07-20,No
+CUST101869,Female,51,69,Basic,Month-to-month,30.61,2063.41,Mailed check,18,1.0,2026-07-19,No
+CUST100719,Female,73,21,Basic,Month-to-month,15.0,351.31,Bank transfer,14,1.0,2026-06-06,Yes
+CUST100884,Female,20,33,Premium,Two year,100.04,3275.77,Bank transfer,15,1.0,2026-07-28,No
+CUST100776,Male,38,63,Standard,Month-to-month,63.58,3997.1,,9,1.0,2026-07-24,No
+CUST101569,Female,40,29,Basic,Month-to-month,15.0,431.05,E-check,7,5.0,2026-06-24,No
+CUST100849,Female,36,50,Basic,Month-to-month,34.39,1742.28,Bank transfer,12,0.0,2026-07-30,No
+CUST100894,Female,43,59,Premium,Month-to-month,84.01,4980.09,Mailed check,14,1.0,2026-07-09,No
+CUST100227,Female,55,45,Premium,Month-to-month,98.63,4430.89,Bank transfer,14,0.0,2026-07-30,No
+CUST101883,Male,27,4,Premium,One year,103.17,424.78,Mailed check,9,3.0,2026-07-26,No
+CUST101325,Male,24,40,Premium,Month-to-month,87.92,3534.27,Mailed check,12,2.0,2026-06-19,Yes
+CUST101299,Female,24,66,Basic,Month-to-month,30.48,2012.8,E-check,17,1.0,2026-06-24,Yes
+CUST100126,FEMALE,47,40,Standard,Month-to-month,50.46,2019.85,Credit card,10,1.0,2026-07-27,No
+CUST100405,FEMALE,20,10,Premium,Two year,81.53,806.6,Credit card,17,0.0,2026-07-14,No
+CUST100775,Male,67,55,Premium,Month-to-month,90.46,4993.51,Credit card,10,0.0,2026-06-17,No
+CUST100821,Female,19,0,Standard,Month-to-month,51.0,,Mailed check,8,1.0,2026-06-29,Yes
+CUST100711,Female,64,3,Standard,Month-to-month,45.17,129.58,Bank transfer,16,0.0,2026-07-11,No
+CUST101891,Female,41,1,Basic,Month-to-month,15.0,33.86,Mailed check,8,2.0,2026-07-19,Yes
+CUST101060,Male,36,34,Standard,Two year,55.73,1930.2,E-check,14,0.0,2026-07-30,No
+CUST101163,Female,55,2,Standard,Two year,65.23,102.39,Bank transfer,10,3.0,2026-06-19,No
+CUST100303,Female,66,40,Basic,Month-to-month,24.48,967.73,Credit card,16,3.0,2026-07-14,No
+CUST100267,Female,62,27,Standard,One year,48.5,1330.11,Mailed check,10,1.0,2026-07-24,No
+CUST101557,Male,40,65,Basic,Month-to-month,22.53,1468.81,Bank transfer,17,0.0,2026-07-16,No
+CUST100545,Female,64,53,Basic,Two year,27.47,1424.62,Mailed check,14,2.0,2026-07-20,No
+CUST100212,Male,26,48,Premium,One year,78.98,3798.1,E-check,17,5.0,2026-08-01,No
+CUST100896,Female,29,69,Basic,Month-to-month,27.41,1935.21,E-check,13,3.0,2026-07-10,No
+CUST101492,Male,27,42,Standard,One year,63.27,2680.84,Mailed check,15,3.0,2026-07-02,No
+CUST101222,Male,19,54,Basic,One year,35.43,1933.26,Mailed check,10,2.0,2026-07-11,No
+CUST100916,Female,60,24,Standard,Month-to-month,56.19,1362.6,Credit card,8,1.0,2026-07-23,Yes
+CUST101551,Male,69,27,Standard,Month-to-month,58.85,1606.66,Mailed check,17,0.0,2026-06-18,No
+CUST100675,Male,22,64,Standard,Month-to-month,60.01,3849.61,Credit card,10,0.0,2026-07-21,Yes
+CUST101289,Male,26,60,Standard,Month-to-month,66.74,4000.69,Mailed check,11,0.0,2026-07-17,No
+CUST100814,Female,31,12,Premium,One year,96.55,1150.53,Credit card,17,3.0,2026-07-12,No
+CUST101265,Male,31,46,Standard,One year,60.89,2803.37,E-check,15,1.0,2026-07-26,No
+CUST100342,Male,43,49,Premium,Month-to-month,104.27,5066.89,Mailed check,16,0.0,2026-07-20,Yes
+CUST100549,Male,33,13,Standard,One year,60.1,814.95,E-check,11,3.0,2026-07-15,No
+CUST101410,Female,49,11,Basic,Month-to-month,21.53,217.47,E-check,16,1.0,2026-07-23,No
+CUST101214,Female,69,55,Standard,One year,56.83,3128.84,Bank transfer,10,4.0,2026-07-31,No
+CUST100966,Male,73,63,Basic,Month-to-month,18.61,1210.16,Credit card,13,1.0,2026-07-28,No
+CUST101230,Male,19,38,Premium,Two year,76.91,2911.66,Mailed check,12,1.0,2026-07-17,No
+CUST100295,Female,46,52,Standard,One year,63.58,3301.61,E-check,10,1.0,2026-07-04,No
+CUST100695,Female,47,11,Standard,Two year,62.22,662.59,E-check,10,1.0,2026-07-03,No
+CUST101452,Female,64,17,Basic,Month-to-month,21.27,378.16,Credit card,14,3.0,2026-07-25,No
+CUST100073,Female,73,56,Basic,Month-to-month,38.83,2155.2,Credit card,12,1.0,2026-07-21,Yes
+CUST100605,Male,41,23,Basic,Two year,22.09,504.37,Bank transfer,9,2.0,2026-06-04,No
+CUST100104,Female,46,62,Premium,Month-to-month,79.75,4927.59,Mailed check,14,1.0,2026-07-25,Yes
+CUST100645,Male,47,53,Standard,Month-to-month,55.86,2975.84,Bank transfer,10,0.0,2026-06-30,No
+CUST101404,Female,34,1,Standard,Month-to-month,58.58,82.2,Mailed check,11,0.0,2026-07-18,No
+CUST101967,Female,19,18,Basic,Month-to-month,22.83,424.66,E-check,14,1.0,2026-06-14,Yes
+CUST101040,Male,26,62,Standard,Month-to-month,47.73,2947.52,Bank transfer,18,0.0,2026-07-26,No
+CUST100439,Male,37,47,Standard,One year,55.27,2606.09,Bank transfer,12,0.0,2026-07-12,No
+CUST101019,Male,67,68,Basic,Month-to-month,34.28,2326.48,Credit card,13,2.0,2026-07-22,Yes
+CUST100091,Female,47,24,Basic,Two year,36.85,888.34,Bank transfer,13,0.0,2026-07-21,No
+CUST101112,FEMALE,39,9,Standard,Month-to-month,53.38,468.84,Mailed check,6,2.0,2026-07-30,No
+CUST101758,Male,67,53,Basic,Month-to-month,28.32,1503.91,E-check,15,1.0,2026-07-06,Yes
+CUST100908,Male,23,35,Basic,One year,15.0,511.14,E-check,15,0.0,2026-07-13,No
+CUST101474,Female,67,29,Standard,One year,68.05,2002.7,E-check,17,2.0,2026-07-20,No
+CUST100102,Female,46,44,Basic,Month-to-month,40.98,1786.64,Credit card,11,0.0,2026-07-30,No
+CUST100238,Male,22,44,Standard,One year,47.02,2095.84,Bank transfer,7,2.0,2026-07-19,No
+CUST101705,Female,34,58,Standard,Month-to-month,41.53,2421.37,,12,2.0,2026-07-25,No
+CUST100942,Female,45,20,Basic,Two year,36.93,724.68,Credit card,11,2.0,2026-07-30,No
+CUST101270,Female,49,71,Basic,Month-to-month,39.74,2834.09,Credit card,15,2.0,2026-07-27,No
+CUST100938,Female,63,67,Basic,One year,20.88,1385.63,Bank transfer,14,0.0,2026-05-22,No
+CUST101695,Female,35,21,Standard,One year,66.57,1387.48,Bank transfer,11,1.0,2026-07-17,No
+CUST101181,Female,20,35,Standard,One year,55.52,1961.01,Mailed check,14,3.0,2026-07-26,No
+CUST101503,Male,67,68,Standard,One year,49.38,3343.31,Bank transfer,18,0.0,2026-07-28,No
+CUST100005,Female,25,12,Premium,One year,97.51,1174.98,E-check,8,1.0,2026-07-07,No
+CUST101818,Female,73,39,Basic,Month-to-month,16.91,640.06,Credit card,22,1.0,2026-07-20,Yes
+CUST100965,Male,24,54,Premium,Month-to-month,89.86,4833.68,Credit card,5,0.0,2026-06-22,No
+CUST100018,Female,29,25,Premium,Month-to-month,90.42,2285.51,Mailed check,13,0.0,2026-07-09,Yes
+CUST101430,Male,38,22,Standard,Month-to-month,57.16,1240.32,Credit card,11,1.0,2026-07-01,No
+CUST100121,Male,66,40,Standard,Two year,47.66,1946.29,Bank transfer,14,1.0,2026-08-01,No
+CUST100661,Male,73,1,Basic,Two year,27.36,47.56,Mailed check,7,1.0,2026-07-13,Yes
+CUST101830,Female,31,33,Premium,Month-to-month,88.68,2943.19,Bank transfer,13,1.0,2026-07-28,Yes
+CUST100274,Male,24,15,Basic,Month-to-month,28.47,449.03,Bank transfer,10,3.0,2026-07-13,No
+CUST100433,Female,20,52,Premium,Month-to-month,82.09,4276.04,Mailed check,14,3.0,2026-07-28,No
+CUST100811,Male,36,21,Basic,One year,29.07,619.27,Credit card,10,1.0,2026-07-26,No
+CUST101300,Male,33,6,Premium,Month-to-month,92.29,593.37,Credit card,8,1.0,2026-07-29,No
+CUST101335,Female,32,50,Standard,One year,55.77,2777.35,Credit card,5,3.0,2026-07-29,No
+CUST101870,Male,23,46,Standard,One year,49.53,2283.35,Credit card,14,0.0,2026-07-17,No
+CUST101893,MALE,57,59,Basic,Month-to-month,15.0,869.92,Credit card,12,0.0,2026-07-18,No
+CUST101570,Female,46,54,Basic,Month-to-month,17.58,919.77,Bank transfer,9,1.0,2026-07-15,No
+CUST100181,Male,40,5,Standard,Month-to-month,63.49,335.48,Credit card,12,2.0,2026-07-24,No
+CUST100184,Male,52,60,Basic,One year,18.93,1121.77,E-check,13,0.0,2026-07-28,No
+CUST100406,Female,18,53,Standard,Month-to-month,62.87,3332.3,Mailed check,11,2.0,2026-07-30,No
+CUST100865,Male,46,40,Basic,One year,35.41,1434.38,E-check,16,1.0,2026-07-21,No
+CUST101630,Male,21,1,Premium,Two year,96.35,112.56,E-check,14,0.0,2026-07-22,No
+CUST100520,Female,67,38,Standard,Two year,59.89,2287.52,Bank transfer,10,0.0,2026-07-17,No
+CUST101003,Male,44,6,Basic,Two year,43.72,247.69,E-check,12,3.0,2026-04-27,Yes
+CUST100380,Female,28,41,Premium,Two year,105.85,4357.51,Bank transfer,11,1.0,2026-07-24,No
+CUST101434,Female,53,7,Standard,Two year,55.42,391.68,Bank transfer,8,3.0,2026-06-05,No
+CUST101658,Male,31,62,Standard,Month-to-month,46.55,2872.23,Bank transfer,20,1.0,2026-07-29,No
+CUST101393,Female,57,41,Standard,Month-to-month,60.66,2484.55,Mailed check,10,0.0,2026-07-28,No
+CUST101424,Female,41,12,Standard,Two year,69.16,797.81,E-check,8,0.0,2026-07-14,Yes
+CUST101612,Female,29,22,Basic,One year,25.39,562.24,Bank transfer,14,1.0,2026-06-29,Yes
+CUST100427,Female,32,61,Premium,Month-to-month,91.3,5562.63,Mailed check,7,0.0,2026-07-09,Yes
+CUST100078,Male,42,38,Basic,Two year,23.94,913.45,Credit card,11,1.0,2026-07-09,No
+CUST101597,Male,63,70,Standard,Two year,59.61,4181.95,E-check,7,2.0,2026-07-22,No
+CUST101009,Female,53,11,Basic,Month-to-month,15.0,188.84,Bank transfer,13,0.0,2026-06-18,No
+CUST101975,Male,60,16,Basic,Month-to-month,23.86,378.82,Credit card,9,2.0,2026-08-01,Yes
+CUST101661,Male,54,31,Premium,One year,109.79,3403.1,Bank transfer,10,2.0,2026-07-29,No
+CUST100607,Female,54,16,Standard,Month-to-month,57.54,904.13,Mailed check,9,1.0,2026-05-19,No
+CUST101889,Male,39,68,Standard,Month-to-month,48.22,3251.44,Mailed check,16,3.0,2026-07-23,No
+CUST101995,Male,26,30,Premium,One year,118.35,3524.31,E-check,15,1.0,2026-07-24,No
+CUST101825,Male,38,15,Premium,One year,104.82,1588.95,Mailed check,6,2.0,2026-07-29,No
+CUST101057,Male,56,70,Standard,Month-to-month,58.19,4084.12,E-check,6,2.0,2026-07-30,Yes
+CUST101440,Male,68,20,Basic,Month-to-month,15.0,261.23,E-check,12,3.0,2026-07-08,No
+CUST101514,Female,73,24,Basic,Month-to-month,29.15,687.26,E-check,9,0.0,2026-07-15,No
+CUST101585,Female,20,7,Standard,Two year,52.51,363.64,E-check,10,0.0,2026-07-22,No
+CUST101091,Male,55,64,Standard,Month-to-month,47.71,3039.43,E-check,15,0.0,2026-07-11,No
+CUST101560,Male,30,25,Basic,Month-to-month,26.29,647.54,Bank transfer,15,2.0,2026-07-20,No
+CUST101101,Female,40,29,Standard,Two year,53.44,1526.49,Credit card,14,0.0,2026-07-07,No
+CUST101129,Female,34,26,Basic,Month-to-month,15.0,368.91,Credit card,13,0.0,2026-07-27,No
+CUST101235,Female,48,38,Standard,Two year,82.19,3086.18,Credit card,15,2.0,2026-07-16,Yes
+CUST101768,MALE,61,26,Standard,One year,52.09,1340.94,Bank transfer,12,2.0,2026-07-23,No
+CUST100958,Female,24,69,Basic,Two year,19.17,1310.66,Mailed check,12,4.0,2026-07-31,No
+CUST101662,Female,33,8,Premium,Two year,92.11,718.72,Bank transfer,13,2.0,2026-07-22,No
+CUST100559,FEMALE,35,7,Premium,Month-to-month,82.53,584.07,E-check,16,1.0,2026-07-17,No
+CUST100846,Female,150,68,Premium,Month-to-month,100.19,6834.86,Mailed check,11,1.0,2026-07-07,No
+CUST101748,Male,66,39,Basic,One year,38.03,1482.23,,11,3.0,2026-07-04,No
+CUST100690,Female,33,32,Standard,Month-to-month,53.38,1699.75,Bank transfer,17,2.0,2026-07-14,Yes
+CUST101519,Male,72,17,Basic,Month-to-month,30.13,507.85,Mailed check,7,2.0,2026-07-18,Yes
+CUST101941,Female,22,5,Standard,Month-to-month,52.33,291.73,Credit card,12,2.0,2026-06-17,No
+CUST101868,Male,34,4,Standard,One year,57.48,264.56,Mailed check,13,0.0,2026-07-20,Yes
+CUST100436,Female,70,3,Basic,One year,26.61,101.94,Credit card,9,3.0,2026-07-04,No
+CUST100490,Female,49,34,Basic,Month-to-month,24.01,806.05,Credit card,14,3.0,2026-07-01,No
+CUST100051,Female,52,32,Standard,Month-to-month,39.59,1226.25,Mailed check,6,1.0,2026-07-30,No
+CUST101894,Male,55,50,Basic,Month-to-month,28.5,1451.2,Bank transfer,5,2.0,2026-07-26,No
+CUST101629,Female,54,21,Basic,Two year,48.13,1017.3,Bank transfer,8,1.0,2026-07-13,No
+CUST101387,Female,19,2,Premium,Month-to-month,91.46,201.8,Bank transfer,7,2.0,2026-07-07,Yes
+CUST100069,Female,40,37,Basic,Month-to-month,33.79,1256.04,Credit card,17,,2026-07-26,No
+CUST101572,Female,56,45,Standard,One year,53.55,2402.64,E-check,15,1.0,2026-07-22,No
+CUST100808,Female,21,54,Premium,Month-to-month,92.34,5017.48,E-check,7,0.0,2026-07-18,Yes
+CUST101184,Female,43,62,Basic,One year,25.32,1576.66,Credit card,10,0.0,2026-07-24,No
+CUST100011,MALE,71,68,Standard,Month-to-month,54.97,3720.09,E-check,16,1.0,2026-07-18,Yes
+CUST100144,FEMALE,54,60,Premium,Month-to-month,84.28,5051.76,Mailed check,11,3.0,2026-08-01,No
+CUST100917,Female,72,26,Basic,Month-to-month,37.26,950.75,Bank transfer,10,0.0,2026-06-29,No
+CUST101541,Male,42,19,Premium,Month-to-month,86.86,1656.05,Bank transfer,8,2.0,2026-06-29,Yes
+CUST101451,Male,55,70,Basic,Two year,24.39,1720.69,E-check,15,1.0,2026-05-28,No
+CUST100639,Female,50,27,Premium,Month-to-month,101.81,2768.39,E-check,15,1.0,2026-07-22,No
+CUST100176,Male,23,33,Basic,Month-to-month,21.88,734.49,Bank transfer,11,4.0,2026-07-25,No
+CUST100994,Female,27,42,Standard,Month-to-month,48.59,2046.29,E-check,10,4.0,2026-07-08,Yes
+CUST100440,MALE,63,71,Premium,Month-to-month,107.67,7611.15,Bank transfer,12,2.0,2026-07-20,No
+CUST100521,Male,32,66,Basic,Month-to-month,26.23,1743.41,Credit card,10,0.0,2026-07-21,No
+CUST101983,Male,54,57,Standard,Month-to-month,57.21,3259.65,Bank transfer,13,2.0,2026-06-03,Yes
+CUST101945,Female,29,22,Standard,Two year,44.25,958.68,,13,0.0,2026-07-16,No
+CUST101712,Male,32,40,Premium,Two year,88.14,3565.8,Credit card,17,2.0,2026-07-14,No
+CUST101004,Male,54,55,Premium,Two year,96.04,5250.92,Mailed check,10,0.0,2026-07-13,No
+CUST101255,Female,42,32,Standard,Two year,60.99,1963.93,Mailed check,14,1.0,2026-07-31,No
+CUST101234,Female,53,34,Standard,Two year,60.73,2043.79,E-check,16,0.0,2026-07-01,No
+CUST101664,Male,69,19,Basic,Month-to-month,22.37,418.91,Credit card,13,0.0,2026-07-04,No
+CUST100143,Female,29,32,Standard,Month-to-month,40.81,1283.62,E-check,10,0.0,2026-08-01,No
+CUST100753,Female,42,20,Basic,One year,15.0,292.5,E-check,8,1.0,2026-07-26,No
+CUST100519,Female,63,33,Basic,One year,17.36,556.7,Credit card,10,1.0,2026-07-11,No
+CUST100191,Male,34,39,Standard,Month-to-month,68.92,2655.84,Credit card,12,1.0,2026-07-22,No
+CUST101322,Male,45,28,Standard,Month-to-month,51.18,1463.3,Bank transfer,10,1.0,2026-06-08,No
+CUST100822,Female,67,31,Standard,Month-to-month,57.24,1762.82,Mailed check,11,0.0,2026-07-24,No
+CUST100428,Male,44,22,Standard,Two year,45.17,985.63,Credit card,14,0.0,2026-07-26,No
+CUST100612,Female,41,11,Standard,Month-to-month,54.89,597.88,Credit card,5,0.0,2026-06-30,No
+CUST101505,Male,69,58,Standard,Month-to-month,49.15,2809.19,Credit card,15,3.0,2026-07-29,No
+CUST101032,Male,54,53,Basic,Month-to-month,26.42,1443.28,E-check,18,2.0,2026-06-22,No
+CUST100156,Male,24,14,Standard,Two year,36.65,506.2,Bank transfer,16,0.0,2026-07-14,No
+CUST100539,Female,29,54,Basic,Two year,20.86,1131.42,Bank transfer,13,1.0,2026-07-12,No
+CUST101530,Female,63,64,Basic,Month-to-month,25.37,1612.02,Credit card,14,2.0,2026-08-01,No
+CUST101460,Male,42,11,Premium,Month-to-month,88.85,979.41,Credit card,11,0.0,2026-07-18,Yes
+CUST101290,Male,40,28,Standard,Two year,56.03,1549.66,Credit card,11,1.0,2026-07-16,No
+CUST100461,Male,28,65,Premium,One year,71.39,4625.09,Bank transfer,15,2.0,2026-07-24,Yes
+CUST100576,MALE,70,27,Basic,Month-to-month,15.29,417.18,E-check,10,1.0,2026-07-15,No
+CUST101362,Male,70,61,Premium,Month-to-month,96.25,5871.62,Credit card,12,4.0,2026-07-22,Yes
+CUST100255,Male,50,14,Standard,Month-to-month,58.21,795.65,E-check,14,0.0,2026-06-04,Yes
+CUST100979,Female,73,60,Standard,Month-to-month,54.62,3285.85,Credit card,15,2.0,2026-07-17,No
+CUST101185,Female,21,21,Standard,Month-to-month,72.66,1520.82,Mailed check,9,2.0,2026-06-27,Yes
+CUST101006,Female,67,15,Standard,Month-to-month,53.24,813.53,Bank transfer,14,1.0,2026-07-17,Yes
+CUST101521,Male,66,54,Premium,One year,67.69,3628.77,Mailed check,14,0.0,2026-07-27,No
+CUST101689,Female,53,62,Premium,Month-to-month,95.19,5879.51,,13,2.0,2026-07-09,No
+CUST100560,Female,71,11,Premium,Month-to-month,84.2,932.9,Bank transfer,14,2.0,2026-06-25,No
+CUST100208,Female,73,61,Basic,Month-to-month,40.84,2500.82,Bank transfer,17,1.0,2026-07-25,No
+CUST100910,Male,67,68,Premium,Month-to-month,97.28,6617.99,Mailed check,16,1.0,2026-07-21,No
+CUST101311,Female,46,31,Standard,Month-to-month,59.05,1841.76,Bank transfer,16,1.0,2026-07-20,No
+CUST100001,Female,29,0,Premium,Month-to-month,89.51,0.0,Bank transfer,9,2.0,2026-07-23,No
+CUST101365,Female,51,30,Standard,One year,46.48,1408.58,Mailed check,9,4.0,2026-06-28,No
+CUST100269,Male,70,69,Basic,One year,30.22,2095.07,Mailed check,12,0.0,2026-07-19,No
+CUST100265,Female,30,50,Basic,Month-to-month,24.67,1236.38,Mailed check,17,2.0,2026-07-07,No
+CUST100914,Female,38,29,Basic,Month-to-month,15.0,470.51,Bank transfer,13,3.0,2026-07-23,Yes
+CUST100230,Female,65,39,Standard,Month-to-month,65.1,2545.09,Mailed check,12,2.0,2026-05-30,Yes
+CUST101978,Male,50,64,Standard,Month-to-month,58.75,3756.49,E-check,21,1.0,2026-07-11,No
+CUST101119,Female,64,37,Basic,Month-to-month,23.29,812.37,E-check,7,0.0,2026-07-20,No
+CUST101973,Female,44,23,Standard,Month-to-month,52.99,1211.55,Mailed check,20,0.0,2026-07-12,No
+CUST100864,Female,36,7,Basic,Two year,15.0,119.48,Bank transfer,13,1.0,2026-07-21,No
+CUST101066,Male,56,42,Standard,Month-to-month,66.51,2789.13,Mailed check,10,2.0,2026-07-16,Yes
+CUST100873,Male,55,66,Premium,Month-to-month,73.92,4876.95,Bank transfer,12,0.0,2026-07-14,No
+CUST101797,Female,23,55,Standard,Month-to-month,56.04,3098.0,E-check,10,1.0,2026-06-26,No
+CUST100398,Female,33,7,Basic,Month-to-month,51.21,337.18,E-check,7,0.0,2026-07-31,No
+CUST101828,Female,61,13,Premium,Two year,101.33,1326.92,Mailed check,9,0.0,2026-07-01,No
+CUST101652,Female,37,47,Standard,Month-to-month,63.43,2993.38,E-check,19,0.0,2026-07-22,No
+CUST100045,Female,46,21,Standard,One year,67.82,1425.59,E-check,13,1.0,2026-07-25,No
+CUST100161,Male,46,20,Standard,Month-to-month,62.45,1274.49,Mailed check,11,0.0,2026-07-27,No
+CUST100991,Female,43,63,Basic,One year,25.5,1626.46,E-check,13,0.0,2026-07-28,No
+CUST100727,Male,31,44,Premium,Two year,91.2,3997.74,E-check,12,1.0,2026-08-01,No
+CUST100629,Male,68,53,Basic,Month-to-month,25.73,1358.28,Mailed check,15,2.0,2026-07-28,No
+CUST100288,Male,56,37,Basic,Month-to-month,24.35,891.23,Bank transfer,14,0.0,2026-07-25,Yes
+CUST101613,Male,34,10,Standard,Two year,53.46,557.02,E-check,10,1.0,2026-07-23,No
+CUST101059,Female,63,9,Basic,Two year,29.53,261.33,Mailed check,7,0.0,2026-07-12,No
+CUST101957,Male,64,16,Standard,Month-to-month,59.03,946.47,Bank transfer,11,3.0,2026-07-10,Yes
+CUST100575,Female,72,28,Standard,One year,36.14,1033.02,Credit card,9,2.0,2026-07-07,No
+CUST100850,Male,62,20,Basic,Month-to-month,28.83,568.37,Bank transfer,14,1.0,2026-07-27,Yes
+CUST101339,Female,73,21,Basic,Two year,39.03,857.87,Credit card,9,0.0,2026-06-21,No
+CUST100911,Male,61,12,Basic,Month-to-month,24.28,307.64,Mailed check,14,1.0,2026-07-30,No
+CUST101254,Male,21,21,Basic,One year,33.29,667.25,Bank transfer,7,0.0,2026-06-01,No
+CUST101722,Male,74,35,Standard,Two year,66.78,2335.87,Bank transfer,14,0.0,2026-07-28,No
+CUST101877,Female,22,39,Standard,Two year,58.18,2252.9,E-check,17,1.0,2026-08-01,No
+CUST101735,Female,62,12,Premium,Month-to-month,96.17,1157.38,Credit card,10,2.0,2026-07-10,No
+CUST100932,Male,51,58,Standard,One year,49.68,2845.42,Mailed check,12,1.0,2026-07-19,No
+CUST101100,Male,19,21,Basic,Month-to-month,30.31,633.17,E-check,18,0.0,2026-06-30,No
+CUST101657,Male,46,14,Standard,Month-to-month,53.36,782.65,Credit card,14,3.0,2026-06-17,No
+CUST101207,Female,59,67,Standard,Month-to-month,46.11,3101.69,E-check,11,1.0,2026-07-27,No
+CUST100247,Male,20,17,Basic,Month-to-month,24.39,427.67,E-check,5,2.0,2026-07-18,Yes
+CUST100476,Male,42,66,Standard,Month-to-month,65.92,4313.83,Credit card,9,2.0,2026-07-20,No
+CUST101694,Male,50,2,Basic,Month-to-month,28.13,55.88,Mailed check,10,1.0,2026-07-31,No
+CUST100085,Male,61,13,Basic,Two year,18.83,258.01,E-check,16,0.0,2026-06-19,No
+CUST100469,Female,63,34,Standard,Month-to-month,52.65,1786.66,Bank transfer,13,0.0,2026-07-28,No
+CUST100225,Female,41,18,Premium,Month-to-month,89.88,1654.39,Bank transfer,14,1.0,2026-07-17,Yes
+CUST100774,Female,25,47,Basic,Month-to-month,42.75,1997.79,Mailed check,9,0.0,2026-07-13,No
+CUST100331,Male,67,48,Standard,Month-to-month,55.29,2633.17,E-check,12,1.0,2026-05-26,Yes
+CUST100233,Female,23,71,Standard,Month-to-month,54.08,3819.73,E-check,17,3.0,2026-07-22,No
+CUST100588,Female,73,48,Premium,One year,97.12,4654.13,Bank transfer,15,1.0,2026-05-13,No
+CUST100475,Female,62,6,Basic,Month-to-month,16.12,100.69,Bank transfer,14,2.0,2026-07-05,No
+CUST101284,Male,28,33,Premium,Month-to-month,96.26,3155.58,Bank transfer,8,1.0,2026-07-16,Yes
+CUST101871,Male,63,67,Basic,Month-to-month,21.32,1429.29,E-check,17,2.0,2026-08-01,Yes
+CUST100599,Female,24,9,Basic,One year,19.58,182.27,Mailed check,14,0.0,2026-06-16,No
+CUST100421,Female,63,25,Standard,Month-to-month,40.87,1052.49,Mailed check,10,1.0,2026-06-06,No
+CUST101711,Male,44,51,Basic,One year,26.92,1365.6,Bank transfer,20,1.0,2026-07-24,No
+CUST100182,Female,66,24,Basic,One year,19.41,457.61,Bank transfer,8,1.0,2026-07-06,No
+CUST100988,Female,39,26,Premium,Two year,95.42,2460.28,Bank transfer,10,3.0,2026-07-23,No
+CUST101000,Female,33,21,Standard,Month-to-month,56.58,1210.09,Credit card,17,0.0,2026-07-18,No
+CUST101641,Male,38,59,Standard,One year,54.33,3197.46,Bank transfer,16,0.0,2026-07-24,No
+CUST101356,Female,52,54,Standard,Two year,55.86,3050.38,Credit card,13,3.0,2026-07-07,No
+CUST101462,Male,19,60,Basic,Month-to-month,24.66,1474.74,Credit card,11,4.0,2026-07-26,Yes
+CUST100049,Female,69,14,Premium,Month-to-month,96.91,1371.61,Credit card,8,1.0,2026-07-24,No
+CUST101878,Female,19,9,Basic,Month-to-month,18.65,146.84,Credit card,16,1.0,2026-07-08,No
+CUST101029,Male,34,67,Premium,Month-to-month,82.35,5554.54,Mailed check,13,1.0,2026-07-18,No
+CUST100529,Female,20,29,Basic,Month-to-month,34.14,975.38,Bank transfer,8,1.0,2026-07-27,Yes
+CUST101258,Female,62,41,Premium,Month-to-month,80.94,3300.65,Credit card,9,2.0,2026-07-18,Yes
+CUST100486,Male,34,4,Standard,Month-to-month,61.62,238.12,Credit card,17,2.0,2026-07-24,No
+CUST101954,Male,25,63,Standard,Month-to-month,58.78,3717.17,Mailed check,9,1.0,2026-07-01,No
+CUST100497,FEMALE,50,3,Basic,Two year,24.29,80.3,Bank transfer,13,1.0,2026-07-20,No
+CUST101646,Male,27,54,Basic,Month-to-month,32.76,1792.59,Bank transfer,7,0.0,2026-06-28,Yes
+CUST100106,Female,61,46,Standard,Two year,54.48,2524.87,Bank transfer,17,3.0,2026-07-18,No
+CUST100443,Female,47,18,Premium,Month-to-month,89.01,1562.92,Credit card,15,,2026-07-27,No
+CUST101512,Male,63,41,Standard,Month-to-month,51.2,2103.08,Bank transfer,14,3.0,2026-07-08,No
+CUST100646,Male,40,64,Premium,Two year,90.11,5757.71,Credit card,5,4.0,2026-07-21,No
+CUST101036,FEMALE,24,53,Basic,Two year,26.01,1405.75,E-check,13,1.0,2026-07-11,No
+CUST101762,Male,74,31,Basic,Month-to-month,30.25,945.93,,14,0.0,2026-07-25,No
+CUST100726,Male,67,9,Basic,Month-to-month,23.16,221.52,Bank transfer,10,0.0,2026-07-28,No
+CUST100190,Male,35,56,Standard,Month-to-month,75.06,4203.67,Credit card,11,2.0,2026-07-28,No
+CUST101788,Male,73,10,Standard,Month-to-month,54.43,530.15,Credit card,14,1.0,2026-07-31,Yes
+CUST101856,Male,39,65,Basic,Month-to-month,29.41,1919.57,Mailed check,13,3.0,2026-04-20,Yes
+CUST100282,Female,59,44,Basic,Month-to-month,22.93,985.25,Mailed check,9,0.0,2026-08-01,No
+CUST100029,Female,34,2,Basic,Month-to-month,15.0,53.26,E-check,10,0.0,2026-05-16,No
+CUST100169,Female,51,70,Premium,Month-to-month,81.76,5745.46,E-check,11,2.0,2026-07-28,No
+CUST101001,Male,66,56,Premium,Month-to-month,99.88,5563.82,Mailed check,9,1.0,2026-06-08,Yes
+CUST101204,Male,52,66,Standard,Month-to-month,44.43,2914.23,E-check,6,1.0,2026-07-19,No
+CUST100100,Male,63,18,Premium,Month-to-month,104.15,1855.78,Credit card,8,0.0,2026-07-09,No
+CUST100197,Female,30,12,Standard,One year,51.59,637.1,Bank transfer,12,1.0,2026-07-23,No
+CUST100495,Male,45,33,Basic,One year,15.0,518.58,Mailed check,16,1.0,2026-07-06,No
+CUST101745,Female,46,42,Standard,Two year,66.01,2773.67,Mailed check,13,1.0,2026-07-28,Yes
+CUST100647,Male,59,20,Standard,Month-to-month,48.85,972.37,Bank transfer,8,2.0,2026-07-29,No
+CUST100987,Female,38,68,Standard,One year,44.22,2987.2,Bank transfer,10,0.0,2026-07-03,Yes
+CUST100044,Female,40,47,Basic,One year,33.37,1555.36,Credit card,12,1.0,2026-07-25,Yes
+CUST101938,Female,67,30,Standard,One year,61.47,1855.21,Credit card,13,2.0,2026-07-13,No
+CUST100710,Male,54,43,Basic,Month-to-month,29.62,1279.3,E-check,17,2.0,2026-07-23,No
+CUST100373,Female,30,36,Basic,Month-to-month,32.54,1170.76,Mailed check,19,2.0,2026-07-20,Yes
+CUST100678,Female,29,46,Premium,Two year,78.0,3600.78,Bank transfer,10,3.0,2026-07-18,No
+CUST100566,Female,62,17,Standard,Month-to-month,41.12,691.94,E-check,10,3.0,2026-07-31,Yes
+CUST101672,Female,48,15,Standard,Month-to-month,56.82,849.95,Credit card,13,2.0,2026-06-24,Yes
+CUST101821,Male,41,3,Standard,One year,65.12,176.09,Mailed check,11,2.0,2026-07-17,No
+CUST100847,Female,58,10,Standard,Two year,48.66,514.22,Credit card,18,2.0,2026-07-30,No
+CUST100460,Female,25,20,Basic,One year,21.27,415.43,Mailed check,12,0.0,2026-07-16,No
+CUST101437,Male,32,62,Basic,Month-to-month,30.41,1907.57,,11,1.0,2026-07-13,No
+CUST101155,Male,35,47,Standard,Month-to-month,53.01,2510.85,Mailed check,13,2.0,2026-07-23,Yes
+CUST100039,Male,26,50,Premium,Month-to-month,103.07,5152.94,Credit card,11,4.0,2026-07-22,No
+CUST100434,Female,46,50,Basic,Two year,26.27,1310.28,Bank transfer,12,1.0,2026-07-23,Yes
+CUST100973,MALE,21,42,Standard,Month-to-month,65.64,2763.82,Credit card,10,1.0,2026-07-29,No
+CUST101239,Male,33,41,Basic,Two year,15.0,597.95,E-check,10,3.0,2026-06-26,No
+CUST101007,MALE,41,50,Basic,Month-to-month,16.93,849.63,E-check,12,1.0,2026-07-27,No
+CUST101579,Male,59,26,Premium,Month-to-month,91.11,2365.23,Bank transfer,16,1.0,2026-07-28,No
+CUST101590,Female,49,16,Basic,Month-to-month,33.98,556.75,Bank transfer,9,1.0,2026-07-28,No
+CUST101786,Female,45,71,Premium,One year,84.28,5988.55,E-check,12,1.0,2026-07-30,No
+CUST101498,Male,26,47,Basic,Month-to-month,23.74,1117.44,E-check,12,0.0,2026-07-24,No
+CUST100456,Female,70,53,Premium,Month-to-month,83.43,4456.2,Credit card,12,1.0,2026-07-11,Yes
+CUST101835,Female,22,63,Basic,Month-to-month,22.75,1413.75,Bank transfer,11,0.0,2026-05-13,Yes
+CUST100260,Male,57,28,Basic,Month-to-month,30.07,836.31,Mailed check,12,0.0,2026-07-06,No
+CUST101840,Female,41,66,Standard,Two year,80.2,5299.81,Mailed check,11,0.0,2026-07-31,No
+CUST100035,Male,31,34,Standard,Two year,51.55,1731.61,Credit card,10,1.0,2026-07-15,No
+CUST100827,Female,42,16,Premium,One year,83.02,1327.41,Mailed check,6,0.0,2026-07-28,No
+CUST100309,Female,41,32,Standard,One year,48.85,1545.77,E-check,13,3.0,2026-07-12,No
+CUST100276,Male,60,1,Premium,One year,96.98,94.47,Credit card,16,0.0,2026-07-29,No
+CUST100636,Male,57,35,Premium,One year,95.7,3378.57,E-check,15,1.0,2026-07-20,No
+CUST100654,Female,22,43,Standard,Month-to-month,48.0,2063.55,Bank transfer,11,1.0,2026-07-16,No
+CUST100622,Male,19,12,Basic,Month-to-month,19.85,204.99,Credit card,12,0.0,2026-07-06,No
+CUST101859,Male,34,20,Premium,One year,95.41,1933.5,E-check,11,3.0,2026-07-29,No
+CUST100844,Male,51,40,Basic,Month-to-month,19.51,784.88,E-check,13,0.0,2026-07-24,No
+CUST100393,Female,73,50,Standard,One year,70.74,3528.15,Bank transfer,10,1.0,2026-07-31,No
+CUST101769,Male,74,61,Standard,Month-to-month,71.2,4363.91,Credit card,21,2.0,2026-07-06,No
+CUST100107,Female,74,13,Basic,One year,46.78,593.9,Credit card,11,1.0,2026-07-18,No
+CUST100349,Male,29,25,Standard,One year,54.86,1357.7,E-check,13,2.0,2026-07-30,No
+CUST100524,Female,72,26,Standard,Two year,62.82,1678.18,Bank transfer,10,1.0,2026-07-01,No
+CUST100784,Female,64,5,Standard,One year,61.02,289.6,Bank transfer,12,1.0,2026-07-27,Yes
+CUST100047,Male,48,68,Standard,One year,56.94,3858.48,Credit card,8,0.0,2026-06-29,Yes
+CUST100203,Male,31,42,Basic,Month-to-month,31.07,1264.22,E-check,9,1.0,2026-06-12,No
+CUST100436,Female,70,3,Basic,One year,26.61,101.94,Credit card,9,3.0,2026-07-04,No
+CUST101655,Male,24,16,Basic,One year,24.53,393.93,E-check,12,3.0,2026-08-01,Yes
+CUST100021,Male,58,8,Premium,Month-to-month,101.35,824.17,E-check,9,2.0,2026-07-05,Yes
+CUST100402,Male,36,35,Basic,One year,36.26,1267.8,Credit card,12,0.0,2026-05-14,No
+CUST101107,Female,51,6,Standard,Month-to-month,45.73,269.72,Mailed check,17,0.0,2026-07-27,No
+CUST101154,Female,39,15,Basic,Two year,18.53,280.57,Credit card,10,2.0,2026-07-19,No
+CUST101439,Male,24,69,Basic,Month-to-month,15.0,1078.15,Credit card,10,1.0,2026-07-23,Yes
+CUST101993,Male,36,27,Standard,Month-to-month,53.81,1446.09,E-check,17,2.0,2026-07-11,No
+CUST100989,Female,45,5,Basic,Month-to-month,30.35,154.5,Bank transfer,12,1.0,2026-07-29,No
+CUST101865,Female,56,45,Standard,Month-to-month,42.65,1895.61,Mailed check,4,0.0,2026-07-08,No
+CUST100741,Female,50,30,Basic,Month-to-month,40.07,1185.34,Bank transfer,14,2.0,2026-06-28,No
+CUST101721,Male,22,53,Basic,One year,15.0,822.26,Bank transfer,13,2.0,2026-07-27,No
+CUST101310,Male,69,28,Standard,Month-to-month,67.15,1915.36,Credit card,14,3.0,2026-07-13,Yes
+CUST101147,Female,61,39,Standard,Month-to-month,61.3,2394.77,Mailed check,13,2.0,2026-06-10,Yes
+CUST100033,Female,39,61,Premium,Month-to-month,110.53,6747.82,Mailed check,10,1.0,2026-08-01,No
+CUST100787,Female,51,58,Standard,Month-to-month,62.7,3614.57,Mailed check,7,0.0,2026-08-01,Yes
+CUST101540,Male,60,49,Basic,One year,19.4,948.55,E-check,10,2.0,2026-07-22,No
+CUST100923,Male,53,21,Premium,Month-to-month,86.63,1834.26,Mailed check,10,1.0,2026-07-22,Yes
+CUST101043,Male,74,61,Basic,One year,19.99,1213.16,Credit card,12,,2026-07-13,No
+CUST101935,Female,69,53,Basic,Month-to-month,37.84,2028.1,Mailed check,8,4.0,2026-07-25,No
+CUST101243,Male,20,28,Premium,Month-to-month,96.95,2717.29,Mailed check,11,1.0,2026-08-01,No
+CUST101915,Female,45,53,Basic,Two year,15.0,818.65,Credit card,11,3.0,2026-06-18,No
+CUST100579,Female,68,18,Standard,Month-to-month,54.57,954.14,Mailed check,13,0.0,2026-07-09,No
+CUST100481,Female,28,0,Standard,Month-to-month,37.69,0.0,Credit card,14,2.0,2026-07-15,No
+CUST100931,Female,36,31,Basic,Month-to-month,19.77,595.94,Bank transfer,11,2.0,2026-08-01,No
+CUST100356,Female,28,58,Standard,One year,44.64,2595.88,Mailed check,11,0.0,2026-07-15,No
+CUST101685,Male,53,71,Standard,Two year,56.73,3986.62,Bank transfer,7,3.0,2026-06-08,No
+CUST101248,Female,30,22,Premium,Two year,75.99,1678.68,E-check,17,1.0,2026-07-24,No
+CUST100759,Male,73,61,Premium,One year,101.67,6209.85,Bank transfer,9,1.0,2026-07-19,No
+CUST100092,Female,72,39,Standard,Two year,42.91,1670.8,E-check,14,1.0,2026-07-10,No
+CUST101175,Male,19,58,Standard,Two year,61.86,3562.39,E-check,13,1.0,2026-07-30,No
+CUST101415,Female,25,37,Standard,Month-to-month,47.58,1721.7,E-check,15,1.0,2026-07-30,No
+CUST101341,Female,22,56,Basic,Month-to-month,21.65,1189.03,E-check,13,1.0,2026-07-13,No
+CUST101472,Male,42,20,Standard,Month-to-month,54.2,1097.45,E-check,12,0.0,2026-07-24,Yes
+CUST100803,Male,29,27,Standard,One year,59.02,1567.38,E-check,13,1.0,2026-06-20,No
+CUST100745,Female,29,51,Basic,Two year,25.7,1317.83,Mailed check,17,0.0,2026-07-01,No
+CUST101546,Female,35,11,Basic,Month-to-month,36.55,408.71,Bank transfer,8,0.0,2026-07-10,No
+CUST100279,Female,68,34,Standard,Month-to-month,52.75,1802.47,E-check,13,1.0,2026-07-29,No
+CUST101607,Male,53,36,Standard,One year,40.88,1476.14,Bank transfer,15,1.0,2026-06-13,Yes
+CUST100764,Male,61,7,Standard,Month-to-month,61.57,444.27,Mailed check,9,3.0,2026-06-23,Yes
+CUST100604,MALE,48,32,Standard,Month-to-month,46.32,1440.3,Credit card,8,0.0,2026-06-30,No
+CUST101991,Male,63,3,Standard,Two year,55.37,183.52,E-check,7,1.0,2026-07-19,Yes
+CUST101373,Female,69,61,Premium,Month-to-month,99.52,6062.98,Credit card,14,1.0,2026-07-22,No
+CUST101951,MALE,53,5,Premium,Month-to-month,89.8,426.3,Credit card,17,1.0,2026-07-16,Yes
+CUST101398,Female,51,15,Basic,One year,41.95,620.35,Bank transfer,12,0.0,2026-06-30,No
+CUST100400,Female,37,4,Standard,One year,59.54,234.92,Credit card,13,0.0,2026-07-01,No
+CUST101728,Female,60,71,Standard,Month-to-month,58.38,4139.02,Mailed check,11,0.0,2026-07-30,Yes
+CUST100257,Female,41,38,Standard,One year,51.66,1931.9,Bank transfer,13,0.0,2026-07-31,No
+CUST100944,Male,25,62,Basic,Two year,19.31,1217.25,Mailed check,11,2.0,2026-07-09,No
+CUST101875,Female,27,63,Standard,Month-to-month,47.18,2993.58,Mailed check,14,1.0,2026-06-29,No
+CUST101096,Female,61,21,Basic,Two year,21.41,463.46,Credit card,19,3.0,2026-07-16,No
+CUST101219,Male,52,62,Standard,Month-to-month,47.86,2941.64,Credit card,12,1.0,2026-06-29,Yes
+CUST101507,Female,37,50,Standard,Month-to-month,50.95,2515.84,E-check,17,4.0,2026-06-22,No
+CUST101879,Male,39,51,Standard,One year,61.98,3139.03,Mailed check,16,0.0,2026-05-17,No
+CUST101161,Male,33,62,Basic,One year,15.0,930.38,Mailed check,15,0.0,2026-07-13,No
+CUST100494,Male,39,8,Standard,Month-to-month,51.63,453.0,Credit card,11,3.0,2026-07-25,No
+CUST100772,Male,59,15,Premium,Month-to-month,99.67,1509.65,Mailed check,15,0.0,2026-07-22,No
+CUST100550,Male,21,49,Standard,Two year,64.23,3143.59,Bank transfer,16,1.0,2026-07-29,No
+CUST101486,Male,48,9,Basic,One year,20.15,151.86,Mailed check,11,0.0,2026-07-08,No
+CUST100201,Female,26,61,Standard,Month-to-month,58.96,3601.49,E-check,13,1.0,2026-07-20,No
+CUST100312,Female,65,33,Standard,Two year,53.93,1798.27,E-check,12,2.0,2026-07-20,No
+CUST100290,Male,35,20,Premium,One year,89.93,1853.06,Credit card,12,0.0,2026-07-28,No
+CUST101213,Female,24,26,Basic,Month-to-month,26.99,684.33,Credit card,13,2.0,2026-07-31,Yes
+CUST100763,Female,40,5,Standard,Month-to-month,68.91,333.85,Mailed check,6,2.0,2026-07-08,Yes
+CUST101136,Male,47,49,Basic,Month-to-month,19.49,934.69,Mailed check,6,2.0,2026-07-07,No
+CUST100949,Male,35,38,Standard,Two year,57.5,2167.98,E-check,10,2.0,2026-05-27,No
+CUST100183,Male,26,16,Premium,Month-to-month,93.32,1482.16,E-check,10,2.0,2026-07-11,No
+CUST101176,Male,44,1,Basic,Month-to-month,22.49,31.69,Bank transfer,10,0.0,2026-07-31,Yes
+CUST101848,Male,58,46,Premium,Month-to-month,79.65,3694.96,Mailed check,6,0.0,2026-06-24,No
+CUST101349,Male,70,63,Standard,Month-to-month,46.08,2901.74,Mailed check,12,0.0,2026-08-01,No
+CUST101727,Male,30,57,Standard,Month-to-month,71.82,4065.21,Mailed check,13,2.0,2026-06-18,No
+CUST101068,Male,63,38,Premium,Month-to-month,97.79,3684.25,Mailed check,13,1.0,2026-07-28,No
+CUST101468,Female,21,15,Standard,Two year,46.31,715.49,Mailed check,19,1.0,2026-07-29,No
+CUST101811,Male,50,59,Standard,Month-to-month,38.57,2288.92,Bank transfer,13,1.0,2026-07-25,No
+CUST101030,Male,39,32,Standard,Two year,52.92,1720.95,Bank transfer,17,0.0,2026-08-01,No
+CUST100250,Female,51,32,Basic,One year,34.52,1132.26,Mailed check,10,0.0,2026-07-29,No
+CUST100823,Male,23,70,Standard,Month-to-month,62.89,4405.01,Mailed check,14,0.0,2026-06-14,No
+CUST101099,Male,23,20,Premium,Month-to-month,78.15,1608.15,Bank transfer,9,1.0,2026-08-01,No
+CUST101536,Male,49,21,Basic,Month-to-month,34.32,717.47,Mailed check,12,0.0,2026-07-02,No
+CUST100940,Female,46,51,Basic,Month-to-month,37.04,1921.89,E-check,8,1.0,2026-07-26,No
+CUST100391,Male,34,12,Basic,Month-to-month,23.37,277.86,Mailed check,9,0.0,2026-07-08,No
+CUST101919,Male,57,37,Basic,Month-to-month,32.25,1189.23,Credit card,18,1.0,2026-07-02,No
+CUST101456,Female,34,37,Standard,Month-to-month,34.2,1265.21,Mailed check,13,2.0,2026-07-10,Yes
+CUST101092,Female,25,25,Standard,Month-to-month,57.86,1459.02,Credit card,10,1.0,2026-07-29,No
+CUST101191,Male,60,60,Standard,One year,49.31,2924.95,Bank transfer,15,1.0,2026-07-28,No
+CUST100904,Male,32,50,Basic,Two year,21.93,1124.04,Credit card,14,0.0,2026-07-11,No
+CUST100730,Male,54,71,Basic,One year,22.24,1596.34,Credit card,16,,2026-07-20,No
+CUST100554,MALE,20,21,Basic,One year,22.12,480.27,E-check,8,3.0,2026-07-28,No
+CUST100366,Female,51,28,Basic,One year,27.16,753.12,Credit card,14,2.0,2026-06-17,No
+CUST100345,Male,67,58,Basic,Month-to-month,25.72,1488.2,E-check,15,0.0,2026-07-22,No
+CUST101608,Female,39,39,Premium,Two year,80.16,3114.15,Mailed check,12,1.0,2026-07-21,No
+CUST100535,Female,48,18,Standard,Month-to-month,44.58,807.06,E-check,12,1.0,2026-07-10,Yes
+CUST101422,Male,62,27,Premium,Two year,80.17,2171.24,Mailed check,11,4.0,2026-07-25,No
+CUST101209,Male,31,0,Basic,Month-to-month,19.6,,Credit card,12,2.0,2026-08-01,Yes
+CUST101372,Female,46,44,Basic,Two year,46.23,1995.57,Credit card,13,0.0,2026-08-01,Yes
+CUST101639,Female,54,23,Premium,Month-to-month,96.71,2212.53,Credit card,12,0.0,2026-07-14,No
+CUST100919,Female,64,56,Basic,Month-to-month,18.17,1042.97,Mailed check,15,2.0,2026-08-01,Yes
+CUST100211,Male,46,36,Standard,Month-to-month,38.83,1403.76,Credit card,10,1.0,2026-06-28,No
+CUST101603,Male,65,31,Standard,Month-to-month,62.31,1983.44,Mailed check,10,1.0,2026-07-09,No
+CUST100502,Male,50,59,Standard,Month-to-month,53.52,3148.36,Credit card,10,0.0,2026-06-21,No
+CUST100537,Male,58,24,Basic,One year,21.94,547.98,E-check,16,0.0,2026-07-21,No
+CUST101220,Male,19,51,Standard,Month-to-month,30.07,1560.32,Mailed check,11,0.0,2026-07-31,Yes
+CUST100175,Female,73,65,Premium,Month-to-month,105.18,6828.03,E-check,8,0.0,2026-06-28,No
